@@ -1,0 +1,1426 @@
+﻿{
+    "10008": {
+        "name": "Announcer: Dr. Kleiner",
+        "prefab": "announcer",
+        "image_inventory": "econ/announcer/announcer_kleiner",
+        "item_description": "#DOTA_Item_Desc_Announcer_Dr_Kleiner",
+        "item_name": "#DOTA_Item_Announcer_Dr_Kleiner",
+        "item_rarity": "mythical",
+        "item_slot": "announcer",
+        "player_loadout": "1",
+        "price_info": {
+            "bucket": "Expensive",
+            "class": "Announcer",
+            "category_tags": "Announcers",
+            "date": "6/18/2012",
+            "price": "1199"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "announcer",
+                "asset": "npc_dota_hero_announcer_dlc_kleiner",
+                "modifier": "soundevents/voscripts/game_sounds_vo_announcer_dlc_kleiner.vsndevts"
+            },
+            "asset_modifier1": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_Kleiner/announcer_anc_attack_yr_04.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Kleiner_01"
+            },
+            "asset_modifier2": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_Kleiner/announcer_fort_dire_02.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Kleiner_02"
+            },
+            "asset_modifier3": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_Kleiner/announcer_rax_fall_yr_top_03.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Kleiner_03"
+            },
+            "asset_modifier4": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_Kleiner/announcer_roshan_fallen_rad_03.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Kleiner_04"
+            },
+            "asset_modifier5": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_Kleiner/announcer_twr_attack_dire_top_03.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Kleiner_05"
+            },
+            "asset_modifier6": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_Kleiner/announcer_victory_rad_02.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Kleiner_06"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "播音员：克莱纳博士"
+    },
+    "10013": {
+        "name": "Announcer: Juggernaut",
+        "prefab": "announcer",
+        "image_inventory": "econ/announcer/announcer_juggernaut",
+        "item_description": "#DOTA_Item_Desc_Announcer_Juggernaut",
+        "item_name": "#DOTA_Item_Announcer_Juggernaut",
+        "item_rarity": "mythical",
+        "item_slot": "announcer",
+        "price_info": {
+            "bucket": "Cheap",
+            "class": "NoPrice",
+            "category_tags": "Announcers",
+            "date": "6/18/2012",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "announcer",
+                "asset": "npc_dota_hero_announcer_dlc_juggernaut",
+                "modifier": "soundevents/voscripts/game_sounds_vo_announcer_dlc_juggernaut.vsndevts"
+            },
+            "asset_modifier1": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_Juggernaut/announcer_anc_attack_yr_04.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Juggernaut_01"
+            },
+            "asset_modifier2": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_Juggernaut/announcer_cour_kill_dire_04.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Juggernaut_02"
+            },
+            "asset_modifier3": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_Juggernaut/announcer_fort_dire_02.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Juggernaut_03"
+            },
+            "asset_modifier4": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_Juggernaut/announcer_rax_fall_yr_top_03.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Juggernaut_04"
+            },
+            "asset_modifier5": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_Juggernaut/announcer_twr_attack_dire_bot_02.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Juggernaut_05"
+            },
+            "asset_modifier6": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_Juggernaut/announcer_victory_dire_02.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Juggernaut_06"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "播音员：主宰"
+    },
+    "10015": {
+        "name": "Announcer: Nature's Prophet",
+        "prefab": "announcer",
+        "image_inventory": "econ/announcer/announcer_furion",
+        "item_description": "#DOTA_Item_Desc_Announcer_Natures_Prophet",
+        "item_name": "#DOTA_Item_Announcer_Natures_Prophet",
+        "item_rarity": "mythical",
+        "item_slot": "announcer",
+        "price_info": {
+            "bucket": "Cheap",
+            "class": "None",
+            "category_tags": "Announcers",
+            "date": "6/18/2012",
+            "is_pack_item": "1",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "announcer",
+                "asset": "npc_dota_hero_announcer_dlc_naturesprophet",
+                "modifier": "soundevents/voscripts/game_sounds_vo_announcer_dlc_naturesprophet.vsndevts"
+            },
+            "asset_modifier1": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_NaturesProphet/announcer_fort_dire_05.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_NaturesProphet_01"
+            },
+            "asset_modifier2": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_NaturesProphet/announcer_rax_fall_dire_bot_03.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_NaturesProphet_02"
+            },
+            "asset_modifier3": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_NaturesProphet/announcer_roshan_fallen_rad_03.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_NaturesProphet_03"
+            },
+            "asset_modifier4": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_NaturesProphet/announcer_twr_attack_rad_mid_02.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_NaturesProphet_04"
+            },
+            "asset_modifier5": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_NaturesProphet/announcer_twr_fall_yr_mid_03.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_NaturesProphet_05"
+            },
+            "asset_modifier6": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_NaturesProphet/announcer_victory_dire_02.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_NaturesProphet_06"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "播音员：自然先知"
+    },
+    "10029": {
+        "name": "Announcer: Storm Spirit",
+        "prefab": "announcer",
+        "image_inventory": "econ/announcer/announcer_stormspirit",
+        "item_description": "#DOTA_Item_Desc_Announcer_Storm_Spirit",
+        "item_name": "#DOTA_Item_Announcer_Storm_Spirit",
+        "item_rarity": "mythical",
+        "item_slot": "announcer",
+        "price_info": {
+            "bucket": "Cheap",
+            "class": "NoPrice",
+            "category_tags": "Announcers",
+            "date": "7/12/2012",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "announcer",
+                "asset": "npc_dota_hero_announcer_dlc_stormspirit",
+                "modifier": "soundevents/voscripts/game_sounds_vo_announcer_dlc_stormspirit.vsndevts"
+            },
+            "asset_modifier1": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_StormSpirit/announcer_anc_attack_yr_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_StormSpirit_01"
+            },
+            "asset_modifier2": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_StormSpirit/announcer_fort_rad_04.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_StormSpirit_02"
+            },
+            "asset_modifier3": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_StormSpirit/announcer_mega_now_dire_02.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_StormSpirit_03"
+            },
+            "asset_modifier4": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_StormSpirit/announcer_rax_fall_enm_top_03.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_StormSpirit_04"
+            },
+            "asset_modifier5": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_StormSpirit/announcer_twr_attack_yr_top_03.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_StormSpirit_05"
+            },
+            "asset_modifier6": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_StormSpirit/announcer_twr_deny_yr_top_03.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_StormSpirit_06"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "播音员：风暴之灵"
+    },
+    "10030": {
+        "name": "Announcer: The Pirate Cap'n",
+        "prefab": "announcer",
+        "image_inventory": "econ/announcer/announcer_workshop_pirate",
+        "item_description": "#DOTA_Item_Desc_Announcer_Pirate_Captain",
+        "item_name": "#DOTA_Item_Announcer_Pirate_Capn",
+        "item_rarity": "mythical",
+        "item_slot": "announcer",
+        "player_loadout": "1",
+        "price_info": {
+            "bucket": "Cheap",
+            "class": "NoPrice",
+            "category_tags": "Announcers",
+            "date": "9/19/2012",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "announcer",
+                "asset": "npc_dota_hero_announcer_dlc_workshop_pirate",
+                "modifier": "soundevents/voscripts/game_sounds_vo_announcer_dlc_workshop_pirate.vsndevts"
+            },
+            "asset_modifier1": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_Workshop_Pirate/announcer_capn_dire_ancientattack3.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Workshop_Pirate_01"
+            },
+            "asset_modifier2": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_Workshop_Pirate/announcer_capn_enemy_botbarracksfallen2.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Workshop_Pirate_02"
+            },
+            "asset_modifier3": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_Workshop_Pirate/announcer_capn_radiant_courier2.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Workshop_Pirate_03"
+            },
+            "asset_modifier4": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_Workshop_Pirate/announcer_capn_respawn_goodasnew.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Workshop_Pirate_04"
+            },
+            "asset_modifier5": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_Workshop_Pirate/announcer_capn_roshan_radiant3.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Workshop_Pirate_05"
+            },
+            "asset_modifier6": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_Workshop_Pirate/announcer_capn_your_bottowerattack2.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Workshop_Pirate_06"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "播音员：海盗船长"
+    },
+    "10061": {
+        "name": "Announcer: Axe",
+        "prefab": "announcer",
+        "image_inventory": "econ/announcer/announcer_axe",
+        "item_description": "#DOTA_Item_Desc_Announcer_Axe",
+        "item_name": "#DOTA_Item_Announcer_Axe",
+        "item_rarity": "mythical",
+        "item_slot": "announcer",
+        "price_info": {
+            "bucket": "Cheap",
+            "class": "NoPrice",
+            "category_tags": "Announcers",
+            "date": "9/26/2012",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "announcer",
+                "asset": "npc_dota_hero_announcer_dlc_axe",
+                "modifier": "soundevents/voscripts/game_sounds_vo_announcer_dlc_axe.vsndevts"
+            },
+            "asset_modifier1": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_Axe/announcer_ally_pos_05.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Axe_01"
+            },
+            "asset_modifier2": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_Axe/announcer_anc_attack_rad_03.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Axe_02"
+            },
+            "asset_modifier3": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_Axe/announcer_cour_follow_02.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Axe_03"
+            },
+            "asset_modifier4": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_Axe/announcer_fort_rad_02.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Axe_04"
+            },
+            "asset_modifier5": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_Axe/announcer_idle_to_player_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Axe_05"
+            },
+            "asset_modifier6": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_Axe/announcer_twr_deny_dire_mid_03.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Axe_06"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "播音员：斧王"
+    },
+    "10131": {
+        "name": "Announcer: Death Prophet",
+        "prefab": "announcer",
+        "image_inventory": "econ/announcer/announcer_death_prophet",
+        "item_description": "#DOTA_Item_Desc_Announcer_Death_Prophet",
+        "item_name": "#DOTA_Item_Announcer_Death_Prophet",
+        "item_rarity": "rare",
+        "item_slot": "announcer",
+        "visuals": {
+            "asset_modifier0": {
+                "type": "announcer",
+                "asset": "npc_dota_hero_announcer_diretide_2012",
+                "modifier": "soundevents/voscripts/game_sounds_vo_announcer_diretide_2012.vsndevts"
+            },
+            "asset_modifier1": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_diretide_2012/announcer_welcome_02.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Dpro_01"
+            },
+            "asset_modifier2": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_diretide_2012/announcer_twr_attack_yr_top_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Dpro_02"
+            },
+            "asset_modifier3": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_diretide_2012/announcer_rax_attack_rad_bot_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Dpro_03"
+            },
+            "asset_modifier4": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_diretide_2012/announcer_victory_rad_02.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Dpro_04"
+            },
+            "asset_modifier5": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_diretide_2012/announcer_cour_kill_rad_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Dpro_05"
+            },
+            "asset_modifier6": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_diretide_2012/announcer_roshan_fallen_dire_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Dpro_06"
+            }
+        },
+        "rarity_color": "#4b69ff",
+        "item_name_cn": "播音员：死亡先知"
+    },
+    "10140": {
+        "name": "Announcer: Bastion",
+        "prefab": "announcer",
+        "image_inventory": "econ/announcer/announcer_bastion",
+        "item_description": "#DOTA_Item_Desc_Announcer_Bastion",
+        "item_name": "#DOTA_Item_Announcer_Bastion",
+        "item_rarity": "mythical",
+        "item_slot": "announcer",
+        "player_loadout": "1",
+        "price_info": {
+            "bucket": "Normal",
+            "class": "None",
+            "category_tags": "Announcers",
+            "date": "12/10/2012",
+            "is_pack_item": "1",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier1": {
+                "type": "announcer",
+                "asset": "npc_dota_hero_announcer_dlc_bastion",
+                "modifier": "soundevents/voscripts/game_sounds_vo_announcer_dlc_bastion.vsndevts"
+            },
+            "asset_modifier0": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_Bastion/announcer_anc_attack_rad_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Bastion_01"
+            },
+            "asset_modifier2": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_Bastion/announcer_cour_kill_dire_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Bastion_02"
+            },
+            "asset_modifier3": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_Bastion/announcer_pick_tiny_follow.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Bastion_03"
+            },
+            "asset_modifier4": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_Bastion/announcer_team_complete_our_nosupport.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Bastion_04"
+            },
+            "asset_modifier5": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_Bastion/announcer_twr_fall_dire_mid_02.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Bastion_05"
+            },
+            "asset_modifier6": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_Bastion/announcer_welcome_02.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Bastion_06"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "播音员：《壁垒》"
+    },
+    "10160": {
+        "name": "Announcer: Tuskar",
+        "prefab": "announcer",
+        "image_inventory": "econ/announcer/announcer_tuskar",
+        "item_description": "#DOTA_Item_Desc_Announcer_Tusk",
+        "item_name": "#DOTA_Item_Announcer_Tuskar",
+        "item_rarity": "mythical",
+        "item_slot": "announcer",
+        "price_info": {
+            "bucket": "Normal",
+            "class": "Announcer",
+            "category_tags": "Announcers",
+            "date": "2/14/2013",
+            "price": "999"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "announcer",
+                "asset": "npc_dota_hero_announcer_dlc_tusk",
+                "modifier": "soundevents/voscripts/game_sounds_vo_announcer_dlc_tusk.vsndevts"
+            },
+            "asset_modifier1": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_Tusk/tusk_ann_battle_begin_03.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Tusk_01"
+            },
+            "asset_modifier2": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_Tusk/tusk_ann_twr_attack_dire_mid.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Tusk_02"
+            },
+            "asset_modifier3": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_Tusk/tusk_ann_battle_begin_04.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Tusk_03"
+            },
+            "asset_modifier4": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_Tusk/tusk_ann_roshan_fallen_rad.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Tusk_04"
+            },
+            "asset_modifier5": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_Tusk/tusk_ann_welcome_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Tusk_05"
+            },
+            "asset_modifier6": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_Tusk/tusk_ann_battle_begin_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Tusk_06"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "播音员：巨牙海民"
+    },
+    "10185": {
+        "name": "Announcer: Pyrion Flax",
+        "prefab": "announcer",
+        "creation_date": "2013-05-14",
+        "image_inventory": "econ/announcer/announcer_pflax",
+        "item_description": "#DOTA_Item_Desc_Announcer_Pyrion_Flax",
+        "item_name": "#DOTA_Item_Announcer_Pyrion_Flax",
+        "item_rarity": "mythical",
+        "item_slot": "announcer",
+        "player_loadout": "1",
+        "price_info": {
+            "bucket": "Cheap",
+            "class": "NoPrice",
+            "category_tags": "Announcers",
+            "date": "5/14/2013",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "announcer",
+                "asset": "npc_dota_hero_announcer_dlc_pflax",
+                "modifier": "soundevents/voscripts/game_sounds_vo_announcer_dlc_pflax.vsndevts"
+            },
+            "asset_modifier1": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_pflax/creeps_eternal_struggle.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Pflax_01"
+            },
+            "asset_modifier2": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_pflax/go_on_creeps.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Pflax_03"
+            },
+            "asset_modifier3": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_pflax/announcer_twr_attack_yr_mid_02.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Pflax_02"
+            },
+            "asset_modifier4": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_pflax/announcer_mega_now_you_02.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Pflax_04"
+            },
+            "asset_modifier5": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_pflax/batrider_hasnt_touched_ground.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Pflax_05"
+            },
+            "asset_modifier6": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_pflax/dragon_knight_bakes.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Pflax_06"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "播音员：Pyrion Flax"
+    },
+    "10307": {
+        "name": "Announcer: Defense Grid",
+        "prefab": "announcer",
+        "creation_date": "2013-07-03",
+        "image_inventory": "econ/announcer/announcer_dgrid",
+        "item_description": "#DOTA_Item_Desc_Announcer_Defense_Grid",
+        "item_name": "#DOTA_Item_Announcer_Defense_Grid",
+        "item_rarity": "mythical",
+        "item_slot": "announcer",
+        "player_loadout": "1",
+        "price_info": {
+            "bucket": "Cheap",
+            "class": "NoPrice",
+            "category_tags": "Announcers",
+            "date": "7/3/2013",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "announcer",
+                "asset": "npc_dota_hero_announcer_dlc_defensegrid",
+                "modifier": "soundevents/voscripts/game_sounds_vo_announcer_dlc_defensegrid.vsndevts"
+            },
+            "asset_modifier1": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_defensegrid/announcer_start_03.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_DefenseGrid_01"
+            },
+            "asset_modifier2": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_defensegrid/announcer_twr_attack_yr_top_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_DefenseGrid_02"
+            },
+            "asset_modifier3": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_defensegrid/announcer_cour_kill_dire_05.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_DefenseGrid_03"
+            },
+            "asset_modifier4": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_defensegrid/announcer_roshan_fallen_rad_04.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_DefenseGrid_04"
+            },
+            "asset_modifier5": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_defensegrid/announcer_welcome_07.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_DefenseGrid_05"
+            },
+            "asset_modifier6": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_defensegrid/announcer_followup_respawn_15.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_DefenseGrid_06"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "播音员：Defense Grid"
+    },
+    "10315": {
+        "name": "Announcer: GLaDOS",
+        "prefab": "announcer",
+        "creation_date": "2013-08-29",
+        "image_inventory": "econ/announcer/announcer_portal",
+        "item_description": "#DOTA_Item_Desc_Announcer_GLaDOS",
+        "item_name": "#DOTA_Item_Announcer_GLaDOS",
+        "item_rarity": "mythical",
+        "item_slot": "announcer",
+        "player_loadout": "1",
+        "price_info": {
+            "bucket": "Cheap",
+            "class": "NoPrice",
+            "category_tags": "Announcers",
+            "date": "8/29/2013",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "announcer",
+                "asset": "npc_dota_hero_announcer_dlc_glados",
+                "modifier": "soundevents/voscripts/game_sounds_vo_announcer_dlc_glados.vsndevts"
+            },
+            "asset_modifier1": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_glados/ann_glados_prelim_06.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Glados_01"
+            },
+            "asset_modifier2": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_glados/ann_glados_now_select_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Glados_02"
+            },
+            "asset_modifier3": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_glados/ann_glados_battle_prepare_10.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Glados_03"
+            },
+            "asset_modifier4": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_glados/ann_glados_anc_attack_yr_long_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Glados_04"
+            },
+            "asset_modifier5": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_glados/ann_glados_roshan_fallen_dire_04.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Glados_05"
+            },
+            "asset_modifier6": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_glados/ann_glados_followup_respaw_13.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Glados_06"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "播音员：GLaDOS"
+    },
+    "10348": {
+        "name": "Announcer: Trine",
+        "prefab": "announcer",
+        "creation_date": "2013-11-01",
+        "image_inventory": "econ/announcer/announcer_trine",
+        "item_description": "#DOTA_Item_Desc_Announcer_Trine",
+        "item_name": "#DOTA_Item_Announcer_Trine",
+        "item_rarity": "mythical",
+        "item_slot": "announcer",
+        "player_loadout": "1",
+        "price_info": {
+            "bucket": "Cheap",
+            "class": "NoPrice",
+            "category_tags": "Announcers",
+            "date": "11/1/2013",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "announcer",
+                "asset": "npc_dota_hero_announcer_dlc_trine",
+                "modifier": "soundevents/voscripts/game_sounds_vo_announcer_dlc_trine.vsndevts"
+            },
+            "asset_modifier1": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_trine/announcer_welcome_03.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Trine_01"
+            },
+            "asset_modifier2": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_trine/announcer_battle_begin_04.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Trine_02"
+            },
+            "asset_modifier3": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_trine/announcer_twr_attack_yr_top_03.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Trine_03"
+            },
+            "asset_modifier4": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_trine/announcer_roshan_fallen_dire_04.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Trine_04"
+            },
+            "asset_modifier5": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_trine/announcer_char_warlock_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Trine_05"
+            },
+            "asset_modifier6": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_trine/announcer_victory_rad_02.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Trine_06"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "播音员：《魔幻三杰》"
+    },
+    "10373": {
+        "name": "Announcer: Lina",
+        "prefab": "announcer",
+        "creation_date": "2013-12-03",
+        "image_inventory": "econ/announcer/announcer_lina",
+        "item_description": "#DOTA_Item_Desc_Announcer_Lina",
+        "item_name": "#DOTA_Item_Announcer_Lina",
+        "item_rarity": "mythical",
+        "item_slot": "announcer",
+        "price_info": {
+            "bucket": "Cheap",
+            "class": "NoPrice",
+            "category_tags": "Announcers",
+            "date": "12/3/2013",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "announcer",
+                "asset": "npc_dota_hero_announcer_dlc_lina",
+                "modifier": "soundevents/voscripts/game_sounds_vo_announcer_dlc_lina.vsndevts"
+            },
+            "asset_modifier1": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_lina/announcer_welcome_02.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Lina_01"
+            },
+            "asset_modifier2": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_lina/announcer_twr_attack_yr_top_02.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Lina_02"
+            },
+            "asset_modifier3": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_lina/announcer_cour_kill_dire_02.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Lina_03"
+            },
+            "asset_modifier4": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_lina/announcer_followup_neg_progress_05.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Lina_04"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "播音员：莉娜"
+    },
+    "10457": {
+        "name": "Announcer: Clockwerk",
+        "prefab": "announcer",
+        "creation_date": "2014-03-07",
+        "image_inventory": "econ/announcer/announcer_clockwerk",
+        "item_description": "#DOTA_Item_Desc_Announcer_Clockwerk",
+        "item_name": "#DOTA_Item_Announcer_Clockwerk",
+        "item_rarity": "mythical",
+        "item_slot": "announcer",
+        "price_info": {
+            "bucket": "Normal",
+            "class": "NoPrice",
+            "category_tags": "Announcers",
+            "date": "3/7/2014",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "announcer",
+                "asset": "npc_dota_hero_announcer_dlc_clockwerk",
+                "modifier": "soundevents/voscripts/game_sounds_vo_announcer_dlc_clockwerk.vsndevts"
+            },
+            "asset_modifier1": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_clockwerk/announcer_welcome_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Clockwerk_01"
+            },
+            "asset_modifier2": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_clockwerk/announcer_twr_attack_yr_mid_02.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Clockwerk_02"
+            },
+            "asset_modifier3": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_clockwerk/announcer_rax_fall_enm_top.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Clockwerk_03"
+            },
+            "asset_modifier4": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_clockwerk/announcer_victory_rad.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Clockwerk_04"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "播音员：发条技师"
+    },
+    "10547": {
+        "name": "Announcer: The Stanley Parable",
+        "prefab": "announcer",
+        "creation_date": "2014-05-15",
+        "image_inventory": "econ/announcer/announcer_stanleyparable",
+        "item_description": "#DOTA_Item_Desc_Announcer_Stanley_Parable",
+        "item_name": "#DOTA_Item_Announcer_The_Stanley_Parable",
+        "item_rarity": "mythical",
+        "item_slot": "announcer",
+        "player_loadout": "1",
+        "price_info": {
+            "bucket": "Normal",
+            "class": "NoPrice",
+            "category_tags": "Announcers",
+            "date": "5/14/2014",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "announcer",
+                "asset": "npc_dota_hero_announcer_dlc_stanleyparable",
+                "modifier": "soundevents/voscripts/game_sounds_vo_announcer_dlc_stanleyparable.vsndevts"
+            },
+            "asset_modifier1": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_StanleyParable/announcer_welcome_05.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_StanleyParable_01"
+            },
+            "asset_modifier2": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_StanleyParable/announcer_twr_attack_yr_mid_04.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_StanleyParable_02"
+            },
+            "asset_modifier3": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_StanleyParable/announcer_rax_fall_enm_bot_04.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_StanleyParable_03"
+            },
+            "asset_modifier4": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_StanleyParable/announcer_anc_attack_yr_15.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_StanleyParable_04"
+            },
+            "asset_modifier5": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_StanleyParable/announcer_cour_kill_rad_02.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_StanleyParable_05"
+            },
+            "asset_modifier6": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_StanleyParable/announcer_victory_dire_05.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_StanleyParable_06"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "播音员：《The Stanley Parable》"
+    },
+    "10843": {
+        "name": "Announcer: Techies",
+        "prefab": "announcer",
+        "creation_date": "2014-08-25",
+        "image_inventory": "econ/announcer/announcer_techies",
+        "item_description": "#DOTA_Item_Desc_Announcer_Techies",
+        "item_name": "#DOTA_Item_Announcer_Techies",
+        "item_rarity": "mythical",
+        "item_slot": "announcer",
+        "price_info": {
+            "category_tags": "Announcers",
+            "date": "8/28/2014",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "announcer",
+                "asset": "npc_dota_hero_announcer_dlc_techies",
+                "modifier": "soundevents/voscripts/game_sounds_vo_announcer_dlc_techies.vsndevts"
+            },
+            "asset_modifier1": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_techies/tech_ann_battle_begin_04.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Techies_01"
+            },
+            "asset_modifier2": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_techies/tech_ann_welcome_03.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Techies_02"
+            },
+            "asset_modifier3": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_techies/tech_ann_twr_fall_their_mid.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Techies_03"
+            },
+            "asset_modifier4": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_techies/tech_ann_idle_02.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Techies_04"
+            },
+            "asset_modifier5": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_techies/tech_ann_roshan_fallen_followup_03.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Techies_05"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "播音员：工程师"
+    },
+    "11089": {
+        "name": "Announcer: Deus Ex",
+        "prefab": "announcer",
+        "creation_date": "2016-08-23",
+        "image_inventory": "econ/announcer/announcer_deus_ex",
+        "item_description": "#DOTA_Item_Desc_Announcer_Deus_Ex",
+        "item_name": "#DOTA_Item_Announcer_Deus_Ex",
+        "item_rarity": "mythical",
+        "item_slot": "announcer",
+        "price_info": {
+            "category_tags": "Announcers",
+            "date": "8/23/2016",
+            "price": "0"
+        },
+        "static_attributes": {
+            "tradable after date": {
+                "attribute_class": "tradable_after_date",
+                "value": "1474156800"
+            }
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "announcer",
+                "asset": "npc_dota_hero_announcer_dlc_deus_ex",
+                "modifier": "soundevents/voscripts/game_sounds_vo_announcer_dlc_deus_ex.vsndevts"
+            },
+            "asset_modifier1": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_deus_ex/dlc_jensen_ann_spectat_010.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Deus_Ex_01"
+            },
+            "asset_modifier2": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_deus_ex/dlc_jensen_ann_battle_prepare_010.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Deus_Ex_02"
+            },
+            "asset_modifier3": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_deus_ex/dlc_jensen_ann_twr_fall_dire_bot_003.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Deus_Ex_03"
+            },
+            "asset_modifier4": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_deus_ex/dlc_jensen_ann_roshan_fallen_3x_dire_001.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Deus_Ex_04"
+            },
+            "asset_modifier5": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_deus_ex/dlc_jensen_ann_cour_kill_rad_001.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Deus_Ex_05"
+            },
+            "asset_modifier6": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_deus_ex/dlc_jensen_ann_victory_005.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Deus_Ex_06"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "播音员：Deus Ex"
+    },
+    "11145": {
+        "name": "Announcer: Rick and Morty",
+        "prefab": "announcer",
+        "creation_date": "2015-08-10",
+        "image_inventory": "econ/announcer/announcer_rickmorty",
+        "item_description": "#DOTA_Item_Desc_Announcer_Rick_and_Morty",
+        "item_name": "#DOTA_Item_Announcer_Rick_and_Morty",
+        "item_rarity": "mythical",
+        "item_slot": "announcer",
+        "player_loadout": "1",
+        "price_info": {
+            "category_tags": "Announcers",
+            "date": "8/10/2015",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "announcer",
+                "asset": "npc_dota_hero_announcer_dlc_rick_and_morty",
+                "modifier": "soundevents/voscripts/game_sounds_vo_announcer_dlc_rick_and_morty.vsndevts"
+            },
+            "asset_modifier1": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_rick_and_morty/about_to_start_cuddle_in.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_RickMorty_01"
+            },
+            "asset_modifier2": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_rick_and_morty/bottom_tower_under_attack_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_RickMorty_02"
+            },
+            "asset_modifier3": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_rick_and_morty/enemy_now_has_megas_03.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_RickMorty_03"
+            },
+            "asset_modifier4": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_rick_and_morty/skywrath_mage_02.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_RickMorty_04"
+            },
+            "asset_modifier5": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_rick_and_morty/game_lost_03.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_RickMorty_05"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "播音员：Rick和Morty"
+    },
+    "11279": {
+        "name": "Announcer: Bristleback",
+        "prefab": "announcer",
+        "creation_date": "2015-03-23",
+        "image_inventory": "econ/announcer/announcer_bristleback",
+        "item_description": "#DOTA_Item_Desc_Announcer_Bristleback",
+        "item_name": "#DOTA_Item_Announcer_Bristleback",
+        "item_rarity": "mythical",
+        "item_slot": "announcer",
+        "static_attributes": {
+            "international tag": {
+                "attribute_class": "international_tag",
+                "value": "2015"
+            },
+            "tradable after date": {
+                "attribute_class": "tradable_after_date",
+                "value": "1441065600"
+            }
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "announcer",
+                "asset": "npc_dota_hero_announcer_dlc_bristleback",
+                "modifier": "soundevents/voscripts/game_sounds_vo_announcer_dlc_bristleback.vsndevts"
+            },
+            "asset_modifier1": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_bristleback/bris_ann_welcome_04.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Bristleback_01"
+            },
+            "asset_modifier2": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_bristleback/bris_ann_ancient_attack_follow_up_02.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Bristleback_02"
+            },
+            "asset_modifier3": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_bristleback/bris_ann_cour_kill_dire_02.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Bristleback_03"
+            },
+            "asset_modifier4": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_bristleback/bris_ann_rax_attack_top_follow_up_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Bristleback_04"
+            },
+            "asset_modifier5": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_bristleback/bris_ann_fort_dire_03.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Bristleback_05"
+            },
+            "asset_modifier6": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_bristleback/bris_ann_rosh_fallen_dire_follow_up_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Bristleback_06"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "播音员：钢背兽"
+    },
+    "11463": {
+        "name": "Announcer: Crystal Maiden",
+        "prefab": "announcer",
+        "creation_date": "2016-05-16",
+        "event_id": "EVENT_ID_INTERNATIONAL_2016",
+        "image_inventory": "econ/announcer/announcer_crystal_maiden",
+        "item_description": "#DOTA_Item_Desc_Announcer_Crystal_Maiden",
+        "item_name": "#DOTA_Item_Announcer_Crystal_Maiden",
+        "item_rarity": "mythical",
+        "item_slot": "announcer",
+        "static_attributes": {
+            "international tag": {
+                "attribute_class": "international_tag",
+                "value": "2016"
+            },
+            "tradable after date": {
+                "attribute_class": "tradable_after_date",
+                "value": "1471158000"
+            }
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "announcer",
+                "asset": "npc_dota_hero_announcer_dlc_crystal_maiden",
+                "modifier": "soundevents/voscripts/game_sounds_vo_announcer_dlc_crystal_maiden.vsndevts"
+            },
+            "asset_modifier1": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_crystal_maiden/cm_ann_twr_attack_rad_top_03.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Crystal_Maiden_01"
+            },
+            "asset_modifier2": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_crystal_maiden/cm_ann_twr_fall_yr_bot_02.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Crystal_Maiden_02"
+            },
+            "asset_modifier3": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_crystal_maiden/cm_ann_ancient_attack_follow_up_02.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Crystal_Maiden_03"
+            },
+            "asset_modifier4": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_crystal_maiden/cm_ann_victory_follow_up_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Crystal_Maiden_04"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "播音员：水晶室女"
+    },
+    "11486": {
+        "name": "Announcer: Monkey King",
+        "prefab": "announcer",
+        "creation_date": "2016-12-12",
+        "image_inventory": "econ/announcer/announcer_monkey_king",
+        "item_description": "#DOTA_Item_Desc_Announcer_Monkey_King",
+        "item_name": "#DOTA_Item_Announcer_Monkey_King",
+        "item_rarity": "mythical",
+        "item_slot": "announcer",
+        "portraits": {
+            "icon": {
+                "cameras": {
+                    "Default": {
+                        "PortraitPosition": "480.132111 302.748627 403.187500",
+                        "PortraitAngles": "28.490007 212.830048 0.000000",
+                        "PortraitFOV": "16",
+                        "PortraitFar": "1000"
+                    }
+                },
+                "PortraitLightPosition": "202.699997 -23.150000 308.170013",
+                "PortraitLightAngles": "54.790001 171.699997 0.000000",
+                "PortraitLightFOV": "120",
+                "PortraitLightDistance": "336",
+                "PortraitLightColor": "254 248 242",
+                "PortraitLightScale": "2",
+                "PortraitShadowColor": "74 74 74",
+                "PortraitShadowScale": "1",
+                "PortraitGroundShadowScale": "1.500000",
+                "PortraitAmbientDirection": "-79.070 -84.150 -25.320",
+                "PortraitAmbientColor": "79 108 108",
+                "PortraitAmbientScale": "1",
+                "PortraitSpecularColor": "251 74 84",
+                "PortraitSpecularDirection": "0.000000 0.000000 -1.000000",
+                "PortraitSpecularPower": "16",
+                "PortraitBackgroundColor1": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundColor2": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundColor3": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundColor4": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundTexture": "materials/vgui/econ/item_icon_bg.vmat",
+                "PortraitAnimationActivity": "ACT_DOTA_IDLE",
+                "PortraitAnimationCycle": "0",
+                "PortraitAnimationRate": "1",
+                "PortraitHideHero": "0",
+                "PortraitHideParticles": "0",
+                "PortraitHideDropShadow": "0",
+                "PortraitDesaturateParticles": "0",
+                "PortraitDesaturateHero": "1"
+            }
+        },
+        "price_info": {
+            "category_tags": "Announcers",
+            "date": "12/12/2016",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "announcer",
+                "asset": "npc_dota_hero_announcer_dlc_monkey_king",
+                "modifier": "soundevents/voscripts/game_sounds_vo_announcer_dlc_monkey_king.vsndevts"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "播音员：齐天大圣"
+    },
+    "11736": {
+        "name": "Announcer: Fallout 4",
+        "prefab": "announcer",
+        "creation_date": "2015-10-21",
+        "image_inventory": "econ/announcer/announcer_fallout4",
+        "item_description": "#DOTA_Item_Desc_Announcer_Fallout_4",
+        "item_name": "#DOTA_Item_Announcer_Fallout_4",
+        "item_rarity": "mythical",
+        "item_slot": "announcer",
+        "price_info": {
+            "category_tags": "Announcers",
+            "date": "10/22/2015",
+            "price": "0"
+        },
+        "static_attributes": {
+            "tradable after date": {
+                "attribute_class": "tradable_after_date",
+                "value": "1451952000"
+            }
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "announcer",
+                "asset": "npc_dota_hero_announcer_dlc_fallout4",
+                "modifier": "soundevents/voscripts/game_sounds_vo_announcer_dlc_fallout4.vsndevts",
+                "style": "0"
+            },
+            "asset_modifier1": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_fallout4/announcer_misterhandy_followup_havefun_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Fallout4_01"
+            },
+            "asset_modifier2": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_fallout4/announcer_misterhandy_towerattack_yourtop_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Fallout4_02"
+            },
+            "asset_modifier3": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_fallout4/announcer_misterhandy_negativeevent_disturbingdevelopment_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Fallout4_03"
+            },
+            "asset_modifier4": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_fallout4/announcer_misterhandy_roshanfallen_dire_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Fallout4_04"
+            },
+            "asset_modifier5": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_fallout4/announcer_misterhandy_victory_radiant_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Fallout4_05"
+            },
+            "asset_modifier6": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_fallout4/announcer_misterhandy_positiveevent_jollygood_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Fallout4_06"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "播音员：《Fallout 4》"
+    },
+    "12001": {
+        "name": "Announcer: Kunkka & Tidehunter",
+        "prefab": "announcer",
+        "creation_date": "2017-05-04",
+        "event_id": "EVENT_ID_INTERNATIONAL_2017",
+        "image_inventory": "econ/announcer/announcer_kunkka_tide",
+        "item_description": "#DOTA_Item_Desc_Announcer_Kunkka__Tidehunter",
+        "item_name": "#DOTA_Item_Announcer_Kunkka__Tidehunter",
+        "item_rarity": "mythical",
+        "item_slot": "announcer",
+        "static_attributes": {
+            "international tag": {
+                "attribute_class": "international_tag",
+                "value": "2017"
+            }
+        },
+        "visuals": {
+            "asset_modifier": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_kunkka_tide/tiku_ann_ancient_attack_follow_up_03.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Kunkka_Tide_04"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "播音员：昆卡与潮汐猎人"
+    },
+    "12315": {
+        "name": "Announcer: Meepo",
+        "prefab": "announcer",
+        "creation_date": "2018-06-25",
+        "event_id": "EVENT_ID_INTERNATIONAL_2018",
+        "image_inventory": "econ/announcer/announcer_meepo",
+        "item_description": "#DOTA_Item_Desc_Announcer_Meepo",
+        "item_name": "#DOTA_Item_Announcer_Meepo",
+        "item_rarity": "mythical",
+        "item_slot": "announcer",
+        "visuals": {
+            "asset_modifier": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_meepo/meepo_ann_rax_attack_follow_up_04.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Meepo_04"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "播音员：米波"
+    },
+    "12586": {
+        "name": "Announcer: Darkest Dungeon (ft. Wayne June)",
+        "prefab": "announcer",
+        "creation_date": "2018-09-24",
+        "event_id": "EVENT_ID_NONE",
+        "image_inventory": "econ/announcer/announcer_darkest_dungeon",
+        "item_description": "#DOTA_Item_Desc_Announcer_Darkest_Dungeon_ft_Wayne_June",
+        "item_name": "#DOTA_Item_Announcer_Darkest_Dungeon_ft_Wayne_June",
+        "item_rarity": "mythical",
+        "item_slot": "announcer",
+        "price_info": {
+            "category_tags": "Announcers",
+            "date": "10/2/2018",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "announcer",
+                "asset": "npc_dota_hero_announcer_dlc_darkest_dungeon",
+                "modifier": "soundevents/voscripts/game_sounds_vo_announcer_dlc_darkest_dungeon.vsndevts"
+            },
+            "asset_modifier1": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_darkest_dungeon/announcer_welcome_morning.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Darkest_Dungeon_01"
+            },
+            "asset_modifier2": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_darkest_dungeon/announcer_twr_attack_yr_top_09.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Darkest_Dungeon_02"
+            },
+            "asset_modifier3": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_darkest_dungeon/announcer_roshankilled_followup_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Darkest_Dungeon_03"
+            },
+            "asset_modifier4": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_darkest_dungeon/announcer_team_complete_our_nosupport.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Darkest_Dungeon_04"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "播音员：《Darkest Dungeon》"
+    },
+    "13231": {
+        "name": "Announcer: Dark Willow",
+        "prefab": "announcer",
+        "creation_date": "2019-06-20",
+        "event_id": "EVENT_ID_INTERNATIONAL_2019",
+        "image_inventory": "econ/announcer/announcer_darkwillow",
+        "item_description": "#DOTA_Item_Desc_Announcer_Dark_Willow",
+        "item_name": "#DOTA_Item_Announcer_Dark_Willow",
+        "item_rarity": "mythical",
+        "item_slot": "announcer",
+        "static_attributes": {
+            "international tag": {
+                "attribute_class": "international_tag",
+                "value": "2019"
+            },
+            "tradable after date": {
+                "attribute_class": "tradable_after_date",
+                "value": "1598997600"
+            }
+        },
+        "visuals": {
+            "asset_modifier": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_dark_willow/dark_willow_ann_prepare_02_02.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Dark_Willow_04"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "播音员：邪影芳灵"
+    },
+    "14996": {
+        "name": "Announcer: Voice of The International",
+        "prefab": "announcer",
+        "creation_date": "2020-08-12",
+        "event_id": "EVENT_ID_INTERNATIONAL_2020",
+        "image_inventory": "econ/announcer/announcer_ti10",
+        "item_description": "#DOTA_Item_Desc_Announcer_Voice_of_The_International",
+        "item_name": "#DOTA_Item_Announcer_Voice_of_The_International",
+        "item_rarity": "mythical",
+        "item_slot": "announcer",
+        "visuals": {
+            "asset_modifier": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_ti10_vog/vog_ti_ann_battle_begins_09_02.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_ti10_vog_04"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "播音员：国际邀请赛之声"
+    },
+    "24911": {
+        "name": "Announcer: Cave Johnson",
+        "prefab": "announcer",
+        "creation_date": "2022-10-26",
+        "event_id": "EVENT_ID_INTERNATIONAL_2022",
+        "image_inventory": "econ/announcer/cave_johnson_ti11",
+        "item_description": "#DOTA_Item_Desc_Announcer_Cave_Johnson",
+        "item_name": "#DOTA_Item_Announcer_Cave_Johnson",
+        "item_rarity": "mythical",
+        "item_slot": "announcer",
+        "visuals": {
+            "asset_modifier": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_cavej/cavej_ann_zeus_02.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_cavej_04"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "播音员：Cave Johnson"
+    }
+}

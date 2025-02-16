@@ -1,0 +1,2415 @@
+﻿{
+    "10137": {
+        "name": "Cruel Diretide",
+        "prefab": "hud_skin",
+        "image_inventory": "econ/huds/hud_diretide",
+        "item_description": "#DOTA_Item_Desc_Diretide_HUD_Skin",
+        "item_name": "#DOTA_Item_Cruel_Diretide",
+        "item_rarity": "rare",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "diretide",
+                "modifier": "diretide"
+            }
+        },
+        "rarity_color": "#4b69ff",
+        "item_name_cn": "汹涌暗潮"
+    },
+    "10149": {
+        "name": "Radiant Ore",
+        "prefab": "hud_skin",
+        "image_inventory": "econ/huds/hud_radiant",
+        "item_description": "#DOTA_Item_Desc_Radiant_HUD_Skin",
+        "item_name": "#DOTA_Item_Radiant_Ore",
+        "item_rarity": "mythical",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "visuals": {
+            "asset_modifier1": {
+                "type": "hud_skin",
+                "asset": "radiant",
+                "modifier": "radiant"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "天辉圣矿"
+    },
+    "10150": {
+        "name": "Direstone",
+        "prefab": "hud_skin",
+        "image_inventory": "econ/huds/hud_dire",
+        "item_description": "#DOTA_Item_Desc_Dire_HUD_Skin",
+        "item_name": "#DOTA_Item_Direstone",
+        "item_rarity": "mythical",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "dire",
+                "modifier": "dire"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "夜魇邪石"
+    },
+    "10151": {
+        "name": "Snows of Frostivus",
+        "prefab": "hud_skin",
+        "image_inventory": "econ/huds/hud_frostivus",
+        "item_description": "#DOTA_Item_Desc_Frostivus_HUD_Skin",
+        "item_name": "#DOTA_Item_Snows_of_Frostivus",
+        "item_rarity": "rare",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "visuals": {
+            "asset_modifier1": {
+                "type": "hud_skin",
+                "asset": "winter",
+                "modifier": "winter"
+            }
+        },
+        "rarity_color": "#4b69ff",
+        "item_name_cn": "迎霜白雪"
+    },
+    "10173": {
+        "name": "Deepest Depths",
+        "prefab": "hud_skin",
+        "creation_date": "2013-05-02",
+        "image_inventory": "econ/huds/hud_cold_depths",
+        "item_description": "#DOTA_Item_Desc_Deepest_Depths",
+        "item_name": "#DOTA_Item_Deepest_Depths",
+        "item_rarity": "uncommon",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "price_info": {
+            "category_tags": "HUD Skins",
+            "date": "5/2/2013",
+            "price": "299"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "cold_depths",
+                "modifier": "cold_depths",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#5e98d9",
+        "item_name_cn": "极度深渊"
+    },
+    "10176": {
+        "name": "Empowered",
+        "prefab": "hud_skin",
+        "creation_date": "2013-05-02",
+        "image_inventory": "econ/huds/hud_empower",
+        "item_description": "#DOTA_Item_Desc_Empowered",
+        "item_name": "#DOTA_Item_Empowered",
+        "item_rarity": "rare",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "price_info": {
+            "bucket": "Expensive",
+            "class": "HUD Skin",
+            "category_tags": "HUD Skins",
+            "date": "5/2/2013",
+            "price": "499"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "empower",
+                "modifier": "empower",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#4b69ff",
+        "item_name_cn": "授予力量"
+    },
+    "10177": {
+        "name": "Tempest Wing",
+        "prefab": "hud_skin",
+        "creation_date": "2013-05-02",
+        "image_inventory": "econ/huds/hud_crystal_wings",
+        "item_description": "#DOTA_Item_Desc_Tempest_Wing",
+        "item_name": "#DOTA_Item_Tempest_Wing",
+        "item_rarity": "uncommon",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "price_info": {
+            "bucket": "Normal",
+            "class": "HUD Skin",
+            "category_tags": "HUD Skins",
+            "date": "5/2/2013",
+            "price": "299"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "crystal_wings",
+                "modifier": "crystal_wings",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#5e98d9",
+        "item_name_cn": "暴风之翼"
+    },
+    "10179": {
+        "name": "Frozen Touch",
+        "prefab": "hud_skin",
+        "creation_date": "2013-05-06",
+        "image_inventory": "econ/huds/hud_frozen_touch",
+        "item_description": "#DOTA_Item_Desc_Frozen_Touch",
+        "item_name": "#DOTA_Item_Frozen_Touch",
+        "item_rarity": "rare",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "price_info": {
+            "bucket": "Expensive",
+            "class": "HUD Skin",
+            "category_tags": "HUD Skins",
+            "date": "5/6/2013",
+            "price": "499"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "frozen_touch",
+                "modifier": "frozen_touch",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#4b69ff",
+        "item_name_cn": "冰冻之触"
+    },
+    "10180": {
+        "name": "Malice",
+        "prefab": "hud_skin",
+        "creation_date": "2013-05-06",
+        "image_inventory": "econ/huds/hud_menace",
+        "item_description": "#DOTA_Item_Desc_Malice",
+        "item_name": "#DOTA_Item_Malice",
+        "item_rarity": "uncommon",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "price_info": {
+            "bucket": "Normal",
+            "class": "HUD Skin",
+            "category_tags": "HUD Skins",
+            "date": "5/6/2013",
+            "price": "299"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "menace",
+                "modifier": "menace",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#5e98d9",
+        "item_name_cn": "不善之力"
+    },
+    "10181": {
+        "name": "Nature",
+        "prefab": "hud_skin",
+        "creation_date": "2013-05-06",
+        "image_inventory": "econ/huds/hud_nature",
+        "item_description": "#DOTA_Item_Desc_Nature",
+        "item_name": "#DOTA_Item_Nature",
+        "item_rarity": "uncommon",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "price_info": {
+            "bucket": "Expensive",
+            "class": "Uncommon",
+            "category_tags": "HUD Skins",
+            "date": "5/6/2013",
+            "price": "299"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "nature",
+                "modifier": "nature",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#5e98d9",
+        "item_name_cn": "自然万物"
+    },
+    "10182": {
+        "name": "Driftwood",
+        "prefab": "hud_skin",
+        "creation_date": "2013-05-08",
+        "image_inventory": "econ/huds/hud_driftwood",
+        "item_description": "#DOTA_Item_Desc_Driftwood",
+        "item_name": "#DOTA_Item_Driftwood",
+        "item_rarity": "uncommon",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "price_info": {
+            "bucket": "Normal",
+            "class": "HUD Skin",
+            "category_tags": "HUD Skins",
+            "date": "5/8/2013",
+            "price": "299"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "driftwood",
+                "modifier": "driftwood",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#5e98d9",
+        "item_name_cn": "漂浮之木"
+    },
+    "10183": {
+        "name": "Gear Tooth",
+        "prefab": "hud_skin",
+        "creation_date": "2013-05-09",
+        "image_inventory": "econ/huds/hud_gear_tooth",
+        "item_description": "#DOTA_Item_Desc_Gear_Tooth",
+        "item_name": "#DOTA_Item_Gear_Tooth",
+        "item_rarity": "rare",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "price_info": {
+            "bucket": "Expensive",
+            "class": "HUD Skin",
+            "category_tags": "HUD Skins",
+            "date": "5/9/2013",
+            "price": "499"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "gear_tooth",
+                "modifier": "gear_tooth",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#4b69ff",
+        "item_name_cn": "齿轮锯齿"
+    },
+    "10186": {
+        "name": "Stone Ruin",
+        "prefab": "hud_skin",
+        "creation_date": "2013-05-15",
+        "image_inventory": "econ/huds/hud_premier_league",
+        "item_description": "#DOTA_Item_Desc_Stone_Ruin",
+        "item_name": "#DOTA_Item_Stone_Ruin",
+        "item_rarity": "rare",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "premier_league",
+                "modifier": "premier_league",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#4b69ff",
+        "item_name_cn": "炎石之遗"
+    },
+    "10187": {
+        "name": "Powered Star",
+        "prefab": "hud_skin",
+        "creation_date": "2013-05-15",
+        "image_inventory": "econ/huds/hud_starladder",
+        "item_description": "#DOTA_Item_Desc_Powered_Star",
+        "item_name": "#DOTA_Item_Powered_Star",
+        "item_rarity": "rare",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "starladder",
+                "modifier": "starladder",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#4b69ff",
+        "item_name_cn": "力量之星"
+    },
+    "10190": {
+        "name": "Valor",
+        "prefab": "hud_skin",
+        "static_attributes": {
+            "international tag": {
+                "attribute_class": "international tag",
+                "value": "2013"
+            }
+        },
+        "creation_date": "2013-05-20",
+        "image_inventory": "econ/huds/hud_valor",
+        "item_description": "#DOTA_Item_Desc_Valor",
+        "item_name": "#DOTA_Item_Valor",
+        "item_quality": "genuine",
+        "item_rarity": "mythical",
+        "item_type_name": "#DOTA_WearableType_International_HUD_Skin",
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "ti3",
+                "modifier": "ti3"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "英勇无畏"
+    },
+    "10198": {
+        "name": "Elder Bark",
+        "prefab": "hud_skin",
+        "creation_date": "2013-05-27",
+        "image_inventory": "econ/huds/hud_dark_forest",
+        "item_description": "#DOTA_Item_Desc_Elder_Bark",
+        "item_name": "#DOTA_Item_Elder_Bark",
+        "item_rarity": "uncommon",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "price_info": {
+            "bucket": "Normal",
+            "class": "HUD Skin",
+            "category_tags": "HUD Skins",
+            "date": "5/27/2013",
+            "price": "299"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "dark_forest",
+                "modifier": "dark_forest",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#5e98d9",
+        "item_name_cn": "古老树皮"
+    },
+    "10201": {
+        "name": "Jungle Ruin",
+        "prefab": "hud_skin",
+        "creation_date": "2013-05-27",
+        "image_inventory": "econ/huds/hud_jungle_ruin",
+        "item_description": "#DOTA_Item_Desc_Jungle_Ruin",
+        "item_name": "#DOTA_Item_Jungle_Ruin",
+        "item_rarity": "uncommon",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "price_info": {
+            "bucket": "Normal",
+            "class": "HUD Skin",
+            "category_tags": "HUD Skins",
+            "date": "5/27/2013",
+            "price": "299"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "jungle_ruin",
+                "modifier": "jungle_ruin",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#5e98d9",
+        "item_name_cn": "密林荒墟"
+    },
+    "10203": {
+        "name": "Furnace",
+        "prefab": "hud_skin",
+        "creation_date": "2013-05-27",
+        "image_inventory": "econ/huds/hud_ferocious",
+        "item_description": "#DOTA_Item_Desc_Furnace",
+        "item_name": "#DOTA_Item_Furnace",
+        "item_rarity": "rare",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "price_info": {
+            "bucket": "Expensive",
+            "class": "HUD Skin",
+            "category_tags": "HUD Skins",
+            "date": "5/27/2013",
+            "price": "499"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "ferocious",
+                "modifier": "ferocious",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#4b69ff",
+        "item_name_cn": "炽焰熔炉"
+    },
+    "10299": {
+        "name": "Iron Cage",
+        "prefab": "hud_skin",
+        "creation_date": "2013-08-20",
+        "image_inventory": "econ/huds/hud_iron_cage",
+        "item_description": "#DOTA_Item_Desc_Iron_Cage",
+        "item_name": "#DOTA_Item_Iron_Cage",
+        "item_rarity": "uncommon",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "price_info": {
+            "bucket": "Normal",
+            "class": "HUD Skin",
+            "category_tags": "HUD Skins",
+            "date": "8/20/2013",
+            "price": "299"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "iron_cage",
+                "modifier": "iron_cage",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#5e98d9",
+        "item_name_cn": "钢铁牢笼"
+    },
+    "10305": {
+        "name": "ESWC Diamond",
+        "prefab": "hud_skin",
+        "creation_date": "2013-07-29",
+        "image_inventory": "econ/huds/hud_eswc_diamond",
+        "item_description": "#DOTA_Item_Desc_ESWC_Diamond",
+        "item_name": "#DOTA_Item_ESWC_Diamond",
+        "item_rarity": "rare",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "eswc_diamond",
+                "modifier": "eswc_diamond",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#4b69ff",
+        "item_name_cn": "ESWC之钻"
+    },
+    "10306": {
+        "name": "Curiosity",
+        "prefab": "hud_skin",
+        "creation_date": "2013-08-20",
+        "image_inventory": "econ/huds/hud_curiosity_hud",
+        "item_description": "#DOTA_Item_Desc_Curiosity",
+        "item_name": "#DOTA_Item_Curiosity",
+        "item_rarity": "uncommon",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "price_info": {
+            "bucket": "Normal",
+            "class": "HUD Skin",
+            "category_tags": "HUD Skins",
+            "date": "8/20/2013",
+            "price": "299"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "curiosity_hud",
+                "modifier": "curiosity_hud",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#5e98d9",
+        "item_name_cn": "求知之心"
+    },
+    "10309": {
+        "name": "Dragon Scale",
+        "prefab": "hud_skin",
+        "creation_date": "2013-07-05",
+        "image_inventory": "econ/huds/hud_dragon_scale",
+        "item_description": "#DOTA_Item_Desc_dragon_scale",
+        "item_name": "#DOTA_Item_Dragon_Scale",
+        "item_rarity": "rare",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "price_info": {
+            "bucket": "Expensive",
+            "class": "HUD Skin",
+            "category_tags": "HUD Skins",
+            "date": "7/5/2013",
+            "price": "499"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "dragon_scale",
+                "modifier": "dragon_scale",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#4b69ff",
+        "item_name_cn": "金龙之鳞"
+    },
+    "10317": {
+        "name": "Underwater",
+        "prefab": "hud_skin",
+        "creation_date": "2013-09-02",
+        "image_inventory": "econ/huds/hud_underwater",
+        "item_description": "#DOTA_Item_Desc_Underwater",
+        "item_name": "#DOTA_Item_Underwater",
+        "item_rarity": "rare",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "price_info": {
+            "bucket": "Normal",
+            "class": "HUD Skin",
+            "category_tags": "HUD Skins",
+            "date": "9/2/2013",
+            "price": "299"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "underwater",
+                "modifier": "underwater",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#4b69ff",
+        "item_name_cn": "在下之水"
+    },
+    "10322": {
+        "name": "Dim Forest",
+        "prefab": "hud_skin",
+        "creation_date": "2013-09-06",
+        "image_inventory": "econ/huds/hud_weplay",
+        "item_description": "#DOTA_Item_Desc_Dim_Forest",
+        "item_name": "#DOTA_Item_Dim_Forest",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "weplay",
+                "modifier": "weplay",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#b0c3d9",
+        "item_name_cn": "昏暗之森"
+    },
+    "10324": {
+        "name": "Portal",
+        "prefab": "hud_skin",
+        "creation_date": "2013-09-10",
+        "image_inventory": "econ/huds/hud_portal",
+        "item_description": "#DOTA_Item_Desc_Portal",
+        "item_name": "#DOTA_Item_Portal",
+        "item_rarity": "mythical",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "price_info": {
+            "bucket": "Cheap",
+            "class": "NoPrice",
+            "category_tags": "HUD Skins",
+            "date": "9/10/2013",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "portal",
+                "modifier": "portal"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "《传送门》"
+    },
+    "10327": {
+        "name": "Golden Treasures",
+        "prefab": "hud_skin",
+        "creation_date": "2013-09-16",
+        "image_inventory": "econ/huds/hud_golden_treasures",
+        "item_description": "#DOTA_Item_Desc_Golden_Treasures",
+        "item_name": "#DOTA_Item_Golden_Treasures",
+        "item_rarity": "rare",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "price_info": {
+            "bucket": "Expensive",
+            "class": "HUD Skin",
+            "category_tags": "HUD Skins",
+            "date": "9/16/2013",
+            "price": "499"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "golden_treasures",
+                "modifier": "golden_treasures",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#4b69ff",
+        "item_name_cn": "金光宝藏"
+    },
+    "10333": {
+        "name": "Tremor",
+        "prefab": "hud_skin",
+        "creation_date": "2013-09-16",
+        "image_inventory": "econ/huds/hud_quake",
+        "item_description": "#DOTA_Item_Desc_Tremor",
+        "item_name": "#DOTA_Item_Tremor",
+        "item_rarity": "uncommon",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "price_info": {
+            "bucket": "Normal",
+            "class": "HUD Skin",
+            "category_tags": "HUD Skins",
+            "date": "9/16/2013",
+            "price": "299"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "quake",
+                "modifier": "quake",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#5e98d9",
+        "item_name_cn": "颤栗大地"
+    },
+    "10336": {
+        "name": "Omen",
+        "prefab": "hud_skin",
+        "creation_date": "2013-09-16",
+        "image_inventory": "econ/huds/hud_od",
+        "item_description": "#DOTA_Item_Desc_Omen",
+        "item_name": "#DOTA_Item_Omen",
+        "item_rarity": "uncommon",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "price_info": {
+            "bucket": "Normal",
+            "class": "HUD Skin",
+            "category_tags": "HUD Skins",
+            "date": "9/16/2013",
+            "price": "299"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "od",
+                "modifier": "od",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#5e98d9",
+        "item_name_cn": "厄运之兆"
+    },
+    "10342": {
+        "name": "Vermilion",
+        "prefab": "hud_skin",
+        "creation_date": "2013-10-31",
+        "image_inventory": "econ/huds/hud_steelseries_bamboo",
+        "item_description": "#DOTA_Item_Desc_Vermilion",
+        "item_name": "#DOTA_Item_Vermilion",
+        "item_rarity": "rare",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "steelseries_bamboo",
+                "modifier": "steelseries_bamboo",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#4b69ff",
+        "item_name_cn": "竹林之战"
+    },
+    "10343": {
+        "name": "Necropolis",
+        "prefab": "hud_skin",
+        "creation_date": "2013-10-31",
+        "image_inventory": "econ/huds/hud_necropolis",
+        "item_description": "#DOTA_Item_Desc_Necropolis",
+        "item_name": "#DOTA_Item_Necropolis",
+        "item_rarity": "rare",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "price_info": {
+            "bucket": "Normal",
+            "class": "HUD Skin",
+            "category_tags": "HUD Skins",
+            "date": "10/31/2013",
+            "price": "299"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "necropolis",
+                "modifier": "necropolis",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#4b69ff",
+        "item_name_cn": "阴森墓园"
+    },
+    "10346": {
+        "name": "Mana Pool",
+        "prefab": "hud_skin",
+        "creation_date": "2013-09-22",
+        "image_inventory": "econ/huds/hud_mana_pool",
+        "item_description": "#DOTA_Item_Desc_Mana_Pool",
+        "item_name": "#DOTA_Item_Mana_Pool",
+        "item_rarity": "rare",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "price_info": {
+            "bucket": "Normal",
+            "class": "HUD Skin",
+            "category_tags": "HUD Skins",
+            "date": "9/22/2013",
+            "price": "299"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "mana_pool",
+                "modifier": "mana_pool",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#4b69ff",
+        "item_name_cn": "魔法源泉"
+    },
+    "10356": {
+        "name": "MLG Stronghold",
+        "prefab": "hud_skin",
+        "creation_date": "2013-11-04",
+        "image_inventory": "econ/huds/hud_stronghold",
+        "item_description": "#DOTA_Item_Desc_MLG_Stronghold",
+        "item_name": "#DOTA_Item_MLG_Stronghold",
+        "item_rarity": "uncommon",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "price_info": {
+            "bucket": "Cheap",
+            "class": "NoPrice",
+            "category_tags": "Tournaments",
+            "date": "11/4/2013",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "stronghold",
+                "modifier": "stronghold",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#5e98d9",
+        "item_name_cn": "MLG据点"
+    },
+    "10364": {
+        "name": "Familiar Woods",
+        "prefab": "hud_skin",
+        "creation_date": "2013-11-29",
+        "image_inventory": "econ/huds/hud_familiar_woods",
+        "item_description": "#DOTA_Item_Desc_Familiar_Woods",
+        "item_name": "#DOTA_Item_Familiar_Woods",
+        "item_rarity": "rare",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "price_info": {
+            "bucket": "Normal",
+            "class": "HUD Skin",
+            "category_tags": "HUD Skins",
+            "date": "11/29/2013",
+            "price": "299"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "familiar_woods",
+                "modifier": "familiar_woods",
+                "frequency": "1"
+            },
+            "styles": {
+                "0": {
+                    "name": "#DOTA_Item_Familiar_Woods_Style0",
+                    "alternate_icon": "0",
+                    "skin": "0"
+                },
+                "1": {
+                    "name": "#DOTA_Item_Familiar_Woods_Style1",
+                    "alternate_icon": "1",
+                    "skin": "1"
+                }
+            },
+            "alternate_icons": {
+                "0": {
+                    "icon_path": "econ/huds/familiar_woods_style0"
+                },
+                "1": {
+                    "icon_path": "econ/huds/familiar_woods_style1"
+                }
+            }
+        },
+        "rarity_color": "#4b69ff",
+        "item_name_cn": "灵兽之森"
+    },
+    "10385": {
+        "name": "Reign of Maelrawn",
+        "prefab": "hud_skin",
+        "creation_date": "2013-12-12",
+        "image_inventory": "econ/huds/hud_Reign_of_Maelrawn_HUD_FGCL",
+        "item_description": "#DOTA_Item_Desc_Reign_of_Maelrawn",
+        "item_name": "#DOTA_Item_Reign_of_Maelrawn",
+        "item_rarity": "rare",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "Reign of Maelrawn HUD - FGCL",
+                "modifier": "Reign of Maelrawn HUD - FGCL",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#4b69ff",
+        "item_name_cn": "麦尔朗恩之权"
+    },
+    "10392": {
+        "name": "Thunder Spirit",
+        "prefab": "hud_skin",
+        "creation_date": "2013-12-17",
+        "image_inventory": "econ/huds/hud_thunder_spirit",
+        "item_description": "#DOTA_Item_Desc_Thunder_Spirit",
+        "item_name": "#DOTA_Item_Thunder_Spirit",
+        "item_rarity": "uncommon",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "price_info": {
+            "bucket": "Normal",
+            "class": "HUD Skin",
+            "category_tags": "HUD Skins",
+            "date": "12/17/2013",
+            "price": "299"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "thunder_spirit",
+                "modifier": "thunder_spirit",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#5e98d9",
+        "item_name_cn": "霹雳之灵"
+    },
+    "10393": {
+        "name": "Timber Fury",
+        "prefab": "hud_skin",
+        "creation_date": "2013-12-17",
+        "image_inventory": "econ/huds/hud_timber_fury",
+        "item_description": "#DOTA_Item_Desc_Timber_Fury",
+        "item_name": "#DOTA_Item_Timber_Fury",
+        "item_rarity": "uncommon",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "price_info": {
+            "bucket": "Normal",
+            "class": "HUD Skin",
+            "category_tags": "HUD Skins",
+            "date": "12/17/2013",
+            "price": "299"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "timber_fury",
+                "modifier": "timber_fury",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#5e98d9",
+        "item_name_cn": "伐木之怒"
+    },
+    "10399": {
+        "name": "Surge",
+        "prefab": "hud_skin",
+        "creation_date": "2014-01-13",
+        "image_inventory": "econ/huds/hud_esp_surge_hud",
+        "item_description": "#DOTA_Item_Desc_esp_surge_hud",
+        "item_name": "#DOTA_Item_Surge",
+        "item_rarity": "rare",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "price_info": {
+            "bucket": "Normal",
+            "class": "NoPrice",
+            "category_tags": "HUD Skins",
+            "date": "1/13/2014",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "esp_surge_hud",
+                "modifier": "esp_surge_hud",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#4b69ff",
+        "item_name_cn": "澎湃之雷"
+    },
+    "10420": {
+        "name": "Imbued Stone",
+        "prefab": "hud_skin",
+        "creation_date": "2014-01-25",
+        "image_inventory": "econ/huds/hud_spirit_stones",
+        "item_description": "#DOTA_Item_Desc_Imbued_Stone",
+        "item_name": "#DOTA_Item_Imbued_Stone",
+        "item_rarity": "uncommon",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "price_info": {
+            "bucket": "Normal",
+            "class": "HUD Skin",
+            "category_tags": "HUD Skins",
+            "date": "1/25/2014",
+            "price": "299"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "spirit_stones",
+                "modifier": "spirit_stones",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#5e98d9",
+        "item_name_cn": "注魔之石"
+    },
+    "10421": {
+        "name": "Temple",
+        "prefab": "hud_skin",
+        "creation_date": "2014-01-25",
+        "image_inventory": "econ/huds/hud_temple_wall",
+        "item_description": "#DOTA_Item_Desc_Temple",
+        "item_name": "#DOTA_Item_Temple",
+        "item_rarity": "uncommon",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "price_info": {
+            "bucket": "Normal",
+            "class": "HUD Skin",
+            "category_tags": "HUD Skins",
+            "date": "1/25/2014",
+            "price": "299"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "temple_wall",
+                "modifier": "temple_wall",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#5e98d9",
+        "item_name_cn": "灯红古刹"
+    },
+    "10422": {
+        "name": "Three Virtues",
+        "prefab": "hud_skin",
+        "creation_date": "2014-01-25",
+        "image_inventory": "econ/huds/hud_three_virtues",
+        "item_description": "#DOTA_Item_Desc_The_Three_Virtues",
+        "item_name": "#DOTA_Item_Three_Virtues",
+        "item_rarity": "uncommon",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "price_info": {
+            "bucket": "Normal",
+            "class": "NoPrice",
+            "category_tags": "HUD Skins",
+            "date": "1/27/2014",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "three_virtues",
+                "modifier": "three_virtues",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#5e98d9",
+        "item_name_cn": "吉祥三灵"
+    },
+    "10426": {
+        "name": "Depth of Field",
+        "prefab": "hud_skin",
+        "creation_date": "2014-03-06",
+        "image_inventory": "econ/huds/hud_free_to_play_hud",
+        "item_description": "#DOTA_Item_Desc_Free_to_Play_HUD",
+        "item_name": "#DOTA_Item_Depth_of_Field",
+        "item_rarity": "rare",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "price_info": {
+            "bucket": "Normal",
+            "class": "NoPrice",
+            "category_tags": "HUD Skins",
+            "date": "3/17/2014",
+            "price": "0"
+        },
+        "used_by_heroes": "1",
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "free_to_play",
+                "modifier": "free_to_play",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#4b69ff",
+        "item_name_cn": "景深"
+    },
+    "10429": {
+        "name": "Royal Crypt",
+        "prefab": "hud_skin",
+        "creation_date": "2014-01-30",
+        "image_inventory": "econ/huds/hud_royal_crypt_hud",
+        "item_name": "#DOTA_Item_Royal_Crypt",
+        "item_rarity": "rare",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "price_info": {
+            "bucket": "Normal",
+            "class": "NoPrice",
+            "category_tags": "HUD Skins",
+            "date": "1/30/2014",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "royal_crypt_hud",
+                "modifier": "royal_crypt_hud",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#4b69ff",
+        "item_name_cn": "皇室墓穴"
+    },
+    "10436": {
+        "name": "Radiant Entity",
+        "prefab": "hud_skin",
+        "creation_date": "2014-02-13",
+        "image_inventory": "econ/huds/hud_radiantentity",
+        "item_description": "#DOTA_Item_Desc_Radiant_Entity",
+        "item_name": "#DOTA_Item_Radiant_Entity",
+        "item_rarity": "uncommon",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "price_info": {
+            "bucket": "Normal",
+            "class": "HUD Skin",
+            "category_tags": "HUD Skins",
+            "date": "2/14/2014",
+            "price": "299"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "radiantentity",
+                "modifier": "radiantentity",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#5e98d9",
+        "item_name_cn": "天辉实体"
+    },
+    "10437": {
+        "name": "Jolly Roger",
+        "prefab": "hud_skin",
+        "creation_date": "2014-02-13",
+        "image_inventory": "econ/huds/hud_jollyroger",
+        "item_description": "#DOTA_Item_Desc_Jolly_Roger",
+        "item_name": "#DOTA_Item_Jolly_Roger",
+        "item_rarity": "uncommon",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "price_info": {
+            "bucket": "Normal",
+            "class": "NoPrice",
+            "category_tags": "HUD Skins",
+            "date": "2/13/2014",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "jollyroger",
+                "modifier": "jollyroger",
+                "frequency": "1"
+            },
+            "styles": {
+                "0": {
+                    "name": "#DOTA_Item_Jolly_Roger_Style0",
+                    "alternate_icon": "0",
+                    "skin": "0"
+                },
+                "1": {
+                    "name": "#DOTA_Item_Jolly_Roger_Style1",
+                    "alternate_icon": "1",
+                    "skin": "1"
+                }
+            },
+            "alternate_icons": {
+                "0": {
+                    "icon_path": "econ/huds/jolly_roger_style0"
+                },
+                "1": {
+                    "icon_path": "econ/huds/jolly_roger_style1"
+                }
+            }
+        },
+        "rarity_color": "#5e98d9",
+        "item_name_cn": "惊涛怪浪"
+    },
+    "10438": {
+        "name": "Crystallized Mana",
+        "prefab": "hud_skin",
+        "creation_date": "2014-02-13",
+        "image_inventory": "econ/huds/hud_crystalmana",
+        "item_description": "#DOTA_Item_Desc_Crystallized_Mana",
+        "item_name": "#DOTA_Item_Crystallized_Mana",
+        "item_rarity": "rare",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "price_info": {
+            "bucket": "Normal",
+            "class": "HUD Skin",
+            "category_tags": "HUD Skins",
+            "date": "2/14/2014",
+            "price": "299"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "crystalmana",
+                "modifier": "crystalmana",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#4b69ff",
+        "item_name_cn": "魔法之晶"
+    },
+    "10439": {
+        "name": "Antiquity",
+        "prefab": "hud_skin",
+        "creation_date": "2014-02-13",
+        "image_inventory": "econ/huds/hud_antiquity",
+        "item_description": "#DOTA_Item_Desc_Antiquity",
+        "item_name": "#DOTA_Item_Antiquity",
+        "item_rarity": "uncommon",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "price_info": {
+            "bucket": "Normal",
+            "class": "HUD Skin",
+            "category_tags": "HUD Skins",
+            "date": "2/13/2014",
+            "price": "299"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "antiquity",
+                "modifier": "antiquity",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#5e98d9",
+        "item_name_cn": "古代遗物"
+    },
+    "10453": {
+        "name": "Spring Essence",
+        "prefab": "hud_skin",
+        "creation_date": "2014-03-03",
+        "image_inventory": "econ/huds/hud_hud_springessence",
+        "item_name": "#DOTA_Item_Spring_Essence",
+        "item_rarity": "uncommon",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "price_info": {
+            "bucket": "Normal",
+            "class": "NoPrice",
+            "category_tags": "HUD Skins",
+            "date": "3/10/2014",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "hud_springessence",
+                "modifier": "hud_springessence",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#5e98d9",
+        "item_name_cn": "新春精华"
+    },
+    "10459": {
+        "name": "Green Ural",
+        "prefab": "hud_skin",
+        "creation_date": "2014-03-10",
+        "image_inventory": "econ/huds/hud_green_ural",
+        "item_name": "#DOTA_Item_Green_Ural",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "price_info": {
+            "bucket": "Normal",
+            "class": "NoPrice",
+            "category_tags": "HUD Skins",
+            "date": "3/10/2014",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "green_ural",
+                "modifier": "green_ural",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#b0c3d9",
+        "item_name_cn": "绿色乌拉尔"
+    },
+    "10467": {
+        "name": "Sands of Luxor",
+        "prefab": "hud_skin",
+        "creation_date": "2014-03-12",
+        "image_inventory": "econ/huds/hud_hud_sandsofluxor",
+        "item_name": "#DOTA_Item_Sands_of_Luxor",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "price_info": {
+            "bucket": "Normal",
+            "class": "NoPrice",
+            "category_tags": "HUD Skins",
+            "date": "3/21/2014",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "hud_sandsofluxor",
+                "modifier": "hud_sandsofluxor",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#b0c3d9",
+        "item_name_cn": "卢克索沙漠"
+    },
+    "10472": {
+        "name": "Tombstone",
+        "prefab": "hud_skin",
+        "creation_date": "2014-03-14",
+        "image_inventory": "econ/huds/hud_undying_hud",
+        "item_name": "#DOTA_Item_Tombstone",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "price_info": {
+            "bucket": "Normal",
+            "class": "NoPrice",
+            "category_tags": "HUD Skins",
+            "date": "3/14/2014",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "undying_hud",
+                "modifier": "undying_hud",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#b0c3d9",
+        "item_name_cn": "墓碑"
+    },
+    "10480": {
+        "name": "Dreamleague HUD",
+        "prefab": "hud_skin",
+        "creation_date": "2014-04-17",
+        "image_inventory": "econ/huds/hud_Dreamleague",
+        "item_name": "#DOTA_Item_Dreamleague",
+        "item_rarity": "rare",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "Dreamleague",
+                "frequency": "1",
+                "modifier": "day_night"
+            }
+        },
+        "rarity_color": "#4b69ff",
+        "item_name_cn": "苍天之裔"
+    },
+    "10484": {
+        "name": "Temple of the Sacred Memories HUD",
+        "prefab": "hud_skin",
+        "creation_date": "2014-03-31",
+        "image_inventory": "econ/huds/hud_sacredmemories_hud",
+        "item_name": "#DOTA_Item_Temple_of_the_Sacred_Memories_HUD",
+        "item_rarity": "uncommon",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "price_info": {
+            "bucket": "Normal",
+            "class": "NoPrice",
+            "category_tags": "HUD Skins",
+            "date": "4/29/2014",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "sacredmemories_hud",
+                "modifier": "sacredmemories_hud",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#5e98d9",
+        "item_name_cn": "圣忆之庙界面皮肤"
+    },
+    "10485": {
+        "name": "Techlabs Moscow Cup 2014 HUD",
+        "prefab": "hud_skin",
+        "creation_date": "2014-03-31",
+        "image_inventory": "econ/huds/hud_techlabs2014",
+        "item_name": "#DOTA_Item_Techlabs_Moscow_Cup_2014_HUD",
+        "item_rarity": "rare",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "techlabs2014",
+                "modifier": "techlabs2014",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#4b69ff",
+        "item_name_cn": "2014年Techlabs杯莫斯科联赛界面皮肤"
+    },
+    "10489": {
+        "name": "Rei da Mesa",
+        "prefab": "hud_skin",
+        "creation_date": "2014-04-01",
+        "image_inventory": "econ/huds/hud_eslbrazil_hud",
+        "item_name": "#DOTA_Item_Rei_da_Mesa",
+        "item_rarity": "rare",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "eslbrazil_hud",
+                "modifier": "eslbrazil_hud",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#4b69ff",
+        "item_name_cn": "山丘之王"
+    },
+    "10490": {
+        "name": "Force of Spirit",
+        "prefab": "hud_skin",
+        "creation_date": "2014-04-01",
+        "image_inventory": "econ/huds/hud_force_of_spirit",
+        "item_name": "#DOTA_Item_Force_of_Spirit",
+        "item_rarity": "uncommon",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "price_info": {
+            "bucket": "Normal",
+            "class": "NoPrice",
+            "category_tags": "HUD Skins",
+            "date": "4/2/2014",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "force_of_spirit",
+                "modifier": "force_of_spirit",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#5e98d9",
+        "item_name_cn": "魂灵之力"
+    },
+    "10492": {
+        "name": "Black Monolith",
+        "prefab": "hud_skin",
+        "creation_date": "2014-04-02",
+        "image_inventory": "econ/huds/hud_black_monolith",
+        "item_name": "#DOTA_Item_Black_Monolith",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "price_info": {
+            "bucket": "Normal",
+            "class": "NoPrice",
+            "category_tags": "HUD Skins",
+            "date": "4/2/2014",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "black_monolith",
+                "modifier": "black_monolith",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#b0c3d9",
+        "item_name_cn": "纯黑巨物"
+    },
+    "10493": {
+        "name": "ESL One Fortress HUD",
+        "prefab": "hud_skin",
+        "creation_date": "2014-05-06",
+        "image_inventory": "econ/huds/hud_esl_one_hud_fortress",
+        "item_name": "#DOTA_Item_ESL_One_Fortress_HUD",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "esl_one_hud_fortress",
+                "modifier": "esl_one_hud_fortress",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#b0c3d9",
+        "item_name_cn": "ESL One坚城界面皮肤"
+    },
+    "10494": {
+        "name": "Hellfire",
+        "prefab": "hud_skin",
+        "creation_date": "2014-04-15",
+        "image_inventory": "econ/huds/hud_hellfire",
+        "item_name": "#DOTA_Item_Hellfire",
+        "item_rarity": "rare",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "price_info": {
+            "bucket": "Normal",
+            "class": "NoPrice",
+            "category_tags": "HUD Skins",
+            "date": "4/15/2014",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "hellfire",
+                "modifier": "hellfire",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#4b69ff",
+        "item_name_cn": "冥界之火"
+    },
+    "10522": {
+        "name": "Alliance HUD",
+        "prefab": "hud_skin",
+        "creation_date": "2014-04-22",
+        "image_inventory": "econ/huds/hud_alliance",
+        "item_name": "#DOTA_Item_Alliance_HUD",
+        "item_rarity": "rare",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "price_info": {
+            "bucket": "Normal",
+            "class": "NoPrice",
+            "category_tags": "HUD Skins",
+            "date": "4/24/2014",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "alliance",
+                "modifier": "alliance",
+                "frequency": "1"
+            },
+            "styles": {
+                "0": {
+                    "name": "#DOTA_Item_Alliance_Hud_Style0",
+                    "alternate_icon": "0",
+                    "skin": "0"
+                },
+                "1": {
+                    "name": "#DOTA_Item_Alliance_Hud_Style1",
+                    "alternate_icon": "1",
+                    "skin": "1"
+                }
+            },
+            "alternate_icons": {
+                "0": {
+                    "icon_path": "econ/huds/alliance_style0"
+                },
+                "1": {
+                    "icon_path": "econ/huds/alliance_style1"
+                }
+            }
+        },
+        "branding": {
+            "team_id": "111474"
+        },
+        "rarity_color": "#4b69ff",
+        "item_name_cn": "Alliance战队界面皮肤"
+    },
+    "10523": {
+        "name": "Triumph",
+        "prefab": "hud_skin",
+        "static_attributes": {
+            "international tag": {
+                "attribute_class": "international tag",
+                "value": "2014"
+            }
+        },
+        "creation_date": "2014-05-14",
+        "image_inventory": "econ/huds/hud_ti4",
+        "item_description": "#DOTA_Item_Desc_Triumph",
+        "item_name": "#DOTA_Item_Triumph",
+        "item_quality": "genuine",
+        "item_rarity": "mythical",
+        "item_type_name": "#DOTA_WearableType_International_HUD_Skin",
+        "visuals": {
+            "asset_modifier1": {
+                "type": "hud_skin",
+                "asset": "ti4",
+                "modifier": "ti4"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "丰功伟绩"
+    },
+    "10586": {
+        "name": "Living in Darkness",
+        "prefab": "hud_skin",
+        "creation_date": "2014-05-19",
+        "image_inventory": "econ/huds/hud_livingindarkness",
+        "item_name": "#DOTA_Item_Living_in_Darkness",
+        "item_rarity": "rare",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "price_info": {
+            "bucket": "Normal",
+            "class": "NoPrice",
+            "category_tags": "HUD Skins",
+            "date": "5/20/2014",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "livingindarkness",
+                "modifier": "livingindarkness",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#4b69ff",
+        "item_name_cn": "暗黑之世"
+    },
+    "10689": {
+        "name": "Red Warrior",
+        "prefab": "hud_skin",
+        "creation_date": "2014-06-13",
+        "image_inventory": "econ/huds/hud_redwarrior_hud",
+        "item_name": "#DOTA_Item_Red_Warrior",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "redwarrior_hud",
+                "modifier": "redwarrior_hud",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#b0c3d9",
+        "item_name_cn": "赤胆之士"
+    },
+    "10722": {
+        "name": "Brewery",
+        "prefab": "hud_skin",
+        "creation_date": "2014-06-24",
+        "image_inventory": "econ/huds/hud_brewery",
+        "item_name": "#DOTA_Item_Brewery",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "brewery",
+                "modifier": "brewery",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#b0c3d9",
+        "item_name_cn": "佳酿流芳"
+    },
+    "10730": {
+        "name": "Team Empire HUD",
+        "prefab": "hud_skin",
+        "creation_date": "2014-06-25",
+        "image_inventory": "econ/huds/hud_team_empire_hud",
+        "item_name": "#DOTA_Item_Team_Empire_HUD",
+        "item_rarity": "rare",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "price_info": {
+            "bucket": "Normal",
+            "class": "NoPrice",
+            "category_tags": "HUD Skins",
+            "date": "7/1/2014",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "team_empire_hud",
+                "modifier": "team_empire_hud",
+                "frequency": "1"
+            }
+        },
+        "branding": {
+            "team_id": "46"
+        },
+        "rarity_color": "#4b69ff",
+        "item_name_cn": "Empire战队界面皮肤"
+    },
+    "10751": {
+        "name": "Evil Geniuses HUD",
+        "prefab": "hud_skin",
+        "creation_date": "2014-07-10",
+        "image_inventory": "econ/huds/hud_evil_genius_hud",
+        "item_name": "#DOTA_Item_Evil_Geniuses_HUD",
+        "item_rarity": "rare",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "price_info": {
+            "bucket": "Normal",
+            "class": "NoPrice",
+            "category_tags": "HUD Skins",
+            "date": "8/12/2014",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "evil_genius_hud",
+                "modifier": "evil_genius_hud",
+                "frequency": "1"
+            }
+        },
+        "branding": {
+            "team_id": "39"
+        },
+        "rarity_color": "#4b69ff",
+        "item_name_cn": "Evil Geniuses战队界面皮肤"
+    },
+    "10755": {
+        "name": "Titan",
+        "prefab": "hud_skin",
+        "creation_date": "2014-08-04",
+        "image_inventory": "econ/huds/hud_titan_hud",
+        "item_name": "#DOTA_Item_Titan",
+        "item_rarity": "rare",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "price_info": {
+            "bucket": "Normal",
+            "class": "NoPrice",
+            "category_tags": "HUD Skins",
+            "date": "8/4/2014",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "titan_hud",
+                "modifier": "titan_hud",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#4b69ff",
+        "item_name_cn": "巨神之辉"
+    },
+    "10832": {
+        "name": "Beyond the Summit HUD",
+        "prefab": "hud_skin",
+        "creation_date": "2014-09-02",
+        "image_inventory": "econ/huds/hud_bts_summit",
+        "item_name": "#DOTA_Item_Beyond_the_Summit_HUD",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "price_info": {
+            "category_tags": "HUD Skins",
+            "date": "10/1/2014",
+            "price": "299"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "bts_summit",
+                "modifier": "bts_summit",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#b0c3d9",
+        "item_name_cn": "Beyond the Summit界面皮肤"
+    },
+    "10836": {
+        "name": "Detonation HUD",
+        "prefab": "hud_skin",
+        "creation_date": "2014-08-22",
+        "image_inventory": "econ/huds/hud_detonation",
+        "item_name": "#DOTA_Item_Detonation_HUD",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "price_info": {
+            "category_tags": "HUD Skins",
+            "date": "8/28/2014",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "detonation",
+                "modifier": "detonation",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#b0c3d9",
+        "item_name_cn": "爆破在即"
+    },
+    "10848": {
+        "name": "SLTV Star Series X HUD",
+        "prefab": "hud_skin",
+        "creation_date": "2014-09-11",
+        "image_inventory": "econ/huds/hud_sltvx",
+        "item_name": "#DOTA_Item_SLTV_Star_Series_X_HUD",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "sltvx",
+                "modifier": "sltvx",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#b0c3d9",
+        "item_name_cn": "SLTV群星联赛第十赛季界面皮肤"
+    },
+    "10876": {
+        "name": "DotaCinema HUD",
+        "prefab": "hud_skin",
+        "creation_date": "2014-10-28",
+        "image_inventory": "econ/huds/hud_dc_dayhud",
+        "item_name": "#DOTA_Item_DotaCinema_HUD",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "price_info": {
+            "category_tags": "HUD Skins",
+            "date": "10/28/2014",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "dc_dayhud",
+                "modifier": "dc_dayhud",
+                "frequency": "1"
+            },
+            "styles": {
+                "0": {
+                    "name": "#DOTA_Item_DotaCinema_Hud_Style0",
+                    "alternate_icon": "0",
+                    "skin": "0"
+                },
+                "1": {
+                    "name": "#DOTA_Item_DotaCinema_Hud_Style1",
+                    "alternate_icon": "1",
+                    "skin": "1"
+                }
+            },
+            "alternate_icons": {
+                "0": {
+                    "icon_path": "econ/huds/hud_dc_dayhud"
+                },
+                "1": {
+                    "icon_path": "econ/huds/hud_dc_cd2_hud"
+                }
+            }
+        },
+        "rarity_color": "#b0c3d9",
+        "item_name_cn": "DotaCinema界面皮肤"
+    },
+    "10879": {
+        "name": "Demonic Essence",
+        "prefab": "hud_skin",
+        "creation_date": "2014-09-26",
+        "image_inventory": "econ/huds/hud_demonichud",
+        "item_name": "#DOTA_Item_Demonic_Essence",
+        "item_rarity": "uncommon",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "demonichud",
+                "modifier": "demonichud",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#5e98d9",
+        "item_name_cn": "魔之精华"
+    },
+    "10887": {
+        "name": "Midnight Terror",
+        "prefab": "hud_skin",
+        "creation_date": "2014-10-13",
+        "image_inventory": "econ/huds/hud_midnight_terror",
+        "item_name": "#DOTA_Item_Midnight_Terror",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "price_info": {
+            "category_tags": "HUD Skins",
+            "date": "10/14/2014",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "bane_delirium",
+                "modifier": "bane_delirium",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#b0c3d9",
+        "item_name_cn": "午夜噩梦"
+    },
+    "10903": {
+        "name": "Brawl Basher",
+        "prefab": "hud_skin",
+        "creation_date": "2014-10-13",
+        "image_inventory": "econ/huds/hud_brawl_basher",
+        "item_name": "#DOTA_Item_Brawl_Basher",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "price_info": {
+            "category_tags": "HUD Skins",
+            "date": "10/14/2014",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "brawl_basher",
+                "modifier": "brawl_basher",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#b0c3d9",
+        "item_name_cn": "搏击格斗家"
+    },
+    "10929": {
+        "name": "i-League Season 2 HUD Skin",
+        "prefab": "hud_skin",
+        "creation_date": "2014-12-02",
+        "image_inventory": "econ/huds/hud_dancing_butterfly_loading_screen",
+        "item_name": "#DOTA_Item_iLeague_Season_2_HUD_Skin",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "price_info": {
+            "category_tags": "HUD Skins",
+            "date": "12/2/2014",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "dancing_butterfly_loading_screen",
+                "modifier": "dancing_butterfly_loading_screen",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#b0c3d9",
+        "item_name_cn": "i-联赛第2赛季界面皮肤"
+    },
+    "10957": {
+        "name": "Azure Constellation HUD",
+        "prefab": "hud_skin",
+        "creation_date": "2014-12-05",
+        "image_inventory": "econ/huds/hud_zodiac_hud",
+        "item_name": "#DOTA_Item_Azure_Constellation_HUD",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "price_info": {
+            "category_tags": "HUD Skins",
+            "date": "12/16/2014",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "zodiac_hud",
+                "modifier": "zodiac_hud",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#b0c3d9",
+        "item_name_cn": "蔚蓝星象界面皮肤"
+    },
+    "10971": {
+        "name": "Ghostly Silence",
+        "prefab": "hud_skin",
+        "creation_date": "2014-12-08",
+        "image_inventory": "econ/huds/hud_ghostly_silence",
+        "item_name": "#DOTA_Item_Ghostly_Silence",
+        "item_rarity": "uncommon",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "price_info": {
+            "category_tags": "HUD Skins",
+            "date": "12/12/2014",
+            "price": "249"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "ghostly_silence",
+                "modifier": "ghostly_silence",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#5e98d9",
+        "item_name_cn": "灵异之寂"
+    },
+    "10973": {
+        "name": "Winged Guardian",
+        "prefab": "hud_skin",
+        "creation_date": "2014-12-08",
+        "image_inventory": "econ/huds/hud_guardian_angel",
+        "item_name": "#DOTA_Item_Winged_Guardian",
+        "item_rarity": "uncommon",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "price_info": {
+            "category_tags": "HUD Skins",
+            "date": "12/12/2014",
+            "price": "249"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "guardian_angel",
+                "modifier": "guardian_angel",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#5e98d9",
+        "item_name_cn": "守护之翼"
+    },
+    "10974": {
+        "name": "Iron Thorn",
+        "prefab": "hud_skin",
+        "creation_date": "2014-12-08",
+        "image_inventory": "econ/huds/hud_iron_thorn",
+        "item_name": "#DOTA_Item_Iron_Thorn",
+        "item_rarity": "uncommon",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "price_info": {
+            "category_tags": "HUD Skins",
+            "date": "12/12/2014",
+            "price": "249"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "iron_thorn",
+                "modifier": "iron_thorn",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#5e98d9",
+        "item_name_cn": "湛铁蒺藜"
+    },
+    "10975": {
+        "name": "Brood Hunter",
+        "prefab": "hud_skin",
+        "creation_date": "2014-12-08",
+        "image_inventory": "econ/huds/hud_tarantula",
+        "item_name": "#DOTA_Item_Brood_Hunter",
+        "item_rarity": "uncommon",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "price_info": {
+            "category_tags": "HUD Skins",
+            "date": "12/12/2014",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "tarantula",
+                "modifier": "tarantula",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#5e98d9",
+        "item_name_cn": "育母猎手"
+    },
+    "11106": {
+        "name": "Hearth of the Pit",
+        "prefab": "hud_skin",
+        "creation_date": "2015-01-22",
+        "image_inventory": "econ/huds/hud_dotapit_s3_hud",
+        "item_name": "#DOTA_Item_Hearth_of_the_Pit",
+        "item_rarity": "uncommon",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "dotapit_s3_hud",
+                "modifier": "dotapit_s3_hud",
+                "frequency": "1"
+            }
+        },
+        "price_info": {
+            "category_tags": "HUD Skins",
+            "date": "1/23/2015",
+            "price": "0"
+        },
+        "rarity_color": "#5e98d9",
+        "item_name_cn": "渊之炉石"
+    },
+    "11137": {
+        "name": "Dota 2 Asia Championship HUD",
+        "prefab": "hud_skin",
+        "creation_date": "2015-02-05",
+        "image_inventory": "econ/huds/hud_dac_2015_2",
+        "item_name": "#DOTA_Item_Dota_2_Asia_Championship_HUD",
+        "item_quality": "genuine",
+        "item_rarity": "rare",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "static_attributes": {
+            "tradable after date": {
+                "attribute_class": "tradable_after_date",
+                "value": "1425168000"
+            }
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "dac_2015",
+                "modifier": "dac_2015",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#4b69ff",
+        "item_name_cn": "Dota 2亚洲邀请赛界面皮肤"
+    },
+    "11163": {
+        "name": "D2CL Season 5 HUD",
+        "prefab": "hud_skin",
+        "creation_date": "2015-02-17",
+        "image_inventory": "econ/huds/d2cls5_hud/hud_d2cls5_hud",
+        "item_name": "#DOTA_Item_D2CL_Season_5_HUD",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "price_info": {
+            "category_tags": "Equipment",
+            "date": "2/18/2015",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "D2CLS5_HUD",
+                "modifier": "D2CLS5_HUD",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#b0c3d9",
+        "item_name_cn": "D2CL第5赛季界面皮肤"
+    },
+    "11186": {
+        "name": "The Summit 3 HUD",
+        "prefab": "hud_skin",
+        "creation_date": "2015-02-25",
+        "image_inventory": "econ/huds/bts3_hud/hud_bts3_hud",
+        "item_name": "#DOTA_Item_The_Summit_3_HUD",
+        "item_rarity": "uncommon",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "bts3_hud",
+                "modifier": "bts3_hud",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#5e98d9",
+        "item_name_cn": "巅峰联赛第3赛季界面皮肤"
+    },
+    "11197": {
+        "name": "Donbass Cup HUD",
+        "prefab": "hud_skin",
+        "creation_date": "2015-03-05",
+        "image_inventory": "econ/huds/_hud_skin__donbass_cup/hud__hud_skin__donbass_cup",
+        "item_name": "#DOTA_Item_Donbass_Cup_HUD",
+        "item_type_name": "#DOTA_WearableType_HUD",
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "donbass_cup_hud",
+                "modifier": "donbass_cup_hud",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#b0c3d9",
+        "item_name_cn": "Donbass联赛界面皮肤"
+    },
+    "11335": {
+        "name": "ViCi Gaming Hud Skin",
+        "prefab": "hud_skin",
+        "creation_date": "2015-05-21",
+        "image_inventory": "econ/huds/vici_gaming/hud_vici_gaming",
+        "item_name": "#DOTA_Item_ViCi_Gaming_Hud_Skin",
+        "item_rarity": "rare",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "price_info": {
+            "category_tags": "HUD Skins",
+            "date": "5/22/2015",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "vici_gaming",
+                "modifier": "vici_gaming",
+                "frequency": "1"
+            }
+        },
+        "branding": {
+            "team_id": "726228"
+        },
+        "rarity_color": "#4b69ff",
+        "item_name_cn": "ViCi Gaming界面皮肤"
+    },
+    "11349": {
+        "name": "The International 2015 HUD",
+        "prefab": "hud_skin",
+        "creation_date": "2015-05-04",
+        "event_id": "EVENT_ID_INTERNATIONAL_2015",
+        "image_inventory": "econ/huds/the_international_2015/hud_the_international_2015",
+        "item_name": "#DOTA_Item_The_International_2015_HUD",
+        "item_rarity": "rare",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "static_attributes": {
+            "international tag": {
+                "attribute_class": "international_tag",
+                "value": "2015"
+            },
+            "tradable after date": {
+                "attribute_class": "tradable_after_date",
+                "value": "1441065600"
+            }
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "the_international_2015",
+                "modifier": "the_international_2015",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#4b69ff",
+        "item_name_cn": "2015年国际邀请赛界面皮肤"
+    },
+    "11370": {
+        "name": "Virtus.Pro HUD Skin",
+        "prefab": "hud_skin",
+        "creation_date": "2015-05-18",
+        "image_inventory": "econ/huds/virtus_pro/hud_virtus_pro",
+        "item_name": "#DOTA_Item_VirtusPro_HUD_Skin",
+        "item_rarity": "rare",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "price_info": {
+            "category_tags": "HUD Skins",
+            "date": "5/22/2015",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "virtus_pro",
+                "modifier": "virtus_pro",
+                "frequency": "1"
+            }
+        },
+        "branding": {
+            "team_id": "1883502"
+        },
+        "rarity_color": "#4b69ff",
+        "item_name_cn": "Virtus.pro界面皮肤"
+    },
+    "11406": {
+        "name": "HUD of the Burning Scale",
+        "prefab": "hud_skin",
+        "creation_date": "2015-06-02",
+        "image_inventory": "econ/huds/fireborn_hud/hud_fireborn_hud",
+        "item_name": "#DOTA_Item_HUD_of_the_Burning_Scale",
+        "item_rarity": "uncommon",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "fireborn_HUD",
+                "modifier": "fireborn_HUD",
+                "frequency": "1"
+            },
+            "styles": {
+                "0": {
+                    "name": "#DOTA_Item_HUD_of_the_Burning_Scale_Style0",
+                    "alternate_icon": "0",
+                    "skin": "0"
+                },
+                "1": {
+                    "name": "#DOTA_Item_HUD_of_the_Burning_Scale_Style1",
+                    "alternate_icon": "1",
+                    "skin": "1"
+                },
+                "2": {
+                    "name": "#DOTA_Item_HUD_of_the_Burning_Scale_Style2",
+                    "alternate_icon": "2",
+                    "skin": "2"
+                },
+                "3": {
+                    "name": "#DOTA_Item_HUD_of_the_Burning_Scale_Style3",
+                    "alternate_icon": "3",
+                    "skin": "3"
+                }
+            },
+            "alternate_icons": {
+                "0": {
+                    "icon_path": "econ/huds/fireborn_hud/hud_fireborn_hud"
+                },
+                "1": {
+                    "icon_path": "econ/huds/fireborn_hud/style1/hud_fireborn_hud_green"
+                },
+                "2": {
+                    "icon_path": "econ/huds/fireborn_hud/style2/hud_fireborn_hud_red"
+                },
+                "3": {
+                    "icon_path": "econ/huds/fireborn_hud/style3/hud_fireborn_hud_blue"
+                }
+            }
+        },
+        "rarity_color": "#5e98d9",
+        "item_name_cn": "烈焰之鳞界面皮肤"
+    },
+    "11544": {
+        "name": "The International 2016 HUD",
+        "prefab": "hud_skin",
+        "creation_date": "2016-05-16",
+        "event_id": "EVENT_ID_INTERNATIONAL_2016",
+        "image_inventory": "econ/huds/the_international_2016/hud_ti6",
+        "item_name": "#DOTA_Item_The_International_2016_HUD",
+        "item_rarity": "rare",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "static_attributes": {
+            "international tag": {
+                "attribute_class": "international_tag",
+                "value": "2016"
+            },
+            "tradable after date": {
+                "attribute_class": "tradable_after_date",
+                "value": "1471158000"
+            }
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "the_international_2016",
+                "modifier": "the_international_2016",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#4b69ff",
+        "item_name_cn": "2016年国际邀请赛界面皮肤"
+    },
+    "18714": {
+        "name": "Aghanim's Labryinth 2021 HUD",
+        "prefab": "hud_skin",
+        "creation_date": "2021-11-19",
+        "event_id": "EVENT_ID_FALL_2021",
+        "image_inventory": "econ/huds/aghanims_labyrinth_2021/aghanims_labyrinth_2021",
+        "item_name": "#DOTA_Item_Aghanims_Labryinth_2021_HUD",
+        "item_rarity": "rare",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "aghanims_labyrinth_2021",
+                "modifier": "aghanims_labyrinth_2021",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#4b69ff",
+        "item_name_cn": "2021年阿哈利姆的天地迷宫界面皮肤"
+    },
+    "22075": {
+        "name": "The International 2021 HUD",
+        "prefab": "hud_skin",
+        "creation_date": "2021-09-24",
+        "event_id": "EVENT_ID_INTERNATIONAL_2016",
+        "image_inventory": "econ/huds/the_international_2021/hud_the_international_2021",
+        "item_name": "#DOTA_Item_The_International_2021_HUD",
+        "item_rarity": "rare",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "static_attributes": {
+            "tradable after date": {
+                "attribute_class": "tradable_after_date",
+                "value": "1637229600"
+            }
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "the_international_2021",
+                "modifier": "the_international_2021",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#4b69ff",
+        "item_name_cn": "2021年国际邀请赛界面皮肤"
+    },
+    "22774": {
+        "name": "Battle Pass 2022 HUD",
+        "prefab": "hud_skin",
+        "creation_date": "2022-07-18",
+        "event_id": "EVENT_ID_INTERNATIONAL_2022",
+        "image_inventory": "econ/huds/the_international_2022/hud_the_international_2022",
+        "item_name": "#DOTA_Item_Battle_Pass_2022_HUD",
+        "item_rarity": "rare",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "static_attributes": {
+            "tradable after date": "1698865200"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "the_international_2022",
+                "modifier": "the_international_2022",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#4b69ff",
+        "item_name_cn": "2022年勇士令状界面皮肤"
+    },
+    "29351": {
+        "name": "The International 2023 HUD",
+        "prefab": "hud_skin",
+        "creation_date": "2023-08-21",
+        "event_id": "EVENT_ID_INTERNATIONAL_2023",
+        "image_inventory": "econ/huds/the_international_2023/hud_the_international_2023",
+        "item_name": "#DOTA_Item_The_International_2023_HUD",
+        "item_rarity": "rare",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "hide_tradecraftdelete": "1",
+        "static_attributes": {
+            "featured_until": "1697007600",
+            "additional_exclusive_tooltip_text": "DOTA_EconItemSet_Tooltip_Immortals_TI12_Limited_Tradeability",
+            "tradable after date": "1735725600"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "the_international_2023",
+                "modifier": "the_international_2023",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#4b69ff",
+        "item_name_cn": "2023年国际邀请赛界面皮肤"
+    },
+    "30324": {
+        "name": "The International 2024 HUD",
+        "prefab": "hud_skin",
+        "creation_date": "2024-08-22",
+        "event_id": "EVENT_ID_INTERNATIONAL_2024",
+        "hide_tradecraftdelete": "1",
+        "image_inventory": "econ/huds/the_international_2024/hud_the_international_2024",
+        "item_name": "#DOTA_Item_The_International_2024_HUD",
+        "item_rarity": "rare",
+        "item_type_name": "#DOTA_WearableType_HUD_Skin",
+        "static_attributes": {
+            "featured_until": "1728630000",
+            "additional_exclusive_tooltip_text": "DOTA_EconItemSet_Tooltip_Immortals_TI13_Limited_Tradeability",
+            "tradable after date": "1767261600"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "hud_skin",
+                "asset": "the_international_2024",
+                "modifier": "the_international_2024",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#4b69ff",
+        "item_name_cn": "2024年国际邀请赛界面皮肤"
+    }
+}

@@ -1,0 +1,71 @@
+﻿{
+    "10731": {
+        "name": "Battle Glory Kill Banner",
+        "prefab": "misc",
+        "creation_date": "2014-06-26",
+        "image_inventory": "econ/tools/killbanner_ti4",
+        "item_description": "#DOTA_Item_Desc_Battle_Glory_Kill_Banner",
+        "item_name": "#DOTA_Item_Battle_Glory_Kill_Banner",
+        "item_rarity": "mythical",
+        "item_slot": "multikill_banner",
+        "item_type_name": "#DOTA_WearableType_MultiKill_Banner",
+        "player_loadout": "1",
+        "used_by_heroes": "1",
+        "rarity_color": "#8847ff",
+        "item_name_cn": "战场荣耀击杀标语"
+    },
+    "11548": {
+        "name": "The International 2016 Multikill Banner",
+        "prefab": "misc",
+        "creation_date": "2016-05-12",
+        "image_inventory": "econ/tools/killbanner_ti4",
+        "item_description": "#DOTA_Item_Desc_The_International_2016_Multikill_Banner",
+        "item_name": "#DOTA_Item_The_International_2016_Multikill_Banner",
+        "item_rarity": "mythical",
+        "item_slot": "multikill_banner",
+        "item_type_name": "#DOTA_WearableType_MultiKill_Banner",
+        "player_loadout": "1",
+        "portraits": {
+            "icon": {
+                "cameras": {
+                    "Default": {
+                        "PortraitPosition": "0.000000 0.000000 0.000000",
+                        "PortraitAngles": "0.000000 0.000000 0.000000",
+                        "PortraitFOV": "15",
+                        "PortraitFar": "1000"
+                    }
+                },
+                "PortraitLightPosition": "0.000000 0.000000 0.000000",
+                "PortraitLightAngles": "0.000000 0.000000 0.000000",
+                "PortraitLightFOV": "15",
+                "PortraitLightDistance": "250",
+                "PortraitLightColor": "243 237 230",
+                "PortraitLightScale": "1",
+                "PortraitShadowColor": "89 89 89",
+                "PortraitShadowScale": "0.300000",
+                "PortraitGroundShadowScale": "0.300000",
+                "PortraitAmbientDirection": "400.000 -400.000 -50.000",
+                "PortraitAmbientColor": "123 168 168",
+                "PortraitAmbientScale": "0.500000",
+                "PortraitSpecularColor": "251 74 84",
+                "PortraitSpecularDirection": "0.000000 0.000000 -1.000000",
+                "PortraitSpecularPower": "16",
+                "PortraitBackgroundColor1": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundColor2": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundColor3": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundColor4": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundTexture": "materials/vgui/econ/item_icon_bg.vmat",
+                "PortraitAnimationActivity": "ACT_DOTA_IDLE",
+                "PortraitAnimationCycle": "0",
+                "PortraitAnimationRate": "1",
+                "PortraitHideHero": "0",
+                "PortraitHideParticles": "0",
+                "PortraitHideDropShadow": "0",
+                "PortraitDesaturateParticles": "0"
+            }
+        },
+        "used_by_heroes": "1",
+        "rarity_color": "#8847ff",
+        "item_name_cn": "2016年国际邀请赛多杀标语"
+    }
+}

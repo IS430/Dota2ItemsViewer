@@ -1,0 +1,176 @@
+﻿{
+    "10954": {
+        "name": "Fantasy S2 Gold Teleport",
+        "prefab": "teleport_effect",
+        "creation_date": "2014-12-04",
+        "expiration_date": "2015-06-01",
+        "image_inventory": "econ/tools/fantasy_s2_tp_gold",
+        "item_description": "#DOTA_Item_Desc_Fantasy_S2_Gold_Teleport",
+        "item_name": "#DOTA_Item_Fantasy_S2_Gold_Teleport",
+        "item_rarity": "rare",
+        "particle_folder": "particles/econ/events/league_teleport_2014",
+        "static_attributes": {
+            "cannot trade": {
+                "attribute_class": "cannot_trade",
+                "value": "1"
+            },
+            "not marketable": {
+                "attribute_class": "not marketable",
+                "value": "1"
+            }
+        },
+        "visuals": {
+            "asset_modifier2": {
+                "type": "particle",
+                "asset": "particles/items2_fx/teleport_start.vpcf",
+                "modifier": "particles/econ/events/league_teleport_2014/teleport_start_league_gold.vpcf"
+            },
+            "asset_modifier3": {
+                "type": "particle",
+                "asset": "particles/items2_fx/teleport_end.vpcf",
+                "modifier": "particles/econ/events/league_teleport_2014/teleport_end_league_gold.vpcf"
+            }
+        },
+        "rarity_color": "#4b69ff",
+        "item_name_cn": "梦幻联赛第2赛季黄金传送特效"
+    },
+    "10959": {
+        "name": "Fantasy S2 Silver Teleport",
+        "prefab": "teleport_effect",
+        "creation_date": "2014-12-05",
+        "expiration_date": "2015-06-01",
+        "image_inventory": "econ/tools/fantasy_s2_tp_silver",
+        "item_description": "#DOTA_Item_Desc_Fantasy_S2_Silver_Teleport",
+        "item_name": "#DOTA_Item_Fantasy_S2_Silver_Teleport",
+        "item_rarity": "rare",
+        "particle_folder": "particles/econ/events/league_teleport_2014",
+        "static_attributes": {
+            "cannot trade": {
+                "attribute_class": "cannot_trade",
+                "value": "1"
+            },
+            "not marketable": {
+                "attribute_class": "not marketable",
+                "value": "1"
+            }
+        },
+        "visuals": {
+            "asset_modifier2": {
+                "type": "particle",
+                "asset": "particles/items2_fx/teleport_start.vpcf",
+                "modifier": "particles/econ/events/league_teleport_2014/teleport_start_league_silver.vpcf"
+            },
+            "asset_modifier3": {
+                "type": "particle",
+                "asset": "particles/items2_fx/teleport_end.vpcf",
+                "modifier": "particles/econ/events/league_teleport_2014/teleport_end_league_silver.vpcf"
+            }
+        },
+        "rarity_color": "#4b69ff",
+        "item_name_cn": "梦幻联赛第2赛季白银传送特效"
+    },
+    "10960": {
+        "name": "Fantasy S2 Bronze Teleport",
+        "prefab": "teleport_effect",
+        "creation_date": "2014-12-05",
+        "expiration_date": "2015-06-01",
+        "image_inventory": "econ/tools/fantasy_s2_tp_bronze",
+        "item_description": "#DOTA_Item_Desc_Fantasy_S2_Bronze_Teleport",
+        "item_name": "#DOTA_Item_Fantasy_S2_Bronze_Teleport",
+        "item_rarity": "rare",
+        "particle_folder": "particles/econ/events/league_teleport_2014",
+        "static_attributes": {
+            "cannot trade": {
+                "attribute_class": "cannot_trade",
+                "value": "1"
+            },
+            "not marketable": {
+                "attribute_class": "not marketable",
+                "value": "1"
+            }
+        },
+        "visuals": {
+            "asset_modifier2": {
+                "type": "particle",
+                "asset": "particles/items2_fx/teleport_start.vpcf",
+                "modifier": "particles/econ/events/league_teleport_2014/teleport_start_league_bronze.vpcf"
+            },
+            "asset_modifier3": {
+                "type": "particle",
+                "asset": "particles/items2_fx/teleport_end.vpcf",
+                "modifier": "particles/econ/events/league_teleport_2014/teleport_end_league_bronze.vpcf"
+            }
+        },
+        "rarity_color": "#4b69ff",
+        "item_name_cn": "梦幻联赛第2赛季青铜传送特效"
+    },
+    "10987": {
+        "name": "Dota 2 Asia Championship 2015 Teleport",
+        "prefab": "teleport_effect",
+        "creation_date": "2014-12-15",
+        "expiration_date": "2015-06-01",
+        "image_inventory": "econ/tools/pw_compendium_2015_tp",
+        "item_name": "#DOTA_Item_Dota_2_Asia_Championship_2015_Teleport",
+        "item_quality": "genuine",
+        "item_rarity": "rare",
+        "particle_folder": "particles/econ/events/pw_compendium_2014",
+        "static_attributes": {
+            "cannot trade": {
+                "attribute_class": "cannot_trade",
+                "value": "1"
+            },
+            "not marketable": {
+                "attribute_class": "not marketable",
+                "value": "1"
+            }
+        },
+        "visuals": {
+            "asset_modifier2": {
+                "type": "particle",
+                "asset": "particles/items2_fx/teleport_start.vpcf",
+                "modifier": "particles/econ/events/pw_compendium_2014/teleport_start_pw2014.vpcf"
+            },
+            "asset_modifier3": {
+                "type": "particle",
+                "asset": "particles/items2_fx/teleport_end.vpcf",
+                "modifier": "particles/econ/events/pw_compendium_2014/teleport_end_pw2014.vpcf"
+            }
+        },
+        "rarity_color": "#4b69ff",
+        "item_name_cn": "2015年Dota 2亚洲邀请赛传送特效"
+    },
+    "11136": {
+        "name": "PC Bang Compendium 2015 Teleport",
+        "prefab": "teleport_effect",
+        "creation_date": "2015-02-04",
+        "expiration_date": "2015-12-20 00:00:00",
+        "image_inventory": "econ/tools/nexon_teleport_pcbang_compendium_2015",
+        "item_name": "#DOTA_Item_PC_Bang_Compendium_2015_Teleport",
+        "item_rarity": "rare",
+        "particle_folder": "particles/econ/events/nexon_hero_compendium_2014",
+        "static_attributes": {
+            "cannot trade": {
+                "attribute_class": "cannot_trade",
+                "value": "1"
+            },
+            "not marketable": {
+                "attribute_class": "not marketable",
+                "value": "1"
+            }
+        },
+        "visuals": {
+            "asset_modifier2": {
+                "type": "particle",
+                "asset": "particles/items2_fx/teleport_start.vpcf",
+                "modifier": "particles/econ/events/nexon_hero_compendium_2014/teleport_start_nexon_hero_cp_2014.vpcf"
+            },
+            "asset_modifier3": {
+                "type": "particle",
+                "asset": "particles/items2_fx/teleport_end.vpcf",
+                "modifier": "particles/econ/events/nexon_hero_compendium_2014/teleport_end_nexon_hero_cp_2014.vpcf"
+            }
+        },
+        "rarity_color": "#4b69ff",
+        "item_name_cn": "2015年PC Bang互动手册传送特效"
+    }
+}

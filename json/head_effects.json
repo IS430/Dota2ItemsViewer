@@ -1,0 +1,31 @@
+﻿{
+    "18371": {
+        "name": "Pumpkin Head",
+        "prefab": "head_effect",
+        "creation_date": "2020-10-09",
+        "expiration_date": "2020-12-22 12:00:00",
+        "image_inventory": "econ/tools/diretide20_pumpkin_head",
+        "item_description": "#DOTA_Item_Desc_Pumpkin_Head",
+        "item_name": "#DOTA_Item_Pumpkin_Head",
+        "item_rarity": "seasonal",
+        "static_attributes": {
+            "cannot trade": {
+                "attribute_class": "cannot_trade",
+                "value": "1"
+            },
+            "not marketable": {
+                "attribute_class": "not marketable",
+                "value": "1"
+            }
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "diretide_effect",
+                "asset": "extra_cosmetic",
+                "modifier": "particles/econ/events/diretide_2020/hero_pumpkin_head/hero_pumpkin_head_ambient.vpcf"
+            }
+        },
+        "rarity_color": "#FFF34F",
+        "item_name_cn": "南瓜头"
+    }
+}

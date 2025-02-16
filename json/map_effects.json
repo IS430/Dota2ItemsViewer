@@ -1,0 +1,119 @@
+﻿{
+    "18380": {
+        "name": "Diretide Shader Effect",
+        "prefab": "map_effect",
+        "creation_date": "2020-10-11",
+        "event_id": "EVENT_ID_DIRETIDE_2020",
+        "expiration_date": "2020-12-22 12:00:00",
+        "image_inventory": "econ/tools/diretide20_map_art_style",
+        "item_description": "#DOTA_Item_Desc_Diretide_Shader_Effect",
+        "item_name": "#DOTA_Item_Diretide_Shader_Effect",
+        "item_rarity": "seasonal",
+        "static_attributes": {
+            "cannot trade": {
+                "attribute_class": "cannot_trade",
+                "value": "1"
+            },
+            "not marketable": {
+                "attribute_class": "not marketable",
+                "value": "1"
+            }
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "map_effect",
+                "asset": "map_shader",
+                "modifier": "materials/dev/deferred_post_process_graphic.vmat"
+            },
+            "asset_modifier1": {
+                "type": "map_effect",
+                "asset": "portrait_shader",
+                "modifier": "materials/dev/deferred_post_process_graphic_ui.vmat"
+            }
+        },
+        "rarity_color": "#FFF34F",
+        "item_name_cn": "夜魇暗潮着色特效"
+    },
+    "18713": {
+        "name": "Aghanim's Labyrinth Shader Effect",
+        "prefab": "map_effect",
+        "creation_date": "2021-11-19",
+        "event_id": "EVENT_ID_FALL_2021",
+        "expiration_date": "2022-02-23 12:00:00",
+        "image_inventory": "econ/fog_of_war/fow_aghanim_2021",
+        "item_name": "#DOTA_Item_Aghanims_Labyrinth_Shader_Effect",
+        "item_rarity": "seasonal",
+        "item_type_name": "#DOTA_WearableType_Map_Effect",
+        "static_attributes": {
+            "cannot trade": {
+                "attribute_class": "cannot_trade",
+                "value": "1"
+            },
+            "not marketable": {
+                "attribute_class": "not marketable",
+                "value": "1"
+            }
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "map_effect",
+                "asset": "map_shader",
+                "modifier": "materials/dev/deferred_post_process_aghanim_bp.vmat"
+            }
+        },
+        "rarity_color": "#FFF34F",
+        "item_name_cn": "阿哈利姆的天地迷宫着色特效"
+    },
+    "24892": {
+        "name": "Diretide Shader Effect 2022",
+        "prefab": "map_effect",
+        "creation_date": "2022-10-13",
+        "event_id": "EVENT_ID_INTERNATIONAL_2022",
+        "expiration_date": "2023-01-12 12:00:00",
+        "image_inventory": "econ/tools/diretide2022_shader",
+        "item_name": "#DOTA_Item_Diretide_Shader_Effect_2022",
+        "item_rarity": "seasonal",
+        "item_type_name": "#DOTA_WearableType_Map_Effect",
+        "static_attributes": {
+            "cannot trade": "1",
+            "not marketable": "1"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "map_effect",
+                "asset": "map_shader",
+                "modifier": "materials/dev/deferred_post_process_winter.vmat"
+            }
+        },
+        "rarity_color": "#FFF34F",
+        "item_name_cn": "2022年夜魇暗潮着色特效"
+    },
+    "29301": {
+        "name": "10th Anniversary Shader Effect 2023",
+        "prefab": "map_effect",
+        "branding": {
+            "corporation_id": "17302781"
+        },
+        "creation_date": "2023-08-17",
+        "event_id": "EVENT_ID_10TH_ANNIVERSARY",
+        "expiration_date": "2023-11-16 12:00:00",
+        "image_inventory": "econ/tools/10years_map_shader",
+        "item_description": "#DOTA_Item_Desc_10th_Anniversary_Shader_Effect_2023",
+        "item_name": "#DOTA_Item_10th_Anniversary_Shader_Effect_2023",
+        "item_rarity": "seasonal",
+        "item_type_name": "#DOTA_WearableType_Map_Effect",
+        "static_attributes": {
+            "cannot trade": "1",
+            "not marketable": "1"
+        },
+        "visuals": {
+            "asset_modifier": {
+                "type": "map_effect",
+                "asset": "map_shader",
+                "modifier": "materials/dev/deferred_post_process_outlines.vmat"
+            }
+        },
+        "rarity_color": "#FFF34F",
+        "item_name_cn": "十周年 2023年着色特效"
+    }
+}

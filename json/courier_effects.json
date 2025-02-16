@@ -1,0 +1,37 @@
+﻿{
+    "18372": {
+        "name": "Ghostly Courier Effect",
+        "prefab": "courier_effect",
+        "creation_date": "2020-10-08",
+        "event_id": "EVENT_ID_DIRETIDE_2020",
+        "expiration_date": "2020-12-22 12:00:00",
+        "image_inventory": "econ/tools/diretide20_ghostly_courier",
+        "item_description": "#DOTA_Item_Desc_Ghostly_Courier_Effect",
+        "item_name": "#DOTA_Item_Ghostly_Courier_Effect",
+        "item_rarity": "seasonal",
+        "static_attributes": {
+            "cannot trade": {
+                "attribute_class": "cannot_trade",
+                "value": "1"
+            },
+            "not marketable": {
+                "attribute_class": "not marketable",
+                "value": "1"
+            }
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "diretide_effect",
+                "asset": "courier_material",
+                "modifier": "materials/models/courier/courier_ghost.vmat"
+            },
+            "asset_modifier1": {
+                "type": "diretide_effect",
+                "asset": "courier_particles",
+                "modifier": "particles/econ/events/diretide_2020/courier_spooky_ambient/courier_spooky_ambient.vpcf"
+            }
+        },
+        "rarity_color": "#FFF34F",
+        "item_name_cn": "幽灵信使特效"
+    }
+}

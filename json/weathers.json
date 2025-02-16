@@ -1,0 +1,362 @@
+﻿{
+    "10704": {
+        "name": "Weather Snow",
+        "prefab": "misc",
+        "creation_date": "2014-06-17",
+        "image_inventory": "econ/tools/weather_snow",
+        "item_class": "tool",
+        "item_name": "#DOTA_Item_Weather_Snow",
+        "item_quality": "genuine",
+        "item_rarity": "mythical",
+        "item_slot": "weather",
+        "item_type_name": "#DOTA_WearableType_Weather_Effect",
+        "player_loadout": "1",
+        "visuals": {
+            "asset_modifier0": {
+                "type": "weather",
+                "weather_type": "1"
+            },
+            "asset_modifier1": {
+                "type": "soundscape",
+                "asset": "weather_day_default",
+                "modifier": "weather_day_snow"
+            },
+            "asset_modifier2": {
+                "type": "soundscape",
+                "asset": "weather_night_default",
+                "modifier": "weather_night_snow"
+            }
+        },
+        "static_attributes": {
+            "not marketable": {
+                "attribute_class": "not marketable",
+                "value": "1"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "鹅毛大雪"
+    },
+    "10706": {
+        "name": "Weather Rain",
+        "prefab": "misc",
+        "creation_date": "2014-06-17",
+        "image_inventory": "econ/tools/weather_rain",
+        "item_class": "tool",
+        "item_name": "#DOTA_Item_Weather_Rain",
+        "item_quality": "genuine",
+        "item_rarity": "mythical",
+        "item_slot": "weather",
+        "item_type_name": "#DOTA_WearableType_Weather_Effect",
+        "player_loadout": "1",
+        "visuals": {
+            "asset_modifier0": {
+                "type": "weather",
+                "weather_type": "2"
+            },
+            "asset_modifier2": {
+                "type": "soundscape",
+                "asset": "weather_day_default",
+                "modifier": "weather_day_rain"
+            },
+            "asset_modifier3": {
+                "type": "soundscape",
+                "asset": "weather_night_default",
+                "modifier": "weather_night_rain"
+            }
+        },
+        "static_attributes": {
+            "not marketable": {
+                "attribute_class": "not marketable",
+                "value": "1"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "倾盆大雨"
+    },
+    "10707": {
+        "name": "Weather Moonbeam",
+        "prefab": "misc",
+        "creation_date": "2014-06-17",
+        "image_inventory": "econ/tools/weather_moonbeam",
+        "item_class": "tool",
+        "item_name": "#DOTA_Item_Weather_Moonbeam",
+        "item_quality": "genuine",
+        "item_rarity": "mythical",
+        "item_slot": "weather",
+        "item_type_name": "#DOTA_WearableType_Weather_Effect",
+        "player_loadout": "1",
+        "static_attributes": {
+            "not marketable": {
+                "attribute_class": "not marketable",
+                "value": "1"
+            }
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "weather",
+                "weather_type": "3"
+            },
+            "asset_modifier1": {
+                "type": "soundscape",
+                "asset": "weather_day_default",
+                "modifier": "weather_day_magical"
+            },
+            "asset_modifier2": {
+                "type": "soundscape",
+                "asset": "weather_night_default",
+                "modifier": "weather_night_magical"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "皎洁月光"
+    },
+    "11083": {
+        "name": "Weather Pestilence",
+        "prefab": "misc",
+        "creation_date": "2015-07-13",
+        "image_inventory": "econ/tools/weather_pestilence",
+        "item_class": "tool",
+        "item_name": "#DOTA_Item_Weather_Pestilence",
+        "item_quality": "genuine",
+        "item_rarity": "mythical",
+        "item_slot": "weather",
+        "item_type_name": "#DOTA_WearableType_Weather_Effect",
+        "player_loadout": "1",
+        "visuals": {
+            "asset_modifier0": {
+                "type": "soundscape",
+                "asset": "weather_day_default",
+                "modifier": "weather_day_pestilence"
+            },
+            "asset_modifier1": {
+                "type": "soundscape",
+                "asset": "weather_night_default",
+                "modifier": "weather_night_pestilence"
+            },
+            "asset_modifier2": {
+                "type": "weather",
+                "weather_type": "4"
+            }
+        },
+        "static_attributes": {
+            "not marketable": {
+                "attribute_class": "not marketable",
+                "value": "1"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "疟患为祸"
+    },
+    "11414": {
+        "name": "Weather Sirocco",
+        "prefab": "misc",
+        "creation_date": "2015-07-13",
+        "image_inventory": "econ/tools/weather_sandstorm",
+        "item_class": "tool",
+        "item_name": "#DOTA_Item_Weather_Sirocco",
+        "item_quality": "genuine",
+        "item_rarity": "mythical",
+        "item_slot": "weather",
+        "item_type_name": "#DOTA_WearableType_Weather_Effect",
+        "player_loadout": "1",
+        "visuals": {
+            "asset_modifier0": {
+                "type": "soundscape",
+                "asset": "weather_day_default",
+                "modifier": "weather_day_sirocco"
+            },
+            "asset_modifier1": {
+                "type": "soundscape",
+                "asset": "weather_night_default",
+                "modifier": "weather_night_sirocco"
+            },
+            "asset_modifier2": {
+                "type": "weather",
+                "weather_type": "6"
+            }
+        },
+        "static_attributes": {
+            "not marketable": {
+                "attribute_class": "not marketable",
+                "value": "1"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "热风袭人"
+    },
+    "11454": {
+        "name": "Weather Harvest",
+        "prefab": "misc",
+        "creation_date": "2015-07-13",
+        "image_inventory": "econ/tools/weather_harvest",
+        "item_class": "tool",
+        "item_name": "#DOTA_Item_Weather_Harvest",
+        "item_quality": "genuine",
+        "item_rarity": "mythical",
+        "item_slot": "weather",
+        "item_type_name": "#DOTA_WearableType_Weather_Effect",
+        "player_loadout": "1",
+        "visuals": {
+            "asset_modifier0": {
+                "type": "soundscape",
+                "asset": "weather_day_default",
+                "modifier": "weather_day_harvest"
+            },
+            "asset_modifier1": {
+                "type": "soundscape",
+                "asset": "weather_night_default",
+                "modifier": "weather_night_harvest"
+            },
+            "asset_modifier2": {
+                "type": "weather",
+                "weather_type": "5"
+            }
+        },
+        "static_attributes": {
+            "not marketable": {
+                "attribute_class": "not marketable",
+                "value": "1"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "秋收之季"
+    },
+    "11549": {
+        "name": "Weather Ash",
+        "prefab": "misc",
+        "creation_date": "2016-05-12",
+        "event_id": "EVENT_ID_INTERNATIONAL_2016",
+        "image_inventory": "econ/tools/weather_burning",
+        "item_class": "tool",
+        "item_name": "#DOTA_Item_Weather_Ash",
+        "item_quality": "genuine",
+        "item_rarity": "mythical",
+        "item_slot": "weather",
+        "item_type_name": "#DOTA_WearableType_Weather_Effect",
+        "player_loadout": "1",
+        "static_attributes": {
+            "not marketable": {
+                "attribute_class": "not marketable",
+                "value": "1"
+            },
+            "tradable after date": {
+                "attribute_class": "tradable_after_date",
+                "value": "1471158000"
+            },
+            "international tag": {
+                "attribute_class": "international_tag",
+                "value": "2016"
+            }
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "soundscape",
+                "asset": "weather_day_default",
+                "modifier": "weather_day_ash"
+            },
+            "asset_modifier1": {
+                "type": "soundscape",
+                "asset": "weather_night_default",
+                "modifier": "weather_night_ash"
+            },
+            "asset_modifier2": {
+                "type": "weather",
+                "weather_type": "8"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "灰烬蔽天"
+    },
+    "11550": {
+        "name": "Weather Aurora",
+        "prefab": "misc",
+        "creation_date": "2016-05-16",
+        "event_id": "EVENT_ID_INTERNATIONAL_2016",
+        "image_inventory": "econ/tools/weather_aurora",
+        "item_class": "tool",
+        "item_name": "#DOTA_Item_Weather_Aurora",
+        "item_quality": "genuine",
+        "item_rarity": "mythical",
+        "item_slot": "weather",
+        "item_type_name": "#DOTA_WearableType_Weather_Effect",
+        "player_loadout": "1",
+        "static_attributes": {
+            "not marketable": {
+                "attribute_class": "not marketable",
+                "value": "1"
+            },
+            "tradable after date": {
+                "attribute_class": "tradable_after_date",
+                "value": "1471158000"
+            },
+            "international tag": {
+                "attribute_class": "international_tag",
+                "value": "2016"
+            }
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "soundscape",
+                "asset": "weather_day_default",
+                "modifier": "weather_day_aurora"
+            },
+            "asset_modifier1": {
+                "type": "soundscape",
+                "asset": "weather_night_default",
+                "modifier": "weather_night_aurora"
+            },
+            "asset_modifier2": {
+                "type": "weather",
+                "weather_type": "9"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "极光之境"
+    },
+    "11551": {
+        "name": "Weather Spring",
+        "prefab": "misc",
+        "creation_date": "2016-05-12",
+        "event_id": "EVENT_ID_INTERNATIONAL_2016",
+        "image_inventory": "econ/tools/weather_spring",
+        "item_class": "tool",
+        "item_name": "#DOTA_Item_Weather_Spring",
+        "item_quality": "genuine",
+        "item_rarity": "mythical",
+        "item_slot": "weather",
+        "item_type_name": "#DOTA_WearableType_Weather_Effect",
+        "player_loadout": "1",
+        "static_attributes": {
+            "not marketable": {
+                "attribute_class": "not marketable",
+                "value": "1"
+            },
+            "tradable after date": {
+                "attribute_class": "tradable_after_date",
+                "value": "1471158000"
+            },
+            "international tag": {
+                "attribute_class": "international_tag",
+                "value": "2016"
+            }
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "soundscape",
+                "asset": "weather_day_default",
+                "modifier": "weather_day_spring"
+            },
+            "asset_modifier1": {
+                "type": "soundscape",
+                "asset": "weather_night_default",
+                "modifier": "weather_night_spring"
+            },
+            "asset_modifier2": {
+                "type": "weather",
+                "weather_type": "7"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "盎然春意"
+    }
+}

@@ -1,0 +1,96 @@
+﻿{
+    "24119": {
+        "name": "Ancient Dragon King",
+        "prefab": "ancient",
+        "creation_date": "2024-01-08",
+        "image_inventory": "econ/props_gameplay/new_bloom_dragon/new_bloom_dragon",
+        "item_description": "#DOTA_Item_Desc_Ancient_Dragon_King",
+        "item_name": "#DOTA_Item_Ancient_Dragon_King",
+        "item_rarity": "mythical",
+        "model_player": "models/props_gameplay/new_bloom_dragon/new_bloom_dragon.vmdl",
+        "portraits": {
+            "icon": {
+                "cameras": {
+                    "Default": {
+                        "PortraitPosition": "-308.656891 -1351.752930 787.888855",
+                        "PortraitAngles": "24.090004 74.830025 0.000000",
+                        "PortraitFOV": "33.139999",
+                        "PortraitFar": "5000"
+                    }
+                },
+                "hero_presets": {
+                    "Default": {
+                        "PortraitHeroRotation": "0.000000 0.000000 0.000000"
+                    }
+                },
+                "PortraitLightPosition": "202.699997 -23.150000 308.170013",
+                "PortraitLightAngles": "54.790001 171.699997 0.000000",
+                "PortraitLightFOV": "120",
+                "PortraitLightDistance": "336",
+                "PortraitLightColor": "254 248 242",
+                "PortraitLightScale": "2",
+                "PortraitShadowColor": "74 74 74",
+                "PortraitShadowScale": "1",
+                "PortraitGroundShadowScale": "1.500000",
+                "PortraitAmbientDirection": "-79.070 -84.150 -25.320",
+                "PortraitAmbientColor": "79 108 108",
+                "PortraitAmbientScale": "1",
+                "PortraitSpecularColor": "251 74 84",
+                "PortraitSpecularDirection": "0.000000 0.000000 -1.000000",
+                "PortraitSpecularPower": "16",
+                "PortraitBackgroundColor1": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundColor2": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundColor3": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundColor4": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundTexture": "materials/vgui/econ/item_icon_bg.vmat",
+                "EffectDissolveColor": "1.000000 1.000000 1.000000",
+                "GodraysFXColor": "1.000000 1.000000 1.000000",
+                "GroundfogFXColor": "1.000000 1.000000 1.000000",
+                "PortraitAnimationActivity": "ACT_DOTA_SPAWN",
+                "PortraitAnimationCycle": "0.700552",
+                "PortraitAnimationRate": "1",
+                "PortraitPlayIdleExpression": "0",
+                "PortraitHideHero": "0",
+                "PortraitHideParticles": "0",
+                "PortraitHideDropShadow": "0",
+                "PortraitDesaturateParticles": "0",
+                "PortraitDesaturateHero": "1",
+                "PortraitVignetteItem": "0",
+                "PortraitAllowAnimatedPortrait": "1"
+            }
+        },
+        "static_attributes": {
+            "cannot craft": "1",
+            "inherit source item tradeability": "0"
+        },
+        "visuals": {
+            "skip_model_combine": "0",
+            "asset_modifier0": {
+                "type": "particle_create",
+                "modifier": "particles/econ/world/ancient/radiant_dragon_king_2024/radiant_dragon_king_2024_ambient.vpcf"
+            },
+            "asset_modifier1": {
+                "type": "sound",
+                "asset": "Rampage.Radiant",
+                "modifier": "NewBloom2024.Dragon.Rampage.Radiant"
+            },
+            "asset_modifier2": {
+                "type": "sound",
+                "asset": "Rampage.Dire",
+                "modifier": "NewBloom2024.Dragon.Rampage.Dire"
+            },
+            "asset_modifier3": {
+                "type": "particle",
+                "asset": "RadiantHighFive",
+                "modifier": "particles/econ/events/newbloom_2024/high_five_newbloom_dragon_travel.vpcf"
+            },
+            "asset_modifier4": {
+                "type": "particle",
+                "asset": "DireHighFive",
+                "modifier": "particles/econ/events/newbloom_2024/high_five_newbloom_dragon_dire_travel.vpcf"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "遗世龙皇"
+    }
+}

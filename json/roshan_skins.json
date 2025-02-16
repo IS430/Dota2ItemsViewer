@@ -1,0 +1,57 @@
+﻿{
+    "24876": {
+        "name": "Greevil Grief Roshan",
+        "prefab": "roshan",
+        "creation_date": "2020-05-25",
+        "event_id": "EVENT_ID_NONE",
+        "hide_tradecraftdelete": "1",
+        "image_inventory": "econ/roshan/dota_item_roshan_greevils",
+        "item_description": "#DOTA_Item_Desc_Greevil_Grief_Roshan",
+        "item_name": "#DOTA_Item_Greevil_Grief_Roshan",
+        "item_rarity": "legendary",
+        "static_attributes": {
+            "cannot trade": "1",
+            "not marketable": "1",
+            "cannot delete": "1",
+            "giftable": "0"
+        },
+        "visuals": {
+            "asset_modifier": {
+                "type": "entity_clientside_model",
+                "asset": "npc_dota_roshan",
+                "modifier": "models/creeps/roshan_halloween/roshan_greeviled.vmdl",
+                "replace_animations": "1"
+            }
+        },
+        "rarity_color": "#d32ce6",
+        "item_name_cn": "贪魔忧伤肉山"
+    },
+    "29298": {
+        "name": "10th Anniversary Aghanim's Roshan",
+        "prefab": "roshan",
+        "branding": {
+            "corporation_id": "17302781"
+        },
+        "creation_date": "2023-06-21",
+        "event_id": "EVENT_ID_10TH_ANNIVERSARY",
+        "hide_tradecraftdelete": "1",
+        "image_inventory": "econ/roshan/dota_item_roshan_aghanim",
+        "item_description": "#DOTA_Item_Desc_10th_Anniversary_Aghanims_Roshan",
+        "item_name": "#DOTA_Item_10th_Anniversary_Aghanims_Roshan",
+        "item_rarity": "legendary",
+        "static_attributes": {
+            "cannot trade": "1",
+            "not marketable": "1"
+        },
+        "visuals": {
+            "asset_modifier": {
+                "type": "entity_clientside_model",
+                "asset": "npc_dota_roshan",
+                "modifier": "models/creeps/roshan_aghanim/roshan_aghanim.vmdl",
+                "replace_animations": "0"
+            }
+        },
+        "rarity_color": "#d32ce6",
+        "item_name_cn": "十周年 阿哈利姆肉山"
+    }
+}

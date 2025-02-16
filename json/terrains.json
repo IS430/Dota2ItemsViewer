@@ -1,0 +1,972 @@
+﻿{
+    "11171": {
+        "name": "Seasonal Terrain - Spring",
+        "prefab": "terrain",
+        "creation_date": "2017-05-04",
+        "event_id": "EVENT_ID_PLUS_SUBSCRIPTION",
+        "plus_auto_grant_yearly_pattern_start": "2018-03-01 00:00:00",
+        "plus_auto_grant_yearly_pattern_end": "2018-06-01 00:00:00",
+        "hide_in_purchase_popup": "1",
+        "image_inventory": "econ/terrain/spring_terrain",
+        "item_name": "#DOTA_Item_Seasonal_Terrain__Spring",
+        "item_rarity": "seasonal",
+        "static_attributes": {
+            "cannot trade": {
+                "attribute_class": "cannot_trade",
+                "value": "1"
+            },
+            "not marketable": {
+                "attribute_class": "not marketable",
+                "value": "1"
+            }
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "map_override",
+                "asset": "maps/dota.vmap",
+                "modifier": "maps/dota_spring.vmap",
+                "style": "0"
+            },
+            "asset_modifier1": {
+                "type": "map_override",
+                "asset": "maps/hero_demo_spring.vmap",
+                "modifier": "maps/hero_demo_spring.vmap",
+                "style": "0"
+            },
+            "asset_modifier2": {
+                "type": "portrait_background_map",
+                "asset": "maps/terrain_previews/dota_spring_preview.vmap",
+                "style": "0"
+            },
+            "asset_modifier3": {
+                "type": "weather_effect",
+                "asset": "particles/rain_fx/spring_terrain.vpcf",
+                "style": "0"
+            },
+            "asset_modifier4": {
+                "type": "npc_material_override",
+                "asset": "materials/models/creeps/roshan/roshan_color.vmat",
+                "modifier": "materials/models/creeps/roshan/roshan_desert_color.vmat",
+                "style": "0"
+            },
+            "asset_modifier5": {
+                "type": "particle_control_point",
+                "asset": "particles/ui_mouseactions/bounding_area_view.vpcf",
+                "control_point_number": "15",
+                "cp_position": "255 255 0"
+            },
+            "asset_modifier6": {
+                "type": "particle_control_point",
+                "asset": "particles/ui_mouseactions/bounding_area_view.vpcf",
+                "control_point_number": "16",
+                "cp_position": "1 0 0"
+            }
+        },
+        "rarity_color": "#FFF34F",
+        "item_name_cn": "季节地图 － 春季"
+    },
+    "11316": {
+        "name": "Immortal Gardens",
+        "prefab": "terrain",
+        "creation_date": "2016-03-29",
+        "event_id": "EVENT_ID_INTERNATIONAL_2016",
+        "image_inventory": "econ/terrain/colosseum_terrain",
+        "item_name": "#DOTA_Item_Immortal_Gardens",
+        "item_rarity": "immortal",
+        "portraits": {
+            "icon": {
+                "cameras": {
+                    "Default": {
+                        "PortraitPosition": "0.000000 0.000000 0.000000",
+                        "PortraitAngles": "0.000000 0.000000 0.000000",
+                        "PortraitFOV": "15",
+                        "PortraitFar": "1000"
+                    }
+                },
+                "PortraitLightPosition": "0.000000 0.000000 0.000000",
+                "PortraitLightAngles": "0.000000 0.000000 0.000000",
+                "PortraitLightFOV": "15",
+                "PortraitLightDistance": "250",
+                "PortraitLightColor": "243 237 230",
+                "PortraitLightScale": "1",
+                "PortraitShadowColor": "89 89 89",
+                "PortraitShadowScale": "0.300000",
+                "PortraitGroundShadowScale": "0.300000",
+                "PortraitAmbientDirection": "400.000 -400.000 -50.000",
+                "PortraitAmbientColor": "123 168 168",
+                "PortraitAmbientScale": "0.500000",
+                "PortraitSpecularColor": "251 74 84",
+                "PortraitSpecularDirection": "0.000000 0.000000 -1.000000",
+                "PortraitSpecularPower": "16",
+                "PortraitBackgroundColor1": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundColor2": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundColor3": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundColor4": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundTexture": "materials/vgui/econ/item_icon_bg.vmat",
+                "PortraitAnimationActivity": "ACT_DOTA_IDLE",
+                "PortraitAnimationCycle": "0",
+                "PortraitAnimationRate": "1",
+                "PortraitHideHero": "0",
+                "PortraitHideParticles": "0",
+                "PortraitHideDropShadow": "0",
+                "PortraitDesaturateParticles": "0"
+            }
+        },
+        "static_attributes": {
+            "cannot trade": {
+                "attribute_class": "cannot_trade",
+                "value": "1"
+            },
+            "not marketable": {
+                "attribute_class": "not marketable",
+                "value": "1"
+            }
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "map_override",
+                "asset": "maps/dota.vmap",
+                "modifier": "maps/dota_coloseum.vmap",
+                "style": "0"
+            },
+            "asset_modifier1": {
+                "type": "weather_effect",
+                "asset": "particles/rain_fx/coloseum_terrain.vpcf",
+                "style": "0"
+            },
+            "asset_modifier2": {
+                "type": "portrait_background_map",
+                "asset": "maps/terrain_previews/dota_coloseum_preview.vmap",
+                "style": "0"
+            },
+            "asset_modifier3": {
+                "type": "npc_material_override",
+                "asset": "materials/models/creeps/roshan/roshan_color.vmat",
+                "modifier": "materials/models/creeps/roshan/roshan_gardens_color.vmat",
+                "style": "0"
+            }
+        },
+        "rarity_color": "#e4ae39",
+        "item_name_cn": "不朽庭院"
+    },
+    "11339": {
+        "name": "Desert Terrain",
+        "prefab": "terrain",
+        "creation_date": "2015-12-01",
+        "image_inventory": "econ/terrain/desert_terrain",
+        "item_name": "#DOTA_Item_Desert_Terrain",
+        "item_quality": "genuine",
+        "item_rarity": "mythical",
+        "static_attributes": {
+            "cannot trade": {
+                "attribute_class": "cannot_trade",
+                "value": "1"
+            },
+            "not marketable": {
+                "attribute_class": "not marketable",
+                "value": "1"
+            }
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "map_override",
+                "asset": "maps/dota.vmap",
+                "modifier": "maps/dota_desert.vmap",
+                "style": "0"
+            },
+            "asset_modifier2": {
+                "type": "portrait_background_map",
+                "asset": "maps/terrain_previews/dota_desert_preview.vmap",
+                "style": "0"
+            },
+            "asset_modifier3": {
+                "type": "weather_effect",
+                "asset": "particles/rain_fx/desert_terrain.vpcf",
+                "style": "0"
+            },
+            "asset_modifier4": {
+                "type": "npc_material_override",
+                "asset": "materials/models/creeps/roshan/roshan_color.vmat",
+                "modifier": "materials/models/creeps/roshan/roshan_desert_color.vmat",
+                "style": "0"
+            },
+            "asset_modifier5": {
+                "type": "particle_control_point",
+                "asset": "particles/ui_mouseactions/bounding_area_view.vpcf",
+                "control_point_number": "15",
+                "cp_position": "0 255 0"
+            },
+            "asset_modifier6": {
+                "type": "particle_control_point",
+                "asset": "particles/ui_mouseactions/bounding_area_view.vpcf",
+                "control_point_number": "16",
+                "cp_position": "1 0 0"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "黄沙大漠"
+    },
+    "11444": {
+        "name": "Winter Terrain",
+        "prefab": "terrain",
+        "creation_date": "2016-01-06",
+        "hide_tradecraftdelete": "1",
+        "image_inventory": "econ/terrain/winter_terrain",
+        "item_name": "#DOTA_Item_Winter_Terrain",
+        "item_rarity": "seasonal",
+        "event_id": "EVENT_ID_PLUS_SUBSCRIPTION",
+        "plus_auto_grant_yearly_pattern_start": "2018-12-01 00:00:00",
+        "plus_auto_grant_yearly_pattern_end": "2019-03-01 00:00:00",
+        "static_attributes": {
+            "cannot trade": {
+                "attribute_class": "cannot_trade",
+                "value": "1"
+            },
+            "not marketable": {
+                "attribute_class": "not marketable",
+                "value": "1"
+            },
+            "cannot delete": {
+                "attribute_class": "cannot_delete",
+                "value": "1"
+            }
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "map_override",
+                "asset": "maps/dota.vmap",
+                "modifier": "maps/dota_winter.vmap",
+                "style": "0"
+            },
+            "asset_modifier2": {
+                "type": "portrait_background_map",
+                "asset": "maps/terrain_previews/dota_winter_preview.vmap",
+                "style": "0"
+            },
+            "asset_modifier3": {
+                "type": "weather_effect",
+                "asset": "particles/rain_fx/winter_terrain.vpcf",
+                "style": "0"
+            },
+            "asset_modifier15": {
+                "type": "soundscape",
+                "asset": "default_day",
+                "modifier": "winter_day",
+                "style": "0"
+            },
+            "asset_modifier16": {
+                "type": "soundscape",
+                "asset": "default_night",
+                "modifier": "winter_night",
+                "style": "0"
+            },
+            "asset_modifier29": {
+                "type": "terrain_particle_effect",
+                "asset": "hero_footstep",
+                "modifier": "particles/generic_gameplay/winter_effects_hero.vpcf",
+                "style": "0"
+            },
+            "asset_modifier30": {
+                "type": "terrain_particle_effect",
+                "asset": "creep_footstep",
+                "modifier": "particles/generic_gameplay/winter_effects_creep.vpcf",
+                "style": "0"
+            },
+            "asset_modifier31": {
+                "type": "terrain_particle_effect",
+                "asset": "tree_destruction_generic",
+                "modifier": "particles/world_destruction_fx/tree_destroy_winter.vpcf",
+                "style": "0"
+            },
+            "asset_modifier32": {
+                "type": "terrain_particle_effect",
+                "asset": "tree_destruction_overlay",
+                "modifier": "particles/world_destruction_fx/tree_destruction_snow.vpcf",
+                "style": "0"
+            },
+            "asset_modifier33": {
+                "type": "npc_material_override",
+                "asset": "materials/models/creeps/lane_creeps/creep_radiant_mele/creep_rad_melee.vmat",
+                "modifier": "materials/models/creeps/lane_creeps/creep_radiant_mele/creep_rad_melee_winter.vmat",
+                "style": "0"
+            },
+            "asset_modifier34": {
+                "type": "npc_material_override",
+                "asset": "materials/models/creeps/lane_creeps/lane_radiant_ranged_color.vmat",
+                "modifier": "materials/models/creeps/lane_creeps/lane_radiant_ranged_color_winter.vmat",
+                "style": "0"
+            },
+            "asset_modifier35": {
+                "type": "npc_material_override",
+                "asset": "materials/models/creeps/lane_creeps/creep_good_siege/creep_good_siege_color.vmat",
+                "modifier": "materials/models/creeps/lane_creeps/creep_good_siege/creep_good_siege_color_winter.vmat",
+                "style": "0"
+            },
+            "asset_modifier36": {
+                "type": "npc_material_override",
+                "asset": "materials/models/creeps/lane_creeps/creep_bad_melee/creep_bad_melee_color.vmat",
+                "modifier": "materials/models/creeps/lane_creeps/creep_bad_melee/creep_bad_melee_color_winter.vmat",
+                "style": "0"
+            },
+            "asset_modifier37": {
+                "type": "npc_material_override",
+                "asset": "materials/models/creeps/lane_creeps/creep_bad_ranged/lane_dire_ranged_color.vmat",
+                "modifier": "materials/models/creeps/lane_creeps/creep_bad_ranged/lane_dire_ranged_color_winter.vmat",
+                "style": "0"
+            },
+            "asset_modifier38": {
+                "type": "npc_material_override",
+                "asset": "materials/models/creeps/lane_creeps/creep_bad_siege/creep_bad_siege_color.vmat",
+                "modifier": "materials/models/creeps/lane_creeps/creep_bad_siege/creep_bad_siege_color_winter.vmat",
+                "style": "0"
+            },
+            "asset_modifier39": {
+                "type": "npc_material_override",
+                "asset": "materials/models/creeps/roshan/roshan_color.vmat",
+                "modifier": "materials/models/creeps/roshan/roshan_color_winter.vmat",
+                "style": "0"
+            },
+            "asset_modifier40": {
+                "type": "npc_material_override",
+                "asset": "materials/models/creeps/neutral_creeps/neutral_beast.vmat",
+                "modifier": "materials/models/creeps/neutral_creeps/neutral_beast_winter.vmat",
+                "style": "0"
+            },
+            "asset_modifier41": {
+                "type": "npc_material_override",
+                "asset": "materials/models/creeps/neutral_creeps/neutral_black_dragon.vmat",
+                "modifier": "materials/models/creeps/neutral_creeps/neutral_black_dragon_winter.vmat",
+                "style": "0"
+            },
+            "asset_modifier42": {
+                "type": "npc_material_override",
+                "asset": "materials/models/creeps/neutral_creeps/neutral_black_drake.vmat",
+                "modifier": "materials/models/creeps/neutral_creeps/neutral_black_drake_winter.vmat",
+                "style": "0"
+            },
+            "asset_modifier43": {
+                "type": "npc_material_override",
+                "asset": "materials/models/creeps/neutral_creeps/neutral_centaur_outrunner.vmat",
+                "modifier": "materials/models/creeps/neutral_creeps/neutral_centaur_outrunner_winter.vmat",
+                "style": "0"
+            },
+            "asset_modifier44": {
+                "type": "npc_material_override",
+                "asset": "materials/models/creeps/neutral_creeps/n_creep_centaur_conqueror/n_creep_centaur_conqueror.vmat",
+                "modifier": "materials/models/creeps/neutral_creeps/n_creep_centaur_conqueror/n_creep_centaur_conqueror_winter.vmat",
+                "style": "0"
+            },
+            "asset_modifier45": {
+                "type": "npc_material_override",
+                "asset": "materials/models/creeps/neutral_creeps/neutral_furbolg_color.vmat",
+                "modifier": "materials/models/creeps/neutral_creeps/neutral_furbolg_color_winter.vmat",
+                "style": "0"
+            },
+            "asset_modifier46": {
+                "type": "npc_material_override",
+                "asset": "materials/models/creeps/neutral_creeps/neutral_golem_a.vmat",
+                "modifier": "materials/models/creeps/neutral_creeps/neutral_golem_a_winter.vmat",
+                "style": "0"
+            },
+            "asset_modifier47": {
+                "type": "npc_material_override",
+                "asset": "materials/models/creeps/neutral_creeps/satyr_a.vmat",
+                "modifier": "materials/models/creeps/neutral_creeps/satyr_a_winter.vmat",
+                "style": "0"
+            },
+            "asset_modifier48": {
+                "type": "npc_material_override",
+                "asset": "materials/models/creeps/neutral_creeps/satyr_c.vmat",
+                "modifier": "materials/models/creeps/neutral_creeps/satyr_c_winter.vmat",
+                "style": "0"
+            },
+            "asset_modifier49": {
+                "type": "npc_material_override",
+                "asset": "materials/models/creeps/neutral_creeps/neutral_golem_b.vmat",
+                "modifier": "materials/models/creeps/neutral_creeps/neutral_golem_b_winter.vmat",
+                "style": "0"
+            },
+            "asset_modifier50": {
+                "type": "npc_material_override",
+                "asset": "materials/models/creeps/neutral_creeps/neutral_ogre_med.vmat",
+                "modifier": "materials/models/creeps/neutral_creeps/neutral_ogre_med_winter.vmat",
+                "style": "0"
+            },
+            "asset_modifier51": {
+                "type": "npc_material_override",
+                "asset": "materials/models/creeps/neutral_creeps/neutral_thunder_lizard_big_color.vmat",
+                "modifier": "materials/models/creeps/neutral_creeps/neutral_thunder_lizard_big_color_winter.vmat",
+                "style": "0"
+            },
+            "asset_modifier52": {
+                "type": "npc_material_override",
+                "asset": "materials/models/creeps/neutral_creeps/neutral_thunder_lizard_small_color.vmat",
+                "modifier": "materials/models/creeps/neutral_creeps/neutral_thunder_lizard_small_color_winter.vmat",
+                "style": "0"
+            },
+            "asset_modifier53": {
+                "type": "npc_material_override",
+                "asset": "materials/models/creeps/neutral_creeps/neutral_troll_dark_a.vmat",
+                "modifier": "materials/models/creeps/neutral_creeps/neutral_troll_dark_a_winter.vmat",
+                "style": "0"
+            },
+            "asset_modifier54": {
+                "type": "npc_material_override",
+                "asset": "materials/models/creeps/neutral_creeps/neutral_troll_dark_b.vmat",
+                "modifier": "materials/models/creeps/neutral_creeps/neutral_troll_dark_b_winter.vmat",
+                "style": "0"
+            },
+            "asset_modifier55": {
+                "type": "npc_material_override",
+                "asset": "materials/models/creeps/neutral_creeps/neutral_vulture_a.vmat",
+                "modifier": "materials/models/creeps/neutral_creeps/neutral_vulture_a_winter.vmat",
+                "style": "0"
+            },
+            "asset_modifier56": {
+                "type": "npc_material_override",
+                "asset": "materials/models/creeps/neutral_creeps/neutral_vulture_b.vmat",
+                "modifier": "materials/models/creeps/neutral_creeps/neutral_vulture_b_winter.vmat",
+                "style": "0"
+            },
+            "asset_modifier57": {
+                "type": "npc_material_override",
+                "asset": "materials/models/creeps/neutral_creeps/ogre_lrg_color.vmat",
+                "modifier": "materials/models/creeps/neutral_creeps/ogre_lrg_color_winter.vmat",
+                "style": "0"
+            },
+            "asset_modifier58": {
+                "type": "particle",
+                "asset": "particles/siege_fx/siege_good_death_01.vpcf",
+                "modifier": "particles/siege_fx/siege_good_death_01_winter.vpcf",
+                "style": "0"
+            },
+            "asset_modifier59": {
+                "type": "particle",
+                "asset": "particles/siege_fx/siege_bad_death_01.vpcf",
+                "modifier": "particles/siege_fx/siege_bad_death_01_winter.vpcf",
+                "style": "0"
+            },
+            "asset_modifier60": {
+                "type": "npc_material_override",
+                "asset": "materials/models/creeps/lane_creeps/creep_radiant_ranged/radiant_ranged_mega.vmat",
+                "modifier": "materials/models/creeps/lane_creeps/creep_radiant_ranged/radiant_ranged_mega_winter.vmat",
+                "style": "0"
+            },
+            "asset_modifier61": {
+                "type": "npc_material_override",
+                "asset": "materials/models/creeps/lane_creeps/creep_radiant_mele/mega_radiant_melee.vmat",
+                "modifier": "materials/models/creeps/lane_creeps/creep_radiant_mele/mega_radiant_melee_winter.vmat",
+                "style": "0"
+            },
+            "asset_modifier62": {
+                "type": "npc_material_override",
+                "asset": "materials/models/creeps/lane_creeps/creep_bad_ranged/lane_dire_ranged_mega.vmat",
+                "modifier": "materials/models/creeps/lane_creeps/creep_bad_ranged/lane_dire_ranged_mega_winter.vmat",
+                "style": "0"
+            },
+            "asset_modifier63": {
+                "type": "npc_material_override",
+                "asset": "materials/models/creeps/lane_creeps/creep_bad_melee/creep_bad_melee_mega.vmat",
+                "modifier": "materials/models/creeps/lane_creeps/creep_bad_melee/creep_bad_melee_mega_winter.vmat",
+                "style": "0"
+            },
+            "asset_modifier64": {
+                "type": "particle_control_point",
+                "asset": "particles/ui_mouseactions/bounding_area_view.vpcf",
+                "control_point_number": "15",
+                "cp_position": "255 255 0"
+            },
+            "asset_modifier65": {
+                "type": "particle_control_point",
+                "asset": "particles/ui_mouseactions/bounding_area_view.vpcf",
+                "control_point_number": "16",
+                "cp_position": "1 0 0"
+            }
+        },
+        "rarity_color": "#FFF34F",
+        "item_name_cn": "季节地图 - 冬季"
+    },
+    "11476": {
+        "name": "The King's New Journey",
+        "prefab": "terrain",
+        "creation_date": "2016-12-12",
+        "image_inventory": "econ/terrain/journey_terrain",
+        "item_description": "#DOTA_Item_Desc_The_Kings_New_Journey",
+        "item_name": "#DOTA_Item_The_Kings_New_Journey",
+        "item_rarity": "mythical",
+        "price_info": {
+            "category_tags": "Equipment",
+            "date": "12/12/2016",
+            "price": "1999"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "map_override",
+                "asset": "maps/dota.vmap",
+                "modifier": "maps/dota_journey.vmap",
+                "style": "0"
+            },
+            "asset_modifier1": {
+                "type": "portrait_background_map",
+                "asset": "maps/terrain_previews/dota_journey_preview.vmap",
+                "style": "0"
+            },
+            "asset_modifier4": {
+                "type": "soundscape",
+                "asset": "default_day",
+                "modifier": "new_journey_day",
+                "style": "0"
+            },
+            "asset_modifier5": {
+                "type": "soundscape",
+                "asset": "default_night",
+                "modifier": "new_journey_night",
+                "style": "0"
+            },
+            "asset_modifier6": {
+                "type": "npc_material_override",
+                "asset": "materials/models/creeps/roshan/roshan_color.vmat",
+                "modifier": "materials/models/creeps/roshan/roshan_journey_color.vmat",
+                "style": "0"
+            },
+            "asset_modifier2": {
+                "type": "weather_effect",
+                "asset": "particles/rain_fx/journey_terrain.vpcf",
+                "style": "0"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "大圣的新游记"
+    },
+    "11904": {
+        "name": "Seasonal Terrain - Autumn",
+        "prefab": "terrain",
+        "creation_date": "2016-07-06",
+        "image_inventory": "econ/terrain/autumn_terrain",
+        "item_name": "#DOTA_Item_Seasonal_Terrain__Autumn",
+        "item_rarity": "seasonal",
+        "event_id": "EVENT_ID_PLUS_SUBSCRIPTION",
+        "plus_auto_grant_yearly_pattern_start": "2018-09-01 00:00:00",
+        "plus_auto_grant_yearly_pattern_end": "2018-12-01 00:00:00",
+        "static_attributes": {
+            "cannot trade": {
+                "attribute_class": "cannot_trade",
+                "value": "1"
+            },
+            "not marketable": {
+                "attribute_class": "not marketable",
+                "value": "1"
+            }
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "map_override",
+                "asset": "maps/dota.vmap",
+                "modifier": "maps/dota_autumn.vmap",
+                "style": "0"
+            },
+            "asset_modifier1": {
+                "type": "portrait_background_map",
+                "asset": "maps/terrain_previews/dota_autumn_preview.vmap",
+                "style": "0"
+            },
+            "asset_modifier4": {
+                "type": "soundscape",
+                "asset": "default_day",
+                "modifier": "autumn_day",
+                "style": "0"
+            },
+            "asset_modifier5": {
+                "type": "soundscape",
+                "asset": "default_night",
+                "modifier": "autumn_night",
+                "style": "0"
+            },
+            "asset_modifier2": {
+                "type": "weather_effect",
+                "asset": "particles/rain_fx/autumn_terrain.vpcf",
+                "style": "0"
+            }
+        },
+        "rarity_color": "#FFF34F",
+        "item_name_cn": "季节地图 - 秋季"
+    },
+    "11946": {
+        "name": "Reef's Edge",
+        "prefab": "terrain",
+        "creation_date": "2017-05-04",
+        "event_id": "EVENT_ID_INTERNATIONAL_2017",
+        "image_inventory": "econ/terrain/reef_terrain",
+        "item_description": "#DOTA_Item_Desc_Reefs_Edge",
+        "item_name": "#DOTA_Item_Reefs_Edge",
+        "item_rarity": "immortal",
+        "static_attributes": {
+            "cannot trade": {
+                "attribute_class": "cannot_trade",
+                "value": "1"
+            },
+            "not marketable": {
+                "attribute_class": "not marketable",
+                "value": "1"
+            },
+            "giftable": {
+                "attribute_class": "giftable",
+                "value": "0"
+            },
+            "additional_tooltip_text": {
+                "attribute_class": "additional_tooltip_text",
+                "value": "#DOTA_EconItemSet_Tooltip_Prestige_Exclusive_To_TI7_BattlePass_Owners"
+            },
+            "international tag": {
+                "attribute_class": "international_tag",
+                "value": "2017"
+            }
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "map_override",
+                "asset": "maps/dota.vmap",
+                "modifier": "maps/dota_reef.vmap",
+                "style": "0"
+            },
+            "asset_modifier2": {
+                "type": "portrait_background_map",
+                "asset": "maps/terrain_previews/dota_reef_preview.vmap",
+                "style": "0"
+            },
+            "asset_modifier3": {
+                "type": "weather_effect",
+                "asset": "maps/reef_assets/particles/reef_terrain.vpcf",
+                "style": "0"
+            },
+            "asset_modifier4": {
+                "type": "npc_material_override",
+                "asset": "materials/models/creeps/roshan/roshan_color.vmat",
+                "modifier": "materials/models/creeps/roshan/roshan_reef_color.vmat",
+                "style": "0"
+            },
+            "asset_modifier5": {
+                "type": "particle_control_point",
+                "asset": "particles/ui_mouseactions/bounding_area_view.vpcf",
+                "control_point_number": "15",
+                "cp_position": "255 255 0"
+            },
+            "asset_modifier6": {
+                "type": "particle_control_point",
+                "asset": "particles/ui_mouseactions/bounding_area_view.vpcf",
+                "control_point_number": "16",
+                "cp_position": "1 0 0"
+            },
+            "asset_modifier": {
+                "type": "color_correction_material_override",
+                "asset": "materials/dev/game_paused.vmat",
+                "modifier": "materials/colorwarps/dota_reef_pause.vmat"
+            }
+        },
+        "rarity_color": "#e4ae39",
+        "item_name_cn": "礁石之界"
+    },
+    "12022": {
+        "name": "The Emerald Abyss",
+        "prefab": "terrain",
+        "creation_date": "2018-03-23",
+        "event_id": "EVENT_ID_INTERNATIONAL_2018",
+        "image_inventory": "econ/terrain/cavern_terrain",
+        "item_description": "#DOTA_Item_Desc_Copy_of_Reefs_Edge",
+        "item_name": "#DOTA_Item_The_Emerald_Abyss",
+        "item_rarity": "immortal",
+        "static_attributes": {
+            "cannot trade": {
+                "attribute_class": "cannot_trade",
+                "value": "1"
+            }
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "map_override",
+                "asset": "maps/dota.vmap",
+                "modifier": "maps/dota_cavern.vmap",
+                "style": "0"
+            },
+            "asset_modifier2": {
+                "type": "portrait_background_map",
+                "asset": "maps/terrain_previews/dota_cavern_preview.vmap",
+                "style": "0"
+            },
+            "asset_modifier4": {
+                "type": "npc_material_override",
+                "asset": "materials/models/creeps/roshan/roshan_color.vmat",
+                "modifier": "materials/models/creeps/roshan/roshan_ti8_color.vmat",
+                "style": "0"
+            },
+            "asset_modifier5": {
+                "type": "particle_control_point",
+                "asset": "particles/ui_mouseactions/bounding_area_view.vpcf",
+                "control_point_number": "15",
+                "cp_position": "255 255 0"
+            },
+            "asset_modifier6": {
+                "type": "particle_control_point",
+                "asset": "particles/ui_mouseactions/bounding_area_view.vpcf",
+                "control_point_number": "16",
+                "cp_position": "1 0 0"
+            },
+            "asset_modifier": {
+                "type": "terrain_particle_effect",
+                "asset": "creep_footstep",
+                "modifier": "maps/cavern_assets/particles/cavern_water_splash_creep.vpcf",
+                "style": "0"
+            }
+        },
+        "rarity_color": "#e4ae39",
+        "item_name_cn": "玉海之渊"
+    },
+    "12289": {
+        "name": "Seasonal Terrain - Summer",
+        "prefab": "terrain",
+        "creation_date": "2018-06-14",
+        "event_id": "EVENT_ID_PLUS_SUBSCRIPTION",
+        "plus_auto_grant_yearly_pattern_start": "2018-06-01 00:00:00",
+        "plus_auto_grant_yearly_pattern_end": "2018-09-01 00:00:00",
+        "hide_in_purchase_popup": "1",
+        "image_inventory": "econ/terrain/summer_terrain",
+        "item_name": "#DOTA_Item_Seasonal_Terrain__Summer",
+        "item_rarity": "seasonal",
+        "static_attributes": {
+            "cannot trade": {
+                "attribute_class": "cannot_trade",
+                "value": "1"
+            },
+            "not marketable": {
+                "attribute_class": "not marketable",
+                "value": "1"
+            }
+        },
+        "portraits": {
+            "icon": {
+                "cameras": {
+                    "Default": {
+                        "PortraitPosition": "480.132111 302.748627 403.187500",
+                        "PortraitAngles": "28.490007 212.830048 0.000000",
+                        "PortraitFOV": "16",
+                        "PortraitFar": "1000"
+                    }
+                },
+                "PortraitLightPosition": "202.699997 -23.150000 308.170013",
+                "PortraitLightAngles": "54.790001 171.699997 0.000000",
+                "PortraitLightFOV": "120",
+                "PortraitLightDistance": "336",
+                "PortraitLightColor": "254 248 242",
+                "PortraitLightScale": "2",
+                "PortraitShadowColor": "74 74 74",
+                "PortraitShadowScale": "1",
+                "PortraitGroundShadowScale": "1.500000",
+                "PortraitAmbientDirection": "-79.070 -84.150 -25.320",
+                "PortraitAmbientColor": "79 108 108",
+                "PortraitAmbientScale": "1",
+                "PortraitSpecularColor": "251 74 84",
+                "PortraitSpecularDirection": "0.000000 0.000000 -1.000000",
+                "PortraitSpecularPower": "16",
+                "PortraitBackgroundColor1": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundColor2": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundColor3": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundColor4": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundTexture": "materials/vgui/econ/item_icon_bg.vmat",
+                "PortraitAnimationActivity": "ACT_DOTA_IDLE",
+                "PortraitAnimationCycle": "0",
+                "PortraitAnimationRate": "1",
+                "PortraitHideHero": "0",
+                "PortraitHideParticles": "0",
+                "PortraitHideDropShadow": "0",
+                "PortraitDesaturateParticles": "0",
+                "PortraitDesaturateHero": "1"
+            }
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "map_override",
+                "asset": "maps/dota.vmap",
+                "modifier": "maps/dota_summer.vmap",
+                "style": "0"
+            },
+            "asset_modifier2": {
+                "type": "portrait_background_map",
+                "asset": "maps/terrain_previews/dota_summer_preview.vmap",
+                "style": "0"
+            },
+            "asset_modifier4": {
+                "type": "npc_material_override",
+                "asset": "materials/models/creeps/roshan/roshan_color.vmat",
+                "modifier": "materials/models/creeps/roshan/roshan_color_winter.vmat",
+                "style": "0"
+            },
+            "asset_modifier5": {
+                "type": "particle_control_point",
+                "asset": "particles/ui_mouseactions/bounding_area_view.vpcf",
+                "control_point_number": "15",
+                "cp_position": "255 255 0"
+            },
+            "asset_modifier6": {
+                "type": "particle_control_point",
+                "asset": "particles/ui_mouseactions/bounding_area_view.vpcf",
+                "control_point_number": "16",
+                "cp_position": "1 0 0"
+            },
+            "asset_modifier": {
+                "type": "weather_effect",
+                "asset": "maps/summer_assets/particles/summer_terrain.vpcf",
+                "style": "0"
+            }
+        },
+        "rarity_color": "#FFF34F",
+        "item_name_cn": "季节地图 - 夏季"
+    },
+    "12921": {
+        "name": "Overgrown Empire",
+        "prefab": "terrain",
+        "creation_date": "2019-03-12",
+        "event_id": "EVENT_ID_INTERNATIONAL_2019",
+        "image_inventory": "econ/terrain/ti9_terrain",
+        "item_description": "#DOTA_Item_Desc_Overgrown_Empire",
+        "item_name": "#DOTA_Item_Overgrown_Empire",
+        "item_rarity": "immortal",
+        "static_attributes": {
+            "cannot trade": {
+                "attribute_class": "cannot_trade",
+                "value": "1"
+            }
+        },
+        "visuals": {
+            "styles": {
+                "0": {
+                    "name": "#DOTA_Item_Desc_Overgrown_Empire_Style0",
+                    "alternate_icon": "0"
+                },
+                "1": {
+                    "name": "#DOTA_Item_Desc_Overgrown_Empire_Style1",
+                    "alternate_icon": "0"
+                }
+            },
+            "asset_modifier0": {
+                "type": "map_override",
+                "asset": "maps/dota.vmap",
+                "modifier": "maps/dota_jungle.vmap"
+            },
+            "asset_modifier2": {
+                "type": "portrait_background_map",
+                "asset": "maps/terrain_previews/dota_jungle_preview.vmap"
+            },
+            "asset_modifier4": {
+                "type": "npc_material_override",
+                "asset": "materials/models/creeps/roshan/roshan_color.vmat",
+                "modifier": "materials/models/creeps/roshan/roshan_winter_color.vmat"
+            },
+            "asset_modifier5": {
+                "type": "particle_control_point",
+                "asset": "particles/ui_mouseactions/bounding_area_view.vpcf",
+                "control_point_number": "15",
+                "cp_position": "255 255 0"
+            },
+            "asset_modifier6": {
+                "type": "particle_control_point",
+                "asset": "particles/ui_mouseactions/bounding_area_view.vpcf",
+                "control_point_number": "16",
+                "cp_position": "1 0 0"
+            },
+            "asset_modifier": {
+                "type": "weather_effect",
+                "asset": "particles/rain_fx/econ_dynamic_rain.vpcf",
+                "style": "0",
+                "dynamic_weather": "1"
+            }
+        },
+        "rarity_color": "#e4ae39",
+        "item_name_cn": "蔓生国度"
+    },
+    "21441": {
+        "name": "Sanctums of the Divine",
+        "prefab": "terrain",
+        "creation_date": "2020-05-25",
+        "event_id": "EVENT_ID_INTERNATIONAL_2020",
+        "hide_tradecraftdelete": "1",
+        "image_inventory": "econ/terrain/ti10_terrain",
+        "item_description": "#DOTA_Item_Desc_Sanctums_of_the_Divine",
+        "item_name": "#DOTA_Item_Sanctums_of_the_Divine",
+        "item_rarity": "immortal",
+        "portraits": {
+            "icon": {
+                "cameras": {
+                    "Default": {
+                        "PortraitPosition": "0.000000 0.000000 0.000000",
+                        "PortraitAngles": "0.000000 0.000000 0.000000",
+                        "PortraitFOV": "15",
+                        "PortraitFar": "1000"
+                    }
+                },
+                "PortraitLightPosition": "0.000000 0.000000 0.000000",
+                "PortraitLightAngles": "0.000000 0.000000 0.000000",
+                "PortraitLightFOV": "15",
+                "PortraitLightDistance": "250",
+                "PortraitLightColor": "243 237 230",
+                "PortraitLightScale": "1",
+                "PortraitShadowColor": "89 89 89",
+                "PortraitShadowScale": "0.300000",
+                "PortraitGroundShadowScale": "0.300000",
+                "PortraitAmbientDirection": "400.000 -400.000 -50.000",
+                "PortraitAmbientColor": "123 168 168",
+                "PortraitAmbientScale": "0.500000",
+                "PortraitSpecularColor": "251 74 84",
+                "PortraitSpecularDirection": "0.000000 0.000000 -1.000000",
+                "PortraitSpecularPower": "16",
+                "PortraitBackgroundColor1": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundColor2": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundColor3": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundColor4": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundTexture": "materials/vgui/econ/item_icon_bg.vmat",
+                "PortraitAnimationActivity": "ACT_DOTA_IDLE",
+                "PortraitAnimationCycle": "0",
+                "PortraitAnimationRate": "1",
+                "PortraitHideHero": "0",
+                "PortraitHideParticles": "0",
+                "PortraitHideDropShadow": "0",
+                "PortraitDesaturateParticles": "0"
+            }
+        },
+        "static_attributes": {
+            "cannot trade": {
+                "attribute_class": "cannot_trade",
+                "value": "1"
+            },
+            "not marketable": {
+                "attribute_class": "not marketable",
+                "value": "1"
+            },
+            "giftable": {
+                "attribute_class": "giftable",
+                "value": "0"
+            },
+            "cannot delete": {
+                "attribute_class": "cannot_delete",
+                "value": "1"
+            },
+            "additional_exclusive_tooltip_text": {
+                "attribute_class": "additional_exclusive_tooltip_text",
+                "value": "#DOTA_EconItemSet_Tooltip_TI10_Exclusive_Item"
+            }
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "map_override",
+                "asset": "maps/dota.vmap",
+                "modifier": "maps/dota_ti10.vmap"
+            },
+            "asset_modifier": {
+                "type": "particle_clientside",
+                "asset": "particles/econ/world/towers/ti10_dire_tower/ti10_dire_tower_attack.vpcf",
+                "modifier": "particles/econ/world/towers/ti10_dire_tower/ti10_dire_tower_cyan_attack.vpcf"
+            }
+        },
+        "rarity_color": "#e4ae39",
+        "item_name_cn": "神之圣地"
+    }
+}

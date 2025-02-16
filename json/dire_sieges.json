@@ -1,0 +1,48 @@
+﻿{
+    "12464": {
+        "name": "Woodland Warbands - Dire Siege Creeps",
+        "prefab": "diresiegecreeps",
+        "creation_date": "2021-08-23",
+        "image_inventory": "econ/creeps/lane_creeps/creep_2021_dire/dire_2021_radiant_siege",
+        "item_description": "#DOTA_Item_Desc_Woodland_Warbands__Dire_Siege_Creeps",
+        "item_name": "#DOTA_Item_Woodland_Warbands__Dire_Siege_Creeps",
+        "static_attributes": {
+            "cannot trade": {
+                "attribute_class": "cannot_trade",
+                "value": "1"
+            }
+        },
+        "visuals": {
+            "asset_modifier": {
+                "type": "entity_scale",
+                "asset": "npc_dota_badguys_siege_upgraded_mega",
+                "scale_size": "0.880000"
+            }
+        },
+        "rarity_color": "#b0c3d9",
+        "item_name_cn": "林地战团 - 夜魇攻城单位"
+    },
+    "30286": {
+        "name": "Crownfall - Dire Siege Creeps",
+        "prefab": "diresiegecreeps",
+        "creation_date": "2024-04-18",
+        "event_id": "EVENT_ID_CROWNFALL",
+        "image_inventory": "econ/creeps/lane_creeps/creep_2024_crownfall_dire/creep_2024_crownfall_dire_siege",
+        "item_description": "#DOTA_Item_Desc_Copy_of_Woodland_Warbands__Dire_Siege_Creeps",
+        "item_name": "#DOTA_Item_Crownfall__Dire_Siege_Creeps",
+        "item_rarity": "legendary",
+        "static_attributes": {
+            "tradable after date": "1745002800",
+            "giftable": "0"
+        },
+        "visuals": {
+            "asset_modifier": {
+                "type": "entity_scale",
+                "asset": "npc_dota_badguys_siege_upgraded_mega",
+                "scale_size": "1"
+            }
+        },
+        "rarity_color": "#d32ce6",
+        "item_name_cn": "倾天之战 - 夜魇攻城兵"
+    }
+}

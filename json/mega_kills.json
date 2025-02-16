@@ -1,0 +1,1260 @@
+﻿{
+    "10014": {
+        "name": "Mega-Kills: Juggernaut",
+        "prefab": "announcer",
+        "image_inventory": "econ/announcer/megakill_juggernaut",
+        "item_description": "#DOTA_Item_Desc_MegaKills_Juggernaut",
+        "item_name": "#DOTA_Item_MegaKills_Juggernaut",
+        "item_rarity": "rare",
+        "item_slot": "mega_kills",
+        "price_info": {
+            "bucket": "Cheap",
+            "class": "NoPrice",
+            "category_tags": "Announcers",
+            "date": "6/18/2012",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "announcer",
+                "asset": "npc_dota_hero_announcer_dlc_juggernaut_killing_spree",
+                "modifier": "soundevents/voscripts/game_sounds_vo_announcer_dlc_juggernaut_killing_spree.vsndevts"
+            },
+            "asset_modifier1": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_Juggernaut_Killing_Spree/announcer_1stblood_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Juggernaut_Killing_Spree_01"
+            },
+            "asset_modifier2": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_Juggernaut_Killing_Spree/announcer_kill_double_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Juggernaut_Killing_Spree_02"
+            },
+            "asset_modifier3": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_Juggernaut_Killing_Spree/announcer_kill_godlike_02.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Juggernaut_Killing_Spree_03"
+            },
+            "asset_modifier4": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_Juggernaut_Killing_Spree/announcer_kill_rampage_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Juggernaut_Killing_Spree_04"
+            },
+            "asset_modifier5": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_Juggernaut_Killing_Spree/announcer_kill_triple_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Juggernaut_Killing_Spree_05"
+            },
+            "asset_modifier6": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_Juggernaut_Killing_Spree/announcer_kill_unstop_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Juggernaut_Killing_Spree_06"
+            }
+        },
+        "rarity_color": "#4b69ff",
+        "item_name_cn": "连杀配音：主宰"
+    },
+    "10016": {
+        "name": "Mega-Kills: Nature's Prophet",
+        "prefab": "announcer",
+        "image_inventory": "econ/announcer/megakill_furion",
+        "item_description": "#DOTA_Item_Desc_MegaKills_Natures_Prophet",
+        "item_name": "#DOTA_Item_MegaKills_Natures_Prophet",
+        "item_rarity": "rare",
+        "item_slot": "mega_kills",
+        "price_info": {
+            "bucket": "Cheap",
+            "class": "None",
+            "category_tags": "Announcers",
+            "date": "6/18/2012",
+            "is_pack_item": "1",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "announcer",
+                "asset": "npc_dota_hero_announcer_dlc_naturesprophet_killing_spree",
+                "modifier": "soundevents/voscripts/game_sounds_vo_announcer_dlc_naturesprophet_killing_spree.vsndevts"
+            },
+            "asset_modifier1": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_NaturesProphet_Killing_Spree/announcer_kill_dominate_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_NaturesProphet_Killing_Spree_01"
+            },
+            "asset_modifier2": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_NaturesProphet_Killing_Spree/announcer_kill_mega_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_NaturesProphet_Killing_Spree_02"
+            },
+            "asset_modifier3": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_NaturesProphet_Killing_Spree/announcer_kill_rampage_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_NaturesProphet_Killing_Spree_03"
+            },
+            "asset_modifier4": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_NaturesProphet_Killing_Spree/announcer_kill_spree_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_NaturesProphet_Killing_Spree_04"
+            },
+            "asset_modifier5": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_NaturesProphet_Killing_Spree/announcer_kill_ultra_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_NaturesProphet_Killing_Spree_05"
+            },
+            "asset_modifier6": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_NaturesProphet_Killing_Spree/announcer_kill_unstop_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_NaturesProphet_Killing_Spree_06"
+            }
+        },
+        "rarity_color": "#4b69ff",
+        "item_name_cn": "连杀配音：自然先知"
+    },
+    "10031": {
+        "name": "Mega-Kills: The Pirate Cap'n",
+        "prefab": "announcer",
+        "image_inventory": "econ/announcer/megakill_announcer_workshop_pirate",
+        "item_description": "#DOTA_Item_Desc_MegaKills_Pirate_Captain",
+        "item_name": "#DOTA_Item_MegaKills_Pirate_Capn",
+        "item_rarity": "rare",
+        "item_slot": "mega_kills",
+        "player_loadout": "1",
+        "price_info": {
+            "bucket": "Cheap",
+            "class": "NoPrice",
+            "category_tags": "Announcers",
+            "date": "9/19/2012",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "announcer",
+                "asset": "npc_dota_hero_announcer_dlc_workshop_pirate_killing_spree",
+                "modifier": "soundevents/voscripts/game_sounds_vo_announcer_dlc_workshop_pirate_killing_spree.vsndevts"
+            },
+            "asset_modifier1": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_Workshop_Pirate_Killing_Spree/announcer_capn_killing_dominating.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Workshop_Pirate_Killing_Spree_01"
+            },
+            "asset_modifier2": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_Workshop_Pirate_Killing_Spree/announcer_capn_killing_outstanding.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Workshop_Pirate_Killing_Spree_02"
+            },
+            "asset_modifier3": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_Workshop_Pirate_Killing_Spree/announcer_capn_killing_plundered.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Workshop_Pirate_Killing_Spree_03"
+            },
+            "asset_modifier4": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_Workshop_Pirate_Killing_Spree/announcer_capn_killing_shipwreck.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Workshop_Pirate_Killing_Spree_04"
+            },
+            "asset_modifier5": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_Workshop_Pirate_Killing_Spree/announcer_capn_killing_ultrakill.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Workshop_Pirate_Killing_Spree_05"
+            },
+            "asset_modifier6": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_Workshop_Pirate_Killing_Spree/announcer_capn_killing_unstoppable.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Workshop_Pirate_Killing_Spree_06"
+            }
+        },
+        "rarity_color": "#4b69ff",
+        "item_name_cn": "连杀配音：海盗船长"
+    },
+    "10038": {
+        "name": "Mega-Kills: Storm Spirit",
+        "prefab": "announcer",
+        "image_inventory": "econ/announcer/megakill_stormspirit",
+        "item_description": "#DOTA_Item_Desc_MegaKills_Storm_Spirit",
+        "item_name": "#DOTA_Item_MegaKills_Storm_Spirit",
+        "item_rarity": "rare",
+        "item_slot": "mega_kills",
+        "price_info": {
+            "bucket": "Cheap",
+            "class": "NoPrice",
+            "category_tags": "Announcers",
+            "date": "7/12/2012",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "announcer",
+                "asset": "npc_dota_hero_announcer_dlc_stormspirit_killing_spree",
+                "modifier": "soundevents/voscripts/game_sounds_vo_announcer_dlc_stormspirit_killing_spree.vsndevts"
+            },
+            "asset_modifier1": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_StormSpirit_Killing_Spree/announcer_kill_1stblood_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_StormSpirit_Killing_Spree_01"
+            },
+            "asset_modifier2": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_StormSpirit_Killing_Spree/announcer_kill_godlike_02.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_StormSpirit_Killing_Spree_02"
+            },
+            "asset_modifier3": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_StormSpirit_Killing_Spree/announcer_kill_monster_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_StormSpirit_Killing_Spree_03"
+            },
+            "asset_modifier4": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_StormSpirit_Killing_Spree/announcer_kill_rampage_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_StormSpirit_Killing_Spree_04"
+            },
+            "asset_modifier5": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_StormSpirit_Killing_Spree/announcer_kill_ultra_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_StormSpirit_Killing_Spree_05"
+            },
+            "asset_modifier6": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_StormSpirit_Killing_Spree/announcer_kill_ownage_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_StormSpirit_Killing_Spree_06"
+            }
+        },
+        "rarity_color": "#4b69ff",
+        "item_name_cn": "连杀配音：风暴之灵"
+    },
+    "10062": {
+        "name": "Mega-Kills: Axe",
+        "prefab": "announcer",
+        "image_inventory": "econ/announcer/megakill_axe",
+        "item_description": "#DOTA_Item_Desc_MegaKills_Axe",
+        "item_name": "#DOTA_Item_MegaKills_Axe",
+        "item_rarity": "rare",
+        "item_slot": "mega_kills",
+        "price_info": {
+            "bucket": "Cheap",
+            "class": "NoPrice",
+            "category_tags": "Announcers",
+            "date": "9/26/2012",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "announcer",
+                "asset": "npc_dota_hero_announcer_dlc_axe_killing_spree",
+                "modifier": "soundevents/voscripts/game_sounds_vo_announcer_dlc_axe_killing_spree.vsndevts"
+            },
+            "asset_modifier1": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_Axe_Killing_Spree/announcer_kill_1stblood_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Axe_Killing_Spree_01"
+            },
+            "asset_modifier2": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_Axe_Killing_Spree/announcer_kill_dominate_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Axe_Killing_Spree_02"
+            },
+            "asset_modifier3": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_Axe_Killing_Spree/announcer_kill_godlike_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Axe_Killing_Spree_03"
+            },
+            "asset_modifier4": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_Axe_Killing_Spree/announcer_kill_monster_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Axe_Killing_Spree_04"
+            },
+            "asset_modifier5": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_Axe_Killing_Spree/announcer_kill_ultra_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Axe_Killing_Spree_05"
+            },
+            "asset_modifier6": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_Axe_Killing_Spree/announcer_kill_wicked_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Axe_Killing_Spree_06"
+            }
+        },
+        "rarity_color": "#4b69ff",
+        "item_name_cn": "连杀配音：斧王"
+    },
+    "10141": {
+        "name": "Mega-Kills: Bastion",
+        "prefab": "announcer",
+        "image_inventory": "econ/announcer/megakill_bastion",
+        "item_description": "#DOTA_Item_Desc_MegaKills_Bastion",
+        "item_name": "#DOTA_Item_MegaKills_Bastion",
+        "item_rarity": "mythical",
+        "item_slot": "mega_kills",
+        "player_loadout": "1",
+        "price_info": {
+            "bucket": "Normal",
+            "class": "None",
+            "category_tags": "Announcers",
+            "date": "12/10/2012",
+            "is_pack_item": "1",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "announcer",
+                "asset": "npc_dota_hero_announcer_dlc_bastion_killing_spree",
+                "modifier": "soundevents/voscripts/game_sounds_vo_announcer_dlc_bastion_killing_spree.vsndevts"
+            },
+            "asset_modifier1": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_Bastion_Killing_Spree/announcer_1stblood_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Bastion_Killing_Spree_01"
+            },
+            "asset_modifier2": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_Bastion_Killing_Spree/announcer_kill_holy_04.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Bastion_Killing_Spree_02"
+            },
+            "asset_modifier3": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_Bastion_Killing_Spree/announcer_kill_monster_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Bastion_Killing_Spree_03"
+            },
+            "asset_modifier4": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_Bastion_Killing_Spree/announcer_kill_rampage_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Bastion_Killing_Spree_04"
+            },
+            "asset_modifier5": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_Bastion_Killing_Spree/announcer_kill_spree_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Bastion_Killing_Spree_05"
+            },
+            "asset_modifier6": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_Bastion_Killing_Spree/announcer_teamwipe_enm_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Bastion_Killing_Spree_06"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "连杀配音：《壁垒》"
+    },
+    "10178": {
+        "name": "Mega-Kills: Pyrion Flax",
+        "prefab": "announcer",
+        "creation_date": "2013-05-14",
+        "image_inventory": "econ/announcer/megakill_pflax",
+        "item_description": "#DOTA_Item_Desc_MegaKills_Pyrion_Flax",
+        "item_name": "#DOTA_Item_MegaKills_Pyrion_Flax",
+        "item_rarity": "mythical",
+        "item_slot": "mega_kills",
+        "player_loadout": "1",
+        "price_info": {
+            "bucket": "Cheap",
+            "class": "NoPrice",
+            "category_tags": "Announcers",
+            "date": "5/14/2013",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "announcer",
+                "asset": "npc_dota_hero_announcer_dlc_pflax_killing_spree",
+                "modifier": "soundevents/voscripts/game_sounds_vo_announcer_dlc_pflax_killing_spree.vsndevts"
+            },
+            "asset_modifier7": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_pflax_killing_spree/announcer_chosen_one.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Pflax_Killing_Spree_01"
+            },
+            "asset_modifier1": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_pflax_killing_spree/announcer_nine_men_dead_at_feet.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Pflax_Killing_Spree_02"
+            },
+            "asset_modifier2": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_pflax_killing_spree/grand_pantheon.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Pflax_Killing_Spree_03"
+            },
+            "asset_modifier3": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_pflax_killing_spree/godlike_harmonica_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Pflax_Killing_Spree_04"
+            },
+            "asset_modifier4": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_pflax_killing_spree/announcer_kill_double_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Pflax_Killing_Spree_05"
+            },
+            "asset_modifier6": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_pflax_killing_spree/why_why_why.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Pflax_Killing_Spree_06"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "连杀配音：Pyrion Flax"
+    },
+    "10308": {
+        "name": "Mega-Kills: Defense Grid",
+        "prefab": "announcer",
+        "creation_date": "2013-07-03",
+        "image_inventory": "econ/announcer/megakill_dgrid",
+        "item_description": "#DOTA_Item_Desc_MegaKills_Defense_Grid",
+        "item_name": "#DOTA_Item_MegaKills_Defense_Grid",
+        "item_rarity": "mythical",
+        "item_slot": "mega_kills",
+        "player_loadout": "1",
+        "price_info": {
+            "bucket": "Cheap",
+            "class": "NoPrice",
+            "category_tags": "Announcers",
+            "date": "7/3/2013",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "announcer",
+                "asset": "npc_dota_hero_announcer_dlc_defensegrid_killing_spree",
+                "modifier": "soundevents/voscripts/game_sounds_vo_announcer_dlc_defensegrid_killing_spree.vsndevts"
+            },
+            "asset_modifier1": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_defensegrid_killing_spree/announcer_kill_ultra_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_DefenseGrid_Killing_Spree_01"
+            },
+            "asset_modifier2": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_defensegrid_killing_spree/announcer_kill_wicked_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_DefenseGrid_Killing_Spree_02"
+            },
+            "asset_modifier3": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_defensegrid_killing_spree/announcer_ownage_02.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_DefenseGrid_Killing_Spree_03"
+            },
+            "asset_modifier4": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_defensegrid_killing_spree/announcer_1stblood_10.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_DefenseGrid_Killing_Spree_04"
+            },
+            "asset_modifier5": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_defensegrid_killing_spree/announcer_kill_wipeout_05.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_DefenseGrid_Killing_Spree_05"
+            },
+            "asset_modifier6": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_defensegrid_killing_spree/announcer_kill_holy_02.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_DefenseGrid_Killing_Spree_06"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "连杀配音：Defense Grid"
+    },
+    "10316": {
+        "name": "Mega-Kills: GLaDOS",
+        "prefab": "announcer",
+        "creation_date": "2013-08-29",
+        "image_inventory": "econ/announcer/megakill_portal",
+        "item_description": "#DOTA_Item_Desc_MegaKills_GLaDOS",
+        "item_name": "#DOTA_Item_MegaKills_GLaDOS",
+        "item_rarity": "mythical",
+        "item_slot": "mega_kills",
+        "player_loadout": "1",
+        "price_info": {
+            "bucket": "Cheap",
+            "class": "NoPrice",
+            "category_tags": "Announcers",
+            "date": "8/29/2013",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "announcer",
+                "asset": "npc_dota_hero_announcer_dlc_glados_killing_spree",
+                "modifier": "soundevents/voscripts/game_sounds_vo_announcer_dlc_glados_killing_spree.vsndevts"
+            },
+            "asset_modifier1": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_glados_killing_spree/ann_glados_kill_rampage_02.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Glados_Killing_Spree_01"
+            },
+            "asset_modifier2": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_glados_killing_spree/ann_glados_kill_dominate_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Glados_Killing_Spree_02"
+            },
+            "asset_modifier3": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_glados_killing_spree/ann_glados_kill_monster_02.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Glados_Killing_Spree_03"
+            },
+            "asset_modifier4": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_glados_killing_spree/ann_glados_kill_ownage_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Glados_Killing_Spree_04"
+            },
+            "asset_modifier5": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_glados_killing_spree/ann_glados_enemy_teamwipe_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Glados_Killing_Spree_05"
+            },
+            "asset_modifier6": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_glados_killing_spree/ann_glados_allied_teamwipe_04.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Glados_Killing_Spree_06"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "连杀配音：GLaDOS"
+    },
+    "10351": {
+        "name": "Mega-Kills: Trine",
+        "prefab": "announcer",
+        "creation_date": "2013-11-01",
+        "image_inventory": "econ/announcer/megakill_trine",
+        "item_description": "#DOTA_Item_Desc_MegaKills_Trine",
+        "item_name": "#DOTA_Item_MegaKills_Trine",
+        "item_rarity": "mythical",
+        "item_slot": "mega_kills",
+        "player_loadout": "1",
+        "price_info": {
+            "bucket": "Cheap",
+            "class": "NoPrice",
+            "category_tags": "Announcers",
+            "date": "11/1/2013",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "announcer",
+                "asset": "npc_dota_hero_announcer_dlc_trine_killing_spree",
+                "modifier": "soundevents/voscripts/game_sounds_vo_announcer_dlc_trine_killing_spree.vsndevts"
+            },
+            "asset_modifier1": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_trine_killing_spree/announcer_firstblood_06.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Trine_Killing_Spree_01"
+            },
+            "asset_modifier2": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_trine_killing_spree/announcer_kill_ultra_02.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Trine_Killing_Spree_02"
+            },
+            "asset_modifier3": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_trine_killing_spree/announcer_kill_dominate_02.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Trine_Killing_Spree_03"
+            },
+            "asset_modifier4": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_trine_killing_spree/announcer_kill_unstop_02.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Trine_Killing_Spree_04"
+            },
+            "asset_modifier5": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_trine_killing_spree/announcer_kill_holy_02.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Trine_Killing_Spree_05"
+            },
+            "asset_modifier6": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_trine_killing_spree/announcer_kill_godlike_02.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Trine_Killing_Spree_06"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "连杀配音：《魔幻三杰》"
+    },
+    "10387": {
+        "name": "Mega-Kills: Lina",
+        "prefab": "announcer",
+        "creation_date": "2013-12-03",
+        "image_inventory": "econ/announcer/megakill_lina",
+        "item_description": "#DOTA_Item_Desc_MegaKills_Lina",
+        "item_name": "#DOTA_Item_MegaKills_Lina",
+        "item_rarity": "mythical",
+        "item_slot": "mega_kills",
+        "price_info": {
+            "bucket": "Cheap",
+            "class": "NoPrice",
+            "category_tags": "Announcers",
+            "date": "12/3/2013",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "announcer",
+                "asset": "npc_dota_hero_announcer_dlc_lina_killing_spree",
+                "modifier": "soundevents/voscripts/game_sounds_vo_announcer_dlc_lina_killing_spree.vsndevts"
+            },
+            "asset_modifier1": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_lina_killing_spree/announcer_kill_rampage_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Lina_Killing_Spree_01"
+            },
+            "asset_modifier2": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_lina_killing_spree/announcer_kill_wicked_02.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Lina_Killing_Spree_02"
+            },
+            "asset_modifier3": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_lina_killing_spree/announcer_kill_monster_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Lina_Killing_Spree_03"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "连杀配音：莉娜"
+    },
+    "10458": {
+        "name": "Mega-Kills: Clockwerk",
+        "prefab": "announcer",
+        "creation_date": "2014-03-07",
+        "image_inventory": "econ/announcer/megakill_clockwerk",
+        "item_description": "#DOTA_Item_Desc_MegaKills_Clockwerk",
+        "item_name": "#DOTA_Item_MegaKills_Clockwerk",
+        "item_rarity": "mythical",
+        "item_slot": "mega_kills",
+        "price_info": {
+            "bucket": "Normal",
+            "class": "NoPrice",
+            "category_tags": "Announcers",
+            "date": "3/7/2014",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "announcer",
+                "asset": "npc_dota_hero_announcer_dlc_clockwerk_killing_spree",
+                "modifier": "soundevents/voscripts/game_sounds_vo_announcer_dlc_clockwerk_killing_spree.vsndevts"
+            },
+            "asset_modifier1": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_clockwerk_killing_spree/announcer_kill_rampage_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Clockwerk_Killing_Spree_01"
+            },
+            "asset_modifier2": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_clockwerk_killing_spree/announcer_kill_godlike_02.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Clockwerk_Killing_Spree_02"
+            },
+            "asset_modifier3": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_clockwerk_killing_spree/announcer_kill_cat_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Clockwerk_Killing_Spree_03"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "连杀配音：发条技师"
+    },
+    "10548": {
+        "name": "Mega-Kills: The Stanley Parable",
+        "prefab": "announcer",
+        "creation_date": "2014-05-15",
+        "image_inventory": "econ/announcer/megakill_stanleyparable",
+        "item_description": "#DOTA_Item_Desc_MegaKills_Stanley_Parable",
+        "item_name": "#DOTA_Item_MegaKills_The_Stanley_Parable",
+        "item_rarity": "mythical",
+        "item_slot": "mega_kills",
+        "player_loadout": "1",
+        "price_info": {
+            "bucket": "Normal",
+            "class": "NoPrice",
+            "category_tags": "Announcers",
+            "date": "5/14/2014",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "announcer",
+                "asset": "npc_dota_hero_announcer_dlc_stanleyparable_killing_spree",
+                "modifier": "soundevents/voscripts/game_sounds_vo_announcer_dlc_stanleyparable_killing_spree.vsndevts"
+            },
+            "asset_modifier1": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_StanleyParable_Killing_Spree/announcer_1stblood_03.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_StanleyParable_Killing_Spree_01"
+            },
+            "asset_modifier2": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_StanleyParable_Killing_Spree/announcer_kill_mega_02.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_StanleyParable_Killing_Spree_02"
+            },
+            "asset_modifier3": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_StanleyParable_Killing_Spree/announcer_kill_monster_03.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_StanleyParable_Killing_Spree_03"
+            },
+            "asset_modifier4": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_StanleyParable_Killing_Spree/announcer_kill_holy_27.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_StanleyParable_Killing_Spree_04"
+            },
+            "asset_modifier5": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_StanleyParable_Killing_Spree/announcer_kill_wipeout_you_04.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_StanleyParable_Killing_Spree_05"
+            },
+            "asset_modifier6": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/Announcer_DLC_StanleyParable_Killing_Spree/announcer_ownage_06.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_StanleyParable_Killing_Spree_06"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "连杀配音：《The Stanley Parable》"
+    },
+    "10844": {
+        "name": "Mega-Kills: Techies",
+        "prefab": "announcer",
+        "creation_date": "2014-08-18",
+        "image_inventory": "econ/announcer/megakill_techies",
+        "item_description": "#DOTA_Item_Desc_MegaKills_Techies",
+        "item_name": "#DOTA_Item_MegaKills_Techies",
+        "item_rarity": "mythical",
+        "item_slot": "mega_kills",
+        "price_info": {
+            "category_tags": "Announcers",
+            "date": "8/28/2014",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "announcer",
+                "asset": "npc_dota_hero_announcer_dlc_techies_killing_spree",
+                "modifier": "soundevents/voscripts/game_sounds_vo_announcer_dlc_techies_killing_spree.vsndevts"
+            },
+            "asset_modifier1": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_techies_killing_spree/tech_ann_kill_1stblood_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Techies_Killing_Spree_01"
+            },
+            "asset_modifier2": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_techies_killing_spree/tech_ann_kill_triple_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Techies_Killing_Spree_02"
+            },
+            "asset_modifier3": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_techies_killing_spree/tech_ann_kill_unstop_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Techies_Killing_Spree_03"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "连杀配音：工程师"
+    },
+    "11144": {
+        "name": "Mega-Kills: Rick and Morty",
+        "prefab": "announcer",
+        "creation_date": "2015-08-10",
+        "image_inventory": "econ/announcer/megakill_rickmorty",
+        "item_description": "#DOTA_Item_Desc_MegaKills_Rick_and_Morty",
+        "item_name": "#DOTA_Item_MegaKills_Rick_and_Morty",
+        "item_rarity": "mythical",
+        "item_slot": "mega_kills",
+        "player_loadout": "1",
+        "price_info": {
+            "category_tags": "Announcers",
+            "date": "8/10/2015",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "announcer",
+                "asset": "npc_dota_hero_announcer_dlc_rick_and_morty_killing_spree",
+                "modifier": "soundevents/voscripts/game_sounds_vo_announcer_dlc_rick_and_morty_killing_spree.vsndevts"
+            },
+            "asset_modifier1": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_rick_and_morty_killing_spree/wubalub_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_RickMorty_Killing_Spree_01"
+            },
+            "asset_modifier2": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_rick_and_morty_killing_spree/riggitty_riggity_rekt_son.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_RickMorty_Killing_Spree_02"
+            },
+            "asset_modifier3": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_rick_and_morty_killing_spree/lot_of_blood_and_body_parts.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_RickMorty_Killing_Spree_03"
+            },
+            "asset_modifier4": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_rick_and_morty_killing_spree/enemy_team_wipe_05.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_RickMorty_Killing_Spree_04"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "连杀配音：Rick和Morty"
+    },
+    "11280": {
+        "name": "Mega-Kills: Bristleback",
+        "prefab": "announcer",
+        "creation_date": "2015-03-23",
+        "image_inventory": "econ/announcer/megakill_bristleback",
+        "item_description": "#DOTA_Item_Desc_MegaKills_Bristleback",
+        "item_name": "#DOTA_Item_MegaKills_Bristleback",
+        "item_rarity": "mythical",
+        "item_slot": "mega_kills",
+        "static_attributes": {
+            "international tag": {
+                "attribute_class": "international_tag",
+                "value": "2015"
+            },
+            "tradable after date": {
+                "attribute_class": "tradable_after_date",
+                "value": "1441065600"
+            }
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "announcer",
+                "asset": "npc_dota_hero_announcer_dlc_bristleback_killing_spree",
+                "modifier": "soundevents/voscripts/game_sounds_vo_announcer_dlc_bristleback_killing_spree.vsndevts"
+            },
+            "asset_modifier1": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_bristleback_killing_spree/bris_ann_kill_1stblood_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Bristleback_Killing_Spree_01"
+            },
+            "asset_modifier2": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_bristleback_killing_spree/bris_ann_kill_rampage_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Bristleback_Killing_Spree_02"
+            },
+            "asset_modifier3": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_bristleback_killing_spree/bris_ann_kill_monster_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Bristleback_Killing_Spree_03"
+            },
+            "asset_modifier4": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_bristleback_killing_spree/bris_ann_kill_teamwipe_07.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Bristleback_Killing_Spree_04"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "连杀播音：钢背兽"
+    },
+    "11385": {
+        "name": "Mega-Kills: Crystal Maiden",
+        "prefab": "announcer",
+        "creation_date": "2016-05-16",
+        "event_id": "EVENT_ID_INTERNATIONAL_2016",
+        "image_inventory": "econ/announcer/announcer_crystal_maiden_megakill",
+        "item_description": "#DOTA_Item_Desc_MegaKills_Crystal_Maiden",
+        "item_name": "#DOTA_Item_MegaKills_Crystal_Maiden",
+        "item_rarity": "mythical",
+        "item_slot": "mega_kills",
+        "static_attributes": {
+            "international tag": {
+                "attribute_class": "international_tag",
+                "value": "2016"
+            },
+            "tradable after date": {
+                "attribute_class": "tradable_after_date",
+                "value": "1471158000"
+            }
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "announcer",
+                "asset": "npc_dota_hero_announcer_dlc_crystal_maiden_killing_spree",
+                "modifier": "soundevents/voscripts/game_sounds_vo_announcer_dlc_crystal_maiden_killing_spree.vsndevts"
+            },
+            "asset_modifier1": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_crystal_maiden_killing_spree/cm_ann_kill_rampage_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Crystal_Maiden_Killing_Spree_01"
+            },
+            "asset_modifier2": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_crystal_maiden_killing_spree/cm_ann_kill_unstop_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Crystal_Maiden_Killing_Spree_02"
+            },
+            "asset_modifier3": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_crystal_maiden_killing_spree/cm_ann_kill_wicked_02.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Crystal_Maiden_Killing_Spree_03"
+            },
+            "asset_modifier4": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_crystal_maiden_killing_spree/cm_ann_kill_holy_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Crystal_Maiden_Killing_Spree_04"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "连杀配音：水晶室女"
+    },
+    "11494": {
+        "name": "Mega-Kills: Monkey King",
+        "prefab": "announcer",
+        "creation_date": "2016-12-12",
+        "image_inventory": "econ/announcer/announcer_monkey_king_megakill",
+        "item_description": "#DOTA_Item_Desc_MegaKills_Monkey_King",
+        "item_name": "#DOTA_Item_MegaKills_Monkey_King",
+        "item_rarity": "mythical",
+        "item_slot": "mega_kills",
+        "price_info": {
+            "category_tags": "Announcers",
+            "date": "12/12/2016",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "announcer",
+                "asset": "npc_dota_hero_announcer_dlc_monkey_king_killing_spree",
+                "modifier": "soundevents/voscripts/game_sounds_vo_announcer_dlc_monkey_king_killing_spree.vsndevts"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "连杀配音：齐天大圣"
+    },
+    "11737": {
+        "name": "Mega-Kills: Fallout 4",
+        "prefab": "announcer",
+        "creation_date": "2015-10-21",
+        "image_inventory": "econ/announcer/megakill_fallout4",
+        "item_description": "#DOTA_Item_Desc_MegaKills_Fallout_4",
+        "item_name": "#DOTA_Item_MegaKills_Fallout_4",
+        "item_rarity": "mythical",
+        "item_slot": "mega_kills",
+        "price_info": {
+            "category_tags": "Announcers",
+            "date": "10/22/2015",
+            "price": "0"
+        },
+        "static_attributes": {
+            "tradable after date": {
+                "attribute_class": "tradable_after_date",
+                "value": "1451952000"
+            }
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "announcer",
+                "asset": "npc_dota_hero_announcer_dlc_fallout4_killing_spree",
+                "modifier": "soundevents/voscripts/game_sounds_vo_announcer_dlc_fallout4_killing_spree.vsndevts"
+            },
+            "asset_modifier1": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_fallout4_killing_spree/announcer_misterhandy_killingspree_firstblood_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Fallout4_Killing_Spree_01"
+            },
+            "asset_modifier2": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_fallout4_killing_spree/announcer_misterhandy_killingspree_rampage_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Fallout4_Killing_Spree_02"
+            },
+            "asset_modifier3": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_fallout4_killing_spree/announcer_misterhandy_killingspree_dominating_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Fallout4_Killing_Spree_03"
+            },
+            "asset_modifier4": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_fallout4_killing_spree/announcer_misterhandy_killingspree_unstoppable_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Fallout4_Killing_Spree_04"
+            },
+            "asset_modifier5": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_fallout4_killing_spree/announcer_misterhandy_killingspree_monsterkill_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Fallout4_Killing_Spree_05"
+            },
+            "asset_modifier6": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_fallout4_killing_spree/announcer_misterhandy_killingspree_blimey_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Fallout4_Killing_Spree_06"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "连杀配音：《Fallout 4》"
+    },
+    "11869": {
+        "name": "Mega-Kills: Deus Ex",
+        "prefab": "announcer",
+        "creation_date": "2016-08-23",
+        "image_inventory": "econ/announcer/announcer_deus_ex_megakill",
+        "item_description": "#DOTA_Item_Desc_MegaKills_Deus_Ex",
+        "item_name": "#DOTA_Item_MegaKills_Deus_Ex",
+        "item_rarity": "mythical",
+        "item_slot": "mega_kills",
+        "price_info": {
+            "category_tags": "Announcers",
+            "date": "8/23/2016",
+            "price": "0"
+        },
+        "static_attributes": {
+            "tradable after date": {
+                "attribute_class": "tradable_after_date",
+                "value": "1474156800"
+            }
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "announcer",
+                "asset": "npc_dota_hero_announcer_dlc_deus_ex_killing_spree",
+                "modifier": "soundevents/voscripts/game_sounds_vo_announcer_dlc_deus_ex_killing_spree.vsndevts"
+            },
+            "asset_modifier1": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_deus_ex_killing_spree/dlc_jensen_ann_kill_dominate_001.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Deus_Ex_Killing_Spree_01"
+            },
+            "asset_modifier2": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_deus_ex_killing_spree/dlc_jensen_ann_kill_dominate_002.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Deus_Ex_Killing_Spree_02"
+            },
+            "asset_modifier3": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_deus_ex_killing_spree/dlc_jensen_ann_kill_rampage_003.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Deus_Ex_Killing_Spree_03"
+            },
+            "asset_modifier4": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_deus_ex_killing_spree/dlc_jensen_ann_1stblood_009.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Deus_Ex_Killing_Spree_04"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "连杀配音：Deus Ex"
+    },
+    "12008": {
+        "name": "Mega-Kills: Kunkka & Tidehunter",
+        "prefab": "announcer",
+        "creation_date": "2017-05-02",
+        "event_id": "EVENT_ID_INTERNATIONAL_2017",
+        "image_inventory": "econ/announcer/announcer_kunkka_tide_megakill",
+        "item_description": "#DOTA_Item_Desc_MegaKills_Kunkka__Tidehunter",
+        "item_name": "#DOTA_Item_MegaKills_Kunkka__Tidehunter",
+        "item_rarity": "mythical",
+        "item_slot": "mega_kills",
+        "static_attributes": {
+            "international tag": {
+                "attribute_class": "international_tag",
+                "value": "2017"
+            }
+        },
+        "visuals": {
+            "asset_modifier": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_kunkka_tide_killing_spree/tiku_ann_kill_teamwipe_13.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Kunkka_Tide_Killing_Spree_04"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "连杀配音：昆卡与潮汐猎人"
+    },
+    "12316": {
+        "name": "Mega-Kills: Meepo",
+        "prefab": "announcer",
+        "creation_date": "2018-06-26",
+        "event_id": "EVENT_ID_INTERNATIONAL_2018",
+        "image_inventory": "econ/announcer/megakill_meepo",
+        "item_description": "#DOTA_Item_Desc_MegaKills_Meepo",
+        "item_name": "#DOTA_Item_MegaKills_Meepo",
+        "item_rarity": "mythical",
+        "item_slot": "mega_kills",
+        "visuals": {
+            "asset_modifier": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_meepo_killing_spree/meepo_ann_kill_teamwipe_02.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Meepo_Killing_Spree_04"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "连杀配音：米波"
+    },
+    "12425": {
+        "name": "Mega-Kills: Gabe Newell",
+        "prefab": "announcer",
+        "creation_date": "2018-08-16",
+        "event_id": "EVENT_ID_INTERNATIONAL_2018",
+        "image_inventory": "econ/announcer/announcer_gaben_megakill",
+        "item_description": "#DOTA_Item_Desc_MegaKills_Gabe_Newell",
+        "item_name": "#DOTA_Item_MegaKills_Gabe_Newell",
+        "item_rarity": "mythical",
+        "item_slot": "mega_kills",
+        "static_attributes": {
+            "not marketable": {
+                "attribute_class": "not marketable",
+                "value": "1"
+            },
+            "cannot trade": {
+                "attribute_class": "cannot_trade",
+                "value": "1"
+            }
+        },
+        "visuals": {
+            "asset_modifier": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_gaben_killing_spree/gaben_ann_kill_followup_06.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Gaben_Killing_Spree_04"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "连杀配音：Gabe Newell"
+    },
+    "12587": {
+        "name": "Mega-Kills: Darkest Dungeon (ft. Wayne June)",
+        "prefab": "announcer",
+        "creation_date": "2018-09-24",
+        "event_id": "EVENT_ID_NONE",
+        "image_inventory": "econ/announcer/announcer_darkest_dungeon_megakill",
+        "item_description": "#DOTA_Item_Desc_MegaKills_Darkest_Dungeon_ft_Wayne_June",
+        "item_name": "#DOTA_Item_MegaKills_Darkest_Dungeon_ft_Wayne_June",
+        "item_rarity": "mythical",
+        "item_slot": "mega_kills",
+        "price_info": {
+            "category_tags": "Announcers",
+            "date": "10/2/2018",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "announcer",
+                "asset": "npc_dota_hero_announcer_dlc_darkest_dungeon_killing_spree",
+                "modifier": "soundevents/voscripts/game_sounds_vo_announcer_dlc_darkest_dungeon_killing_spree.vsndevts"
+            },
+            "asset_modifier1": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_darkest_dungeon_killing_spree/announcer_spree_04.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Darkest_Dungeon_Killing_Spree_01"
+            },
+            "asset_modifier2": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_darkest_dungeon_killing_spree/announcer_killstreak_firstblood_05.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Darkest_Dungeon_Killing_Spree_02"
+            },
+            "asset_modifier3": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_darkest_dungeon_killing_spree/announcer_quadkill_02.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Darkest_Dungeon_Killing_Spree_03"
+            },
+            "asset_modifier4": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_darkest_dungeon_killing_spree/announcer_spree_09.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Darkest_Dungeon_Killing_Spree_04"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "连杀配音：《Darkest Dungeon》"
+    },
+    "13232": {
+        "name": "Mega-Kills: Dark Willow",
+        "prefab": "announcer",
+        "creation_date": "2019-06-20",
+        "event_id": "EVENT_ID_INTERNATIONAL_2019",
+        "image_inventory": "econ/announcer/announcer_darkwillow_megakill",
+        "item_description": "#DOTA_Item_Desc_MegaKills_Dark_Willow",
+        "item_name": "#DOTA_Item_MegaKills_Dark_Willow",
+        "item_rarity": "mythical",
+        "item_slot": "mega_kills",
+        "static_attributes": {
+            "international tag": {
+                "attribute_class": "international_tag",
+                "value": "2019"
+            },
+            "tradable after date": {
+                "attribute_class": "tradable_after_date",
+                "value": "1598997600"
+            }
+        },
+        "visuals": {
+            "asset_modifier": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_dark_willow_killing_spree/dark_willow_ann_kill_teamwipe_ten_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Dark_Willow_Killing_Spree_04"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "连杀配音：邪影芳灵"
+    },
+    "14997": {
+        "name": "Mega-Kills: Voice of The International",
+        "prefab": "announcer",
+        "creation_date": "2020-08-12",
+        "event_id": "EVENT_ID_INTERNATIONAL_2020",
+        "image_inventory": "econ/announcer/megakill_ti10",
+        "item_description": "#DOTA_Item_Desc_Copy_of_MegaKills_Voice_of_The_International",
+        "item_name": "#DOTA_Item_MegaKills_Voice_of_The_International",
+        "item_rarity": "mythical",
+        "item_slot": "mega_kills",
+        "visuals": {
+            "asset_modifier": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_ti10_vog_killing_spree/vog_ti_ann_kill_follow_up_06.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_ti10_vog_Killing_Spree_04"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "连杀配音：国际邀请赛之声"
+    },
+    "18381": {
+        "name": "Mega-Kills: Diretide",
+        "prefab": "announcer",
+        "creation_date": "2020-10-12",
+        "event_id": "EVENT_ID_DIRETIDE_2020",
+        "image_inventory": "econ/announcer/megakill_diretide20",
+        "item_name": "#DOTA_Item_MegaKills_Diretide",
+        "item_rarity": "mythical",
+        "item_slot": "mega_kills",
+        "visuals": {
+            "asset_modifier0": {
+                "type": "announcer",
+                "asset": "npc_dota_hero_announcer_dlc_diretide2020_killing_spree",
+                "modifier": "soundevents/voscripts/game_sounds_vo_announcer_dlc_diretide2020_killing_spree.vsndevts"
+            },
+            "asset_modifier1": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_diretide2020_killing_spree/announcer_killstreak_firstblood_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Diretide2020_Killing_Spree_01"
+            },
+            "asset_modifier2": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_diretide2020_killing_spree/announcer_spree_10.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Diretide2020_Killing_Spree_02"
+            },
+            "asset_modifier3": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_diretide2020_killing_spree/announcer_quadkill_05.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Diretide2020_Killing_Spree_03"
+            },
+            "asset_modifier4": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_diretide2020_killing_spree/announcer_quintkill_02.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Diretide2020_Killing_Spree_04"
+            },
+            "asset_modifier5": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_diretide2020_killing_spree/announcer_spree_01.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Diretide2020_Killing_Spree_05"
+            },
+            "asset_modifier6": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_diretide2020_killing_spree/announcer_spree_06.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_Diretide2020_Killing_Spree_06"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "连杀配音：夜魇暗潮"
+    },
+    "24912": {
+        "name": "Mega-Kills: Cave Johnson",
+        "prefab": "announcer",
+        "creation_date": "2022-10-26",
+        "event_id": "EVENT_ID_INTERNATIONAL_2022",
+        "image_inventory": "econ/announcer/cave_johnson_ti11_megakill",
+        "item_description": "#DOTA_Item_Desc_MegaKills_Cave_Johnson",
+        "item_name": "#DOTA_Item_MegaKills_Cave_Johnson",
+        "item_rarity": "mythical",
+        "item_slot": "mega_kills",
+        "visuals": {
+            "asset_modifier": {
+                "type": "announcer_preview",
+                "asset": "sounds/vo/announcer_dlc_cavej_killing_spree/cavej_ann_kill_holy_14.vsnd",
+                "modifier": "#DOTA_Announcer_Preview_cavej_Killing_Spree_04"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "连杀配音：Cave Johnson"
+    }
+}

@@ -1,0 +1,384 @@
+﻿{
+    "12937": {
+        "name": "Guardians of the Lost Path Dire Towers",
+        "prefab": "diretowers",
+        "creation_date": "2019-05-07",
+        "event_id": "EVENT_ID_INTERNATIONAL_2019",
+        "image_inventory": "econ/tools/ti9_dire_tower",
+        "item_description": "#DOTA_Item_Desc_Guardians_of_the_Lost_Path_Dire_Towers",
+        "item_name": "#DOTA_Item_Guardians_of_the_Lost_Path_Dire_Towers",
+        "item_rarity": "legendary",
+        "player_loadout": "1",
+        "portraits": {
+            "preview": {
+                "cameras": {
+                    "Default": {
+                        "PortraitPosition": "445.174835 120.810814 272.193298",
+                        "PortraitAngles": "14.089979 195.230164 0.000000",
+                        "PortraitFOV": "55.290001",
+                        "PortraitFar": "1000"
+                    },
+                    "econ_set_preview": {
+                        "PortraitPosition": "445.174835 120.810814 272.193298",
+                        "PortraitAngles": "14.089979 195.230164 0.000000",
+                        "PortraitFOV": "44.966000",
+                        "PortraitFar": "1000"
+                    }
+                },
+                "PortraitLightPosition": "202.699997 -23.150000 395.892670",
+                "PortraitLightAngles": "54.790001 171.699997 0.000000",
+                "PortraitLightFOV": "120",
+                "PortraitLightDistance": "390.089996",
+                "PortraitLightColor": "254 248 242",
+                "PortraitLightScale": "2",
+                "PortraitShadowColor": "74 74 74",
+                "PortraitShadowScale": "1",
+                "PortraitGroundShadowScale": "1.500000",
+                "PortraitAmbientDirection": "-79.070 -84.150 -25.320",
+                "PortraitAmbientColor": "79 108 108",
+                "PortraitAmbientScale": "1",
+                "PortraitSpecularColor": "251 74 84",
+                "PortraitSpecularDirection": "0.000000 0.000000 -1.000000",
+                "PortraitSpecularPower": "16",
+                "PortraitBackgroundColor1": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundColor2": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundColor3": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundColor4": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundModel": "models/heroes/pedestal/pedestal_1.vmdl",
+                "PortraitBackgroundTexture": "materials/vgui/hud/heroportraits/portraitbackground_gradient_top.vmat",
+                "PortraitAnimationActivity": "ACT_DOTA_CUSTOM_TOWER_IDLE",
+                "PortraitAnimationCycle": "0",
+                "PortraitAnimationRate": "1",
+                "PortraitHideHero": "0",
+                "PortraitHideParticles": "0",
+                "PortraitHideDropShadow": "0",
+                "PortraitDesaturateParticles": "0",
+                "PortraitDesaturateHero": "1"
+            }
+        },
+        "static_attributes": {
+            "cannot trade": {
+                "attribute_class": "cannot_trade",
+                "value": "1"
+            },
+            "not marketable": {
+                "attribute_class": "not marketable",
+                "value": "1"
+            },
+            "cannot delete": {
+                "attribute_class": "cannot_delete",
+                "value": "1"
+            }
+        },
+        "visuals": {
+            "asset_modifier": {
+                "type": "particle",
+                "asset": "particles/base_attacks/ranged_tower_anticipation_bad.vpcf",
+                "modifier": "particles/error/null.vpcf"
+            }
+        },
+        "rarity_color": "#d32ce6",
+        "item_name_cn": "失落之径的卫士 - 夜魇防御塔"
+    },
+    "13782": {
+        "name": "Declaration of the Divine Shadow Dire Towers",
+        "prefab": "diretowers",
+        "creation_date": "2020-05-25",
+        "event_id": "EVENT_ID_INTERNATIONAL_2020",
+        "hide_tradecraftdelete": "1",
+        "image_inventory": "econ/tools/ti10_dire_tower",
+        "item_description": "#DOTA_Item_Desc_Declaration_of_the_Divine_Shadow_Dire_Towers",
+        "item_name": "#DOTA_Item_Declaration_of_the_Divine_Shadow_Dire_Towers",
+        "item_rarity": "legendary",
+        "portraits": {
+            "preview": {
+                "cameras": {
+                    "Default": {
+                        "PortraitPosition": "445.174835 120.810814 272.193298",
+                        "PortraitAngles": "14.089979 195.230164 0.000000",
+                        "PortraitFOV": "55.290001",
+                        "PortraitFar": "1000"
+                    },
+                    "econ_set_preview": {
+                        "PortraitPosition": "445.174835 120.810814 272.193298",
+                        "PortraitAngles": "14.089979 195.230164 0.000000",
+                        "PortraitFOV": "44.966000",
+                        "PortraitFar": "1000"
+                    }
+                },
+                "PortraitLightPosition": "202.699997 -23.150000 395.892670",
+                "PortraitLightAngles": "54.790001 171.699997 0.000000",
+                "PortraitLightFOV": "120",
+                "PortraitLightDistance": "390.089996",
+                "PortraitLightColor": "254 248 242",
+                "PortraitLightScale": "2",
+                "PortraitShadowColor": "74 74 74",
+                "PortraitShadowScale": "1",
+                "PortraitGroundShadowScale": "1.500000",
+                "PortraitAmbientDirection": "-79.070 -84.150 -25.320",
+                "PortraitAmbientColor": "79 108 108",
+                "PortraitAmbientScale": "1",
+                "PortraitSpecularColor": "251 74 84",
+                "PortraitSpecularDirection": "0.000000 0.000000 -1.000000",
+                "PortraitSpecularPower": "16",
+                "PortraitBackgroundColor1": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundColor2": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundColor3": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundColor4": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundModel": "models/heroes/pedestal/pedestal_1.vmdl",
+                "PortraitBackgroundTexture": "materials/vgui/hud/heroportraits/portraitbackground_gradient_top.vmat",
+                "PortraitAnimationActivity": "ACT_DOTA_CUSTOM_TOWER_IDLE",
+                "PortraitAnimationCycle": "0",
+                "PortraitAnimationRate": "1",
+                "PortraitHideHero": "0",
+                "PortraitHideParticles": "0",
+                "PortraitHideDropShadow": "0",
+                "PortraitDesaturateParticles": "0",
+                "PortraitDesaturateHero": "1"
+            }
+        },
+        "static_attributes": {
+            "cannot trade": {
+                "attribute_class": "cannot_trade",
+                "value": "1"
+            },
+            "not marketable": {
+                "attribute_class": "not marketable",
+                "value": "1"
+            },
+            "cannot delete": {
+                "attribute_class": "cannot_delete",
+                "value": "1"
+            },
+            "additional_exclusive_tooltip_text": {
+                "attribute_class": "additional_exclusive_tooltip_text",
+                "value": "#DOTA_EconItemSet_Tooltip_TI10_Exclusive_Item"
+            },
+            "giftable": {
+                "attribute_class": "giftable",
+                "value": "0"
+            }
+        },
+        "visuals": {
+            "asset_modifier": {
+                "type": "particle",
+                "asset": "particles/base_attacks/ranged_tower_anticipation_bad.vpcf",
+                "modifier": "particles/error/null.vpcf"
+            }
+        },
+        "rarity_color": "#d32ce6",
+        "item_name_cn": "圣影宣言夜魇防御塔"
+    },
+    "18566": {
+        "name": "Grasp of the Elder Gods - Dire Towers",
+        "prefab": "diretowers",
+        "creation_date": "2021-04-20",
+        "event_id": "EVENT_ID_NONE",
+        "hide_tradecraftdelete": "1",
+        "image_inventory": "econ/tools/dire_tower_2021",
+        "item_name": "#DOTA_Item_Grasp_of_the_Elder_Gods__Dire_Towers",
+        "item_rarity": "legendary",
+        "portraits": {
+            "preview": {
+                "cameras": {
+                    "Default": {
+                        "PortraitPosition": "445.174835 120.810814 272.193298",
+                        "PortraitAngles": "14.089979 195.230164 0.000000",
+                        "PortraitFOV": "55.290001",
+                        "PortraitFar": "1000"
+                    },
+                    "econ_set_preview": {
+                        "PortraitPosition": "445.174835 120.810814 272.193298",
+                        "PortraitAngles": "14.089979 195.230164 0.000000",
+                        "PortraitFOV": "44.966000",
+                        "PortraitFar": "1000"
+                    }
+                },
+                "PortraitLightPosition": "202.699997 -23.150000 395.892670",
+                "PortraitLightAngles": "54.790001 171.699997 0.000000",
+                "PortraitLightFOV": "120",
+                "PortraitLightDistance": "390.089996",
+                "PortraitLightColor": "254 248 242",
+                "PortraitLightScale": "2",
+                "PortraitShadowColor": "74 74 74",
+                "PortraitShadowScale": "1",
+                "PortraitGroundShadowScale": "1.500000",
+                "PortraitAmbientDirection": "-79.070 -84.150 -25.320",
+                "PortraitAmbientColor": "79 108 108",
+                "PortraitAmbientScale": "1",
+                "PortraitSpecularColor": "251 74 84",
+                "PortraitSpecularDirection": "0.000000 0.000000 -1.000000",
+                "PortraitSpecularPower": "16",
+                "PortraitBackgroundColor1": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundColor2": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundColor3": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundColor4": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundModel": "models/heroes/pedestal/pedestal_1.vmdl",
+                "PortraitBackgroundTexture": "materials/vgui/hud/heroportraits/portraitbackground_gradient_top.vmat",
+                "PortraitAnimationActivity": "ACT_DOTA_CUSTOM_TOWER_IDLE",
+                "PortraitAnimationCycle": "0",
+                "PortraitAnimationRate": "1",
+                "PortraitHideHero": "0",
+                "PortraitHideParticles": "0",
+                "PortraitHideDropShadow": "0",
+                "PortraitDesaturateParticles": "0",
+                "PortraitDesaturateHero": "1"
+            }
+        },
+        "static_attributes": {
+            "cannot trade": {
+                "attribute_class": "cannot_trade",
+                "value": "1"
+            }
+        },
+        "visuals": {
+            "asset_modifier": {
+                "type": "particle",
+                "asset": "particles/base_attacks/ranged_tower_anticipation_bad.vpcf",
+                "modifier": "particles/error/null.vpcf"
+            }
+        },
+        "rarity_color": "#d32ce6",
+        "item_name_cn": "古神之势 - 夜魇防御塔"
+    },
+    "23712": {
+        "name": "Stoneclaw Scavengers Dire Towers",
+        "prefab": "diretowers",
+        "creation_date": "2022-07-11",
+        "event_id": "EVENT_ID_INTERNATIONAL_2022",
+        "hide_tradecraftdelete": "1",
+        "image_inventory": "econ/tools/dire_tower_2022",
+        "item_description": "#DOTA_Item_Desc_Stoneclaw_Scavengers_Dire_Towers",
+        "item_name": "#DOTA_Item_Stoneclaw_Scavengers_Dire_Towers",
+        "item_rarity": "legendary",
+        "static_attributes": {
+            "tradable after date": "1698865200"
+        },
+        "portraits": {
+            "preview": {
+                "cameras": {
+                    "Default": {
+                        "PortraitPosition": "445.174835 120.810814 272.193298",
+                        "PortraitAngles": "14.089979 195.230164 0.000000",
+                        "PortraitFOV": "55.290001",
+                        "PortraitFar": "1000"
+                    },
+                    "econ_set_preview": {
+                        "PortraitPosition": "445.174835 120.810814 272.193298",
+                        "PortraitAngles": "14.089979 195.230164 0.000000",
+                        "PortraitFOV": "44.966000",
+                        "PortraitFar": "1000"
+                    }
+                },
+                "PortraitLightPosition": "202.699997 -23.150000 395.892670",
+                "PortraitLightAngles": "54.790001 171.699997 0.000000",
+                "PortraitLightFOV": "120",
+                "PortraitLightDistance": "390.089996",
+                "PortraitLightColor": "254 248 242",
+                "PortraitLightScale": "2",
+                "PortraitShadowColor": "74 74 74",
+                "PortraitShadowScale": "1",
+                "PortraitGroundShadowScale": "1.500000",
+                "PortraitAmbientDirection": "-79.070 -84.150 -25.320",
+                "PortraitAmbientColor": "79 108 108",
+                "PortraitAmbientScale": "1",
+                "PortraitSpecularColor": "251 74 84",
+                "PortraitSpecularDirection": "0.000000 0.000000 -1.000000",
+                "PortraitSpecularPower": "16",
+                "PortraitBackgroundColor1": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundColor2": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundColor3": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundColor4": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundModel": "models/heroes/pedestal/pedestal_1.vmdl",
+                "PortraitBackgroundTexture": "materials/vgui/hud/heroportraits/portraitbackground_gradient_top.vmat",
+                "PortraitAnimationActivity": "ACT_DOTA_CUSTOM_TOWER_IDLE",
+                "PortraitAnimationCycle": "0",
+                "PortraitAnimationRate": "1",
+                "PortraitHideHero": "0",
+                "PortraitHideParticles": "0",
+                "PortraitHideDropShadow": "0",
+                "PortraitDesaturateParticles": "0",
+                "PortraitDesaturateHero": "1"
+            }
+        },
+        "visuals": {
+            "asset_modifier": {
+                "type": "particle",
+                "asset": "particles/base_attacks/ranged_tower_anticipation_bad.vpcf",
+                "modifier": "particles/error/null.vpcf"
+            }
+        },
+        "rarity_color": "#d32ce6",
+        "item_name_cn": "石爪清道夫夜魇防御塔"
+    },
+    "32620": {
+        "name": "The Gaze of Scree'Auk - Dire Towers",
+        "prefab": "diretowers",
+        "creation_date": "2024-11-07",
+        "event_id": "EVENT_ID_CROWNFALL",
+        "hide_tradecraftdelete": "1",
+        "image_inventory": "econ/tools/dire_tower_crownfall",
+        "item_name": "#DOTA_Item_The_Gaze_of_ScreeAuk__Dire_Towers",
+        "item_rarity": "legendary",
+        "portraits": {
+            "preview": {
+                "cameras": {
+                    "Default": {
+                        "PortraitPosition": "445.174835 120.810814 272.193298",
+                        "PortraitAngles": "14.089979 195.230164 0.000000",
+                        "PortraitFOV": "55.290001",
+                        "PortraitFar": "1000"
+                    },
+                    "econ_set_preview": {
+                        "PortraitPosition": "445.174835 120.810814 272.193298",
+                        "PortraitAngles": "14.089979 195.230164 0.000000",
+                        "PortraitFOV": "44.966000",
+                        "PortraitFar": "1000"
+                    }
+                },
+                "PortraitLightPosition": "202.699997 -23.150000 395.892670",
+                "PortraitLightAngles": "54.790001 171.699997 0.000000",
+                "PortraitLightFOV": "120",
+                "PortraitLightDistance": "390.089996",
+                "PortraitLightColor": "254 248 242",
+                "PortraitLightScale": "2",
+                "PortraitShadowColor": "74 74 74",
+                "PortraitShadowScale": "1",
+                "PortraitGroundShadowScale": "1.500000",
+                "PortraitAmbientDirection": "-79.070 -84.150 -25.320",
+                "PortraitAmbientColor": "79 108 108",
+                "PortraitAmbientScale": "1",
+                "PortraitSpecularColor": "251 74 84",
+                "PortraitSpecularDirection": "0.000000 0.000000 -1.000000",
+                "PortraitSpecularPower": "16",
+                "PortraitBackgroundColor1": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundColor2": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundColor3": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundColor4": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundModel": "models/heroes/pedestal/pedestal_1.vmdl",
+                "PortraitBackgroundTexture": "materials/vgui/hud/heroportraits/portraitbackground_gradient_top.vmat",
+                "PortraitAnimationActivity": "ACT_DOTA_CUSTOM_TOWER_IDLE",
+                "PortraitAnimationCycle": "0",
+                "PortraitAnimationRate": "1",
+                "PortraitHideHero": "0",
+                "PortraitHideParticles": "0",
+                "PortraitHideDropShadow": "0",
+                "PortraitDesaturateParticles": "0",
+                "PortraitDesaturateHero": "1"
+            }
+        },
+        "static_attributes": {
+            "tradable after date": "1745002800"
+        },
+        "visuals": {
+            "asset_modifier": {
+                "type": "particle_clientside",
+                "asset": "particles/dire_fx/dire_tower002_destruction.vpcf",
+                "modifier": "particles/econ/world/towers/dire_tower_2024_crownfall/dire_tower_2024_crownfall_destruction.vpcf"
+            },
+            "skip_model_combine": "0"
+        },
+        "rarity_color": "#d32ce6",
+        "item_name_cn": "丝奎奥克之视 - 夜魇防御塔"
+    }
+}

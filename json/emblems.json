@@ -1,0 +1,471 @@
+﻿{
+    "638": {
+        "name": "Sunken Emblem",
+        "prefab": "emblem",
+        "creation_date": "2017-05-04",
+        "expiration_date": "2018-08-14",
+        "event_id": "EVENT_ID_INTERNATIONAL_2017",
+        "image_inventory": "econ/tools/ti7_hero_relic",
+        "item_description": "#DOTA_Item_Desc_Sunken_Emblem",
+        "item_name": "#DOTA_Item_Sunken_Emblem",
+        "item_rarity": "legendary",
+        "particle_folder": "particles/econ/events/ti7",
+        "static_attributes": {
+            "cannot delete": {
+                "attribute_class": "cannot_delete",
+                "value": "1"
+            },
+            "is commodity": {
+                "attribute_class": "is commodity",
+                "value": "1"
+            }
+        },
+        "used_by_heroes": "1",
+        "visuals": {
+            "asset_modifier": {
+                "type": "particle_create",
+                "modifier": "particles/econ/events/ti7/ti7_hero_effect.vpcf"
+            }
+        },
+        "rarity_color": "#d32ce6",
+        "item_name_cn": "沉没纹章"
+    },
+    "663": {
+        "name": "Emblem of the Crystal Echelon",
+        "prefab": "emblem",
+        "creation_date": "2018-05-07",
+        "expiration_date": "2019-07-10",
+        "event_id": "EVENT_ID_INTERNATIONAL_2018",
+        "image_inventory": "econ/tools/ti8_hero_relic",
+        "item_description": "#DOTA_Item_Desc_Emblem_of_the_Crystal_Echelon",
+        "item_name": "#DOTA_Item_Emblem_of_the_Crystal_Echelon",
+        "item_rarity": "legendary",
+        "particle_folder": "particles/econ/events/ti8",
+        "static_attributes": {
+            "cannot delete": {
+                "attribute_class": "cannot_delete",
+                "value": "1"
+            },
+            "is commodity": {
+                "attribute_class": "is commodity",
+                "value": "1"
+            },
+            "inherit source item tradeability": "0"
+        },
+        "used_by_heroes": "1",
+        "visuals": {
+            "asset_modifier": {
+                "type": "entity_scale",
+                "asset": "npc_dota_loadout_generic",
+                "scale_size": "1"
+            }
+        },
+        "rarity_color": "#d32ce6",
+        "item_name_cn": "晶阶纹章"
+    },
+    "12996": {
+        "name": "Overgrown Emblem",
+        "prefab": "emblem",
+        "creation_date": "2019-05-02",
+        "event_id": "EVENT_ID_INTERNATIONAL_2019",
+        "expiration_date": "2020-04-01",
+        "image_inventory": "econ/tools/ti9_emblem",
+        "item_description": "#DOTA_Item_Desc_Overgrown_Emblem",
+        "item_name": "#DOTA_Item_Overgrown_Emblem",
+        "item_rarity": "legendary",
+        "particle_folder": "particles/econ/events/ti8",
+        "static_attributes": {
+            "cannot delete": {
+                "attribute_class": "cannot_delete",
+                "value": "1"
+            },
+            "is commodity": {
+                "attribute_class": "is commodity",
+                "value": "1"
+            },
+            "cannot craft": {
+                "attribute_class": "cannot_craft",
+                "value": "1"
+            },
+            "inherit source item tradeability": "0"
+        },
+        "used_by_heroes": "1",
+        "visuals": {
+            "asset_modifier": {
+                "type": "entity_scale",
+                "asset": "npc_dota_loadout_generic",
+                "scale_size": "1"
+            }
+        },
+        "rarity_color": "#d32ce6",
+        "item_name_cn": "蔓生纹章"
+    },
+    "13453": {
+        "name": "Enigmatic Emblem of the Diretide - Yellow",
+        "prefab": "emblem",
+        "creation_date": "2020-10-18",
+        "event_id": "EVENT_ID_DIRETIDE",
+        "hide_tradecraftdelete": "1",
+        "image_inventory": "econ/tools/diretide20_emblem_default",
+        "item_description": "#DOTA_Item_Desc_Enigmatic_Emblem_of_the_Diretide__Yellow",
+        "item_name": "#DOTA_Item_Enigmatic_Emblem_of_the_Diretide__Yellow",
+        "item_rarity": "legendary",
+        "particle_folder": "particles/econ/events/ti8",
+        "tool": {
+            "type": "limited_duration_item",
+            "usage": {
+                "duration_seconds": "31536000"
+            }
+        },
+        "used_by_heroes": "1",
+        "visuals": {
+            "asset_modifier": {
+                "type": "entity_scale",
+                "asset": "npc_dota_loadout_generic",
+                "scale_size": "1"
+            }
+        },
+        "static_attributes": {
+            "inherit source item tradeability": "0"
+        },
+        "rarity_color": "#d32ce6",
+        "item_name_cn": "夜魇暗潮的谜之纹章 - 黄色"
+    },
+    "13815": {
+        "name": "Emblem of Divinity",
+        "prefab": "emblem",
+        "creation_date": "2020-05-13",
+        "event_id": "EVENT_ID_INTERNATIONAL_2020",
+        "hide_tradecraftdelete": "1",
+        "expiration_date": "2021-09-01",
+        "image_inventory": "econ/tools/ti10_emblem",
+        "item_description": "#DOTA_Item_Desc_Emblem_of_Divinity",
+        "item_name": "#DOTA_Item_Emblem_of_Divinity",
+        "item_rarity": "legendary",
+        "particle_folder": "particles/econ/events/ti8",
+        "static_attributes": {
+            "additional_tooltip_text": {
+                "attribute_class": "additional_tooltip_text",
+                "value": "#DOTA_EconItemSet_Tooltip_Emblem_TI10_Expiration"
+            },
+            "inherit source item tradeability": "0"
+        },
+        "used_by_heroes": "1",
+        "visuals": {
+            "asset_modifier": {
+                "type": "entity_scale",
+                "asset": "npc_dota_loadout_generic",
+                "scale_size": "1"
+            }
+        },
+        "rarity_color": "#d32ce6",
+        "item_name_cn": "神圣纹章"
+    },
+    "18379": {
+        "name": "Enigmatic Emblem of the Diretide - Blue",
+        "prefab": "emblem",
+        "creation_date": "2020-10-23",
+        "event_id": "EVENT_ID_DIRETIDE",
+        "hide_tradecraftdelete": "1",
+        "image_inventory": "econ/tools/diretide20_emblem_blue",
+        "item_description": "#DOTA_Item_Desc_Enigmatic_Emblem_of_the_Diretide__Blue",
+        "item_name": "#DOTA_Item_Enigmatic_Emblem_of_the_Diretide__Blue",
+        "item_rarity": "legendary",
+        "particle_folder": "particles/econ/events/ti8",
+        "tool": {
+            "type": "limited_duration_item",
+            "usage": {
+                "duration_seconds": "31536000"
+            }
+        },
+        "used_by_heroes": "1",
+        "visuals": {
+            "asset_modifier": {
+                "type": "entity_scale",
+                "asset": "npc_dota_loadout_generic",
+                "scale_size": "1"
+            }
+        },
+        "static_attributes": {
+            "inherit source item tradeability": "0"
+        },
+        "rarity_color": "#d32ce6",
+        "item_name_cn": "夜魇暗潮的谜之纹章 - 蓝色"
+    },
+    "18393": {
+        "name": "Enigmatic Emblem of the Diretide - Red",
+        "prefab": "emblem",
+        "creation_date": "2020-10-23",
+        "event_id": "EVENT_ID_DIRETIDE",
+        "hide_tradecraftdelete": "1",
+        "image_inventory": "econ/tools/diretide20_emblem_red",
+        "item_description": "#DOTA_Item_Desc_Enigmatic_Emblem_of_the_Diretide__Red",
+        "item_name": "#DOTA_Item_Enigmatic_Emblem_of_the_Diretide__Red",
+        "item_rarity": "legendary",
+        "particle_folder": "particles/econ/events/ti8",
+        "tool": {
+            "type": "limited_duration_item",
+            "usage": {
+                "duration_seconds": "31536000"
+            }
+        },
+        "used_by_heroes": "1",
+        "visuals": {
+            "asset_modifier": {
+                "type": "entity_scale",
+                "asset": "npc_dota_loadout_generic",
+                "scale_size": "1"
+            }
+        },
+        "static_attributes": {
+            "inherit source item tradeability": "0"
+        },
+        "rarity_color": "#d32ce6",
+        "item_name_cn": "夜魇暗潮的谜之纹章 - 红色"
+    },
+    "18394": {
+        "name": "Enigmatic Emblem of the Diretide - Green",
+        "prefab": "emblem",
+        "creation_date": "2020-10-23",
+        "event_id": "EVENT_ID_DIRETIDE",
+        "hide_tradecraftdelete": "1",
+        "image_inventory": "econ/tools/diretide20_emblem_green",
+        "item_description": "#DOTA_Item_Desc_Enigmatic_Emblem_of_the_Diretide__Green",
+        "item_name": "#DOTA_Item_Enigmatic_Emblem_of_the_Diretide__Green",
+        "item_rarity": "legendary",
+        "particle_folder": "particles/econ/events/ti8",
+        "tool": {
+            "type": "limited_duration_item",
+            "usage": {
+                "duration_seconds": "31536000"
+            }
+        },
+        "used_by_heroes": "1",
+        "visuals": {
+            "asset_modifier": {
+                "type": "entity_scale",
+                "asset": "npc_dota_loadout_generic",
+                "scale_size": "1"
+            }
+        },
+        "static_attributes": {
+            "inherit source item tradeability": "0"
+        },
+        "rarity_color": "#d32ce6",
+        "item_name_cn": "夜魇暗潮的谜之纹章 - 绿色"
+    },
+    "18787": {
+        "name": "Nemestice Emblem 2021",
+        "prefab": "emblem",
+        "creation_date": "2021-05-14",
+        "event_id": "EVENT_ID_SPRING_2021",
+        "expiration_date": "2022-04-01",
+        "image_inventory": "econ/tools/emblem_2021",
+        "item_description": "#DOTA_Item_Desc_Nemestice_Emblem_2021",
+        "item_name": "#DOTA_Item_Nemestice_Emblem_2021",
+        "item_rarity": "legendary",
+        "particle_folder": "particles/econ/events/ti8",
+        "portraits": {
+            "icon": {
+                "cameras": {
+                    "Default": {
+                        "PortraitPosition": "480.132111 302.748627 403.187500",
+                        "PortraitAngles": "28.490007 212.830048 0.000000",
+                        "PortraitFOV": "16",
+                        "PortraitFar": "1000"
+                    }
+                },
+                "PortraitLightPosition": "202.699997 -23.150000 308.170013",
+                "PortraitLightAngles": "54.790001 171.699997 0.000000",
+                "PortraitLightFOV": "120",
+                "PortraitLightDistance": "336",
+                "PortraitLightColor": "254 248 242",
+                "PortraitLightScale": "2",
+                "PortraitShadowColor": "74 74 74",
+                "PortraitShadowScale": "1",
+                "PortraitGroundShadowScale": "1.500000",
+                "PortraitAmbientDirection": "-79.070 -84.150 -25.320",
+                "PortraitAmbientColor": "79 108 108",
+                "PortraitAmbientScale": "1",
+                "PortraitSpecularColor": "251 74 84",
+                "PortraitSpecularDirection": "0.000000 0.000000 -1.000000",
+                "PortraitSpecularPower": "16",
+                "PortraitBackgroundColor1": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundColor2": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundColor3": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundColor4": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundTexture": "materials/vgui/econ/item_icon_bg.vmat",
+                "PortraitAnimationActivity": "ACT_DOTA_IDLE",
+                "PortraitAnimationCycle": "0",
+                "PortraitAnimationRate": "1",
+                "PortraitPlayIdleExpression": "0",
+                "PortraitHideHero": "0",
+                "PortraitHideParticles": "0",
+                "PortraitHideDropShadow": "0",
+                "PortraitDesaturateParticles": "0",
+                "PortraitDesaturateHero": "1",
+                "PortraitVignetteItem": "0"
+            }
+        },
+        "static_attributes": {
+            "cannot delete": {
+                "attribute_class": "cannot_delete",
+                "value": "1"
+            },
+            "is commodity": {
+                "attribute_class": "is commodity",
+                "value": "1"
+            },
+            "cannot craft": {
+                "attribute_class": "cannot_craft",
+                "value": "1"
+            },
+            "inherit source item tradeability": "0"
+        },
+        "used_by_heroes": "1",
+        "visuals": {
+            "asset_modifier": {
+                "type": "entity_scale",
+                "asset": "npc_dota_loadout_generic",
+                "scale_size": "1"
+            }
+        },
+        "rarity_color": "#d32ce6",
+        "item_name_cn": "2021年天陨旦纹章"
+    },
+    "22263": {
+        "name": "Aghanim's 2021 Emblem",
+        "prefab": "emblem",
+        "creation_date": "2021-09-30",
+        "event_id": "EVENT_ID_FALL_2021",
+        "expiration_date": "2023-01-04",
+        "image_inventory": "econ/tools/aghs_emblem_2021",
+        "item_description": "#DOTA_Item_Desc_Aghanims_2021_Emblem",
+        "item_name": "#DOTA_Item_Aghanims_2021_Emblem",
+        "item_rarity": "legendary",
+        "particle_folder": "particles/econ/events/ti8",
+        "portraits": {
+            "icon": {
+                "cameras": {
+                    "Default": {
+                        "PortraitPosition": "866.886475 -139.034744 366.957947",
+                        "PortraitAngles": "19.290030 171.230240 0.000000",
+                        "PortraitFOV": "16",
+                        "PortraitFar": "1000"
+                    }
+                },
+                "PortraitLightPosition": "202.699997 -23.150000 308.170013",
+                "PortraitLightAngles": "54.790001 171.699997 0.000000",
+                "PortraitLightFOV": "120",
+                "PortraitLightDistance": "336",
+                "PortraitLightColor": "254 248 242",
+                "PortraitLightScale": "2",
+                "PortraitShadowColor": "74 74 74",
+                "PortraitShadowScale": "1",
+                "PortraitGroundShadowScale": "1.500000",
+                "PortraitAmbientDirection": "-79.070 -84.150 -25.320",
+                "PortraitAmbientColor": "79 108 108",
+                "PortraitAmbientScale": "1",
+                "PortraitSpecularColor": "251 74 84",
+                "PortraitSpecularDirection": "0.000000 0.000000 -1.000000",
+                "PortraitSpecularPower": "16",
+                "PortraitBackgroundColor1": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundColor2": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundColor3": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundColor4": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundTexture": "materials/vgui/econ/item_icon_bg.vmat",
+                "PortraitAnimationActivity": "ACT_DOTA_IDLE",
+                "PortraitAnimationCycle": "0",
+                "PortraitAnimationRate": "1",
+                "PortraitPlayIdleExpression": "0",
+                "PortraitHideHero": "0",
+                "PortraitHideParticles": "0",
+                "PortraitHideDropShadow": "0",
+                "PortraitDesaturateParticles": "0",
+                "PortraitDesaturateHero": "1",
+                "PortraitVignetteItem": "0"
+            }
+        },
+        "used_by_heroes": "1",
+        "visuals": {
+            "asset_modifier": {
+                "type": "entity_scale",
+                "asset": "npc_dota_loadout_generic",
+                "scale_size": "1"
+            }
+        },
+        "static_attributes": {
+            "inherit source item tradeability": "0"
+        },
+        "rarity_color": "#d32ce6",
+        "item_name_cn": "2021年阿哈利姆的纹章"
+    },
+    "23238": {
+        "name": "Battle Pass 2022 Emblem",
+        "prefab": "emblem",
+        "creation_date": "2022-08-30",
+        "event_id": "EVENT_ID_INTERNATIONAL_2022",
+        "expiration_date": "2023-05-04",
+        "image_inventory": "econ/tools/ti11_emblem",
+        "item_description": "#DOTA_Item_Desc_Battle_Pass_2022_Emblem",
+        "item_name": "#DOTA_Item_Battle_Pass_2022_Emblem",
+        "item_rarity": "legendary",
+        "static_attributes": {
+            "webm preview url": "apps/dota2/videos/dota_react/international2022/immortals/emblem_client.webm",
+            "inherit source item tradeability": "0"
+        },
+        "particle_folder": "particles/econ/events/ti8",
+        "portraits": {
+            "icon": {
+                "cameras": {
+                    "Default": {
+                        "PortraitPosition": "866.886475 -139.034744 366.957947",
+                        "PortraitAngles": "19.290030 171.230240 0.000000",
+                        "PortraitFOV": "16",
+                        "PortraitFar": "1000"
+                    }
+                },
+                "PortraitLightPosition": "202.699997 -23.150000 308.170013",
+                "PortraitLightAngles": "54.790001 171.699997 0.000000",
+                "PortraitLightFOV": "120",
+                "PortraitLightDistance": "336",
+                "PortraitLightColor": "254 248 242",
+                "PortraitLightScale": "2",
+                "PortraitShadowColor": "74 74 74",
+                "PortraitShadowScale": "1",
+                "PortraitGroundShadowScale": "1.500000",
+                "PortraitAmbientDirection": "-79.070 -84.150 -25.320",
+                "PortraitAmbientColor": "79 108 108",
+                "PortraitAmbientScale": "1",
+                "PortraitSpecularColor": "251 74 84",
+                "PortraitSpecularDirection": "0.000000 0.000000 -1.000000",
+                "PortraitSpecularPower": "16",
+                "PortraitBackgroundColor1": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundColor2": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundColor3": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundColor4": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundTexture": "materials/vgui/econ/item_icon_bg.vmat",
+                "PortraitAnimationActivity": "ACT_DOTA_IDLE",
+                "PortraitAnimationCycle": "0",
+                "PortraitAnimationRate": "1",
+                "PortraitPlayIdleExpression": "0",
+                "PortraitHideHero": "0",
+                "PortraitHideParticles": "0",
+                "PortraitHideDropShadow": "0",
+                "PortraitDesaturateParticles": "0",
+                "PortraitDesaturateHero": "1",
+                "PortraitVignetteItem": "0"
+            }
+        },
+        "used_by_heroes": "1",
+        "visuals": {
+            "asset_modifier": {
+                "type": "particle_create",
+                "modifier": "particles/econ/events/fall_2022/loadout/fall_2022_emblem_effect_loadout.vpcf",
+                "spawn_in_loadout_only": "1"
+            }
+        },
+        "rarity_color": "#d32ce6",
+        "item_name_cn": "2022年勇士令状纹章"
+    }
+}

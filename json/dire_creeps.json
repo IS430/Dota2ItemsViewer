@@ -1,0 +1,336 @@
+﻿{
+    "12187": {
+        "name": "Cavernite Dire Creeps",
+        "prefab": "direcreeps",
+        "creation_date": "2018-03-28",
+        "event_id": "EVENT_ID_INTERNATIONAL_2018",
+        "image_inventory": "econ/tools/ti8_dire_creeps",
+        "item_description": "#DOTA_Item_Desc_Cavernite_Dire_Creeps",
+        "item_name": "#DOTA_Item_Cavernite_Dire_Creeps",
+        "item_rarity": "legendary",
+        "player_loadout": "1",
+        "static_attributes": {
+            "cannot trade": {
+                "attribute_class": "cannot_trade",
+                "value": "1"
+            },
+            "not marketable": {
+                "attribute_class": "not marketable",
+                "value": "1"
+            },
+            "cannot delete": {
+                "attribute_class": "cannot_delete",
+                "value": "1"
+            }
+        },
+        "visuals": {
+            "asset_modifier": {
+                "type": "portrait_game",
+                "asset": "npc_dota_creep_badguys_flagbearer_upgraded_mega",
+                "modifier": {
+                    "PortraitLightPosition": "29.379999 12.250000 162.360001",
+                    "PortraitLightAngles": "73.760002 10.190000 0.000000",
+                    "PortraitLightFOV": "75",
+                    "PortraitLightDistance": "115",
+                    "PortraitLightColor": "191 240 254",
+                    "PortraitShadowColor": "48 48 48",
+                    "PortraitShadowScale": "5",
+                    "PortraitAmbientColor": "155 104 104",
+                    "PortraitAmbientScale": "5",
+                    "PortraitSpecularColor": "251 74 84",
+                    "PortraitBackgroundTexture": "materials/vgui/hud/heroportraits/portraitbackground_darkclouds.vmat",
+                    "PortraitBackgroundColor1": "0.700000 0.340000 0.200000",
+                    "PortraitBackgroundColor2": "0.700000 0.340000 0.200000",
+                    "PortraitBackgroundColor3": "0.700000 0.340000 0.200000",
+                    "PortraitBackgroundColor4": "0.700000 0.340000 0.200000",
+                    "PortraitLightScale": "7.759000",
+                    "PortraitGroundShadowScale": "1.500000",
+                    "PortraitAmbientDirection": "-10.070 5.110 -31.920",
+                    "PortraitAnimationActivity": "ACT_DOTA_IDLE",
+                    "cameras": {
+                        "default": {
+                            "PortraitPosition": "322.152832 141.399353 16.114092",
+                            "PortraitAngles": "350.009979 204.790024 0.000000",
+                            "PortraitFOV": "17",
+                            "PortraitFar": "1000"
+                        }
+                    },
+                    "PortraitSpecularDirection": "0.000000 0.000000 -1.000000",
+                    "PortraitSpecularPower": "16",
+                    "PortraitAnimationCycle": "0",
+                    "PortraitAnimationRate": "1",
+                    "PortraitHideHero": "0",
+                    "PortraitHideParticles": "0",
+                    "PortraitHideDropShadow": "0",
+                    "PortraitDesaturateParticles": "0",
+                    "PortraitDesaturateHero": "1"
+                }
+            }
+        },
+        "rarity_color": "#d32ce6",
+        "item_name_cn": "岩洞夜魇小兵"
+    },
+    "12979": {
+        "name": "Reptilian Refuge Dire Creeps",
+        "prefab": "direcreeps",
+        "creation_date": "2019-04-19",
+        "event_id": "EVENT_ID_INTERNATIONAL_2019",
+        "image_inventory": "econ/tools/reptilian_refuge_dire_creeps",
+        "item_description": "#DOTA_Item_Desc_Reptilian_Refuge_Dire_Creeps",
+        "item_name": "#DOTA_Item_Reptilian_Refuge_Dire_Creeps",
+        "item_rarity": "legendary",
+        "static_attributes": {
+            "cannot trade": {
+                "attribute_class": "cannot_trade",
+                "value": "1"
+            },
+            "not marketable": {
+                "attribute_class": "not marketable",
+                "value": "1"
+            },
+            "cannot delete": {
+                "attribute_class": "cannot_delete",
+                "value": "1"
+            }
+        },
+        "visuals": {
+            "asset_modifier": {
+                "type": "portrait_game",
+                "asset": "npc_dota_creep_badguys_flagbearer_upgraded_mega",
+                "modifier": {
+                    "PortraitLightPosition": "29.379999 12.250000 162.360001",
+                    "PortraitLightAngles": "73.760002 10.190000 0.000000",
+                    "PortraitLightFOV": "75",
+                    "PortraitLightDistance": "115",
+                    "PortraitLightColor": "191 240 254",
+                    "PortraitShadowColor": "48 48 48",
+                    "PortraitShadowScale": "5",
+                    "PortraitAmbientColor": "155 104 104",
+                    "PortraitAmbientScale": "5",
+                    "PortraitSpecularColor": "251 74 84",
+                    "PortraitBackgroundTexture": "materials/vgui/hud/heroportraits/portraitbackground_darkclouds.vmat",
+                    "PortraitBackgroundColor1": "0.700000 0.340000 0.200000",
+                    "PortraitBackgroundColor2": "0.700000 0.340000 0.200000",
+                    "PortraitBackgroundColor3": "0.700000 0.340000 0.200000",
+                    "PortraitBackgroundColor4": "0.700000 0.340000 0.200000",
+                    "PortraitLightScale": "7.759000",
+                    "PortraitGroundShadowScale": "1.500000",
+                    "PortraitAmbientDirection": "-10.070 5.110 -31.920",
+                    "PortraitAnimationActivity": "ACT_DOTA_IDLE",
+                    "cameras": {
+                        "default": {
+                            "PortraitPosition": "322.152832 141.399353 16.114092",
+                            "PortraitAngles": "350.009979 204.790024 0.000000",
+                            "PortraitFOV": "17",
+                            "PortraitFar": "1000"
+                        }
+                    },
+                    "PortraitSpecularDirection": "0.000000 0.000000 -1.000000",
+                    "PortraitSpecularPower": "16",
+                    "PortraitAnimationCycle": "0",
+                    "PortraitAnimationRate": "1",
+                    "PortraitHideHero": "0",
+                    "PortraitHideParticles": "0",
+                    "PortraitHideDropShadow": "0",
+                    "PortraitDesaturateParticles": "0",
+                    "PortraitDesaturateHero": "1"
+                }
+            }
+        },
+        "rarity_color": "#d32ce6",
+        "item_name_cn": "爬虫难民 - 夜魇小兵"
+    },
+    "18839": {
+        "name": "Woodland Warbands - Dire Creeps",
+        "prefab": "direcreeps",
+        "creation_date": "2021-05-20",
+        "event_id": "EVENT_ID_NONE",
+        "image_inventory": "econ/creeps/lane_creeps/creep_2021_dire/dire_2021_radiant_creeps",
+        "item_description": "#DOTA_Item_Desc_Copy_of_Cavernite_Dire_Creeps",
+        "item_name": "#DOTA_Item_Woodland_Warbands__Dire_Creeps",
+        "item_rarity": "legendary",
+        "item_type_name": "#DOTA_WearableType_Misc",
+        "static_attributes": {
+            "cannot trade": {
+                "attribute_class": "cannot_trade",
+                "value": "1"
+            }
+        },
+        "visuals": {
+            "asset_modifier": {
+                "type": "portrait_game",
+                "asset": "npc_dota_creep_badguys_flagbearer_upgraded_mega",
+                "modifier": {
+                    "PortraitLightPosition": "29.379999 12.250000 162.360001",
+                    "PortraitLightAngles": "73.760002 10.190000 0.000000",
+                    "PortraitLightFOV": "75",
+                    "PortraitLightDistance": "115",
+                    "PortraitLightColor": "191 240 254",
+                    "PortraitShadowColor": "90 90 90",
+                    "PortraitShadowScale": "5",
+                    "PortraitAmbientColor": "155 104 104",
+                    "PortraitAmbientScale": "5",
+                    "PortraitSpecularColor": "251 74 84",
+                    "PortraitBackgroundTexture": "materials/vgui/hud/heroportraits/portraitbackground_darkclouds.vmat",
+                    "PortraitBackgroundColor1": "0.700000 0.340000 0.200000",
+                    "PortraitBackgroundColor2": "0.700000 0.340000 0.200000",
+                    "PortraitBackgroundColor3": "0.700000 0.340000 0.200000",
+                    "PortraitBackgroundColor4": "0.700000 0.340000 0.200000",
+                    "PortraitLightScale": "7.759000",
+                    "PortraitGroundShadowScale": "1.500000",
+                    "PortraitAmbientDirection": "-10.070 5.110 -31.920",
+                    "PortraitAnimationActivity": "ACT_DOTA_IDLE",
+                    "cameras": {
+                        "default": {
+                            "PortraitPosition": "322.152832 141.399353 16.114092",
+                            "PortraitAngles": "350.009979 204.790024 0.000000",
+                            "PortraitFOV": "17",
+                            "PortraitFar": "1000"
+                        }
+                    },
+                    "PortraitSpecularDirection": "0.000000 0.000000 -1.000000",
+                    "PortraitSpecularPower": "16",
+                    "PortraitAnimationCycle": "0",
+                    "PortraitAnimationRate": "1",
+                    "PortraitHideHero": "0",
+                    "PortraitHideParticles": "0",
+                    "PortraitHideDropShadow": "0",
+                    "PortraitDesaturateParticles": "0",
+                    "PortraitDesaturateHero": "1"
+                }
+            }
+        },
+        "rarity_color": "#d32ce6",
+        "item_name_cn": "林地战团 - 夜魇小兵"
+    },
+    "19014": {
+        "name": "Dire Nemestice Creeps",
+        "prefab": "direcreeps",
+        "creation_date": "2021-06-17",
+        "event_id": "EVENT_ID_SPRING_2021",
+        "image_inventory": "econ/tools/nemestice_dire_creeps",
+        "item_description": "#DOTA_Item_Desc_Copy_of_Creeps_2021_Dire",
+        "item_name": "#DOTA_Item_Dire_Nemestice_Creeps",
+        "item_rarity": "legendary",
+        "item_type_name": "#DOTA_WearableType_Misc",
+        "static_attributes": {
+            "cannot trade": {
+                "attribute_class": "cannot_trade",
+                "value": "1"
+            },
+            "giftable": {
+                "attribute_class": "giftable",
+                "value": "0"
+            }
+        },
+        "visuals": {
+            "asset_modifier": {
+                "type": "portrait_game",
+                "asset": "npc_dota_creep_badguys_flagbearer_upgraded_mega",
+                "modifier": {
+                    "PortraitLightPosition": "88.760002 64.419998 211.970001",
+                    "PortraitLightAngles": "67.540001 234.610001 0.000000",
+                    "PortraitLightFOV": "50.146999",
+                    "PortraitLightDistance": "266.709991",
+                    "PortraitLightColor": "108 63 114",
+                    "PortraitShadowColor": "90 49 137",
+                    "PortraitShadowScale": "3.961000",
+                    "PortraitAmbientColor": "95 92 161",
+                    "PortraitAmbientScale": "10",
+                    "PortraitSpecularColor": "251 74 84",
+                    "PortraitBackgroundTexture": "materials/vgui/hud/heroportraits/portraitbackground_nemestice_moon.vmat",
+                    "PortraitBackgroundColor1": "0.000000 0.000000 0.000000",
+                    "PortraitBackgroundColor2": "1.000000 1.000000 1.000000",
+                    "PortraitBackgroundColor3": "1.000000 1.000000 1.000000",
+                    "PortraitBackgroundColor4": "1.000000 1.000000 1.000000",
+                    "PortraitLightScale": "2.827000",
+                    "PortraitGroundShadowScale": "1.500000",
+                    "PortraitAmbientDirection": "-12.970 -128.500 -46.340",
+                    "PortraitAnimationActivity": "ACT_DOTA_CAPTURE",
+                    "cameras": {
+                        "default": {
+                            "PortraitPosition": "148.247314 -145.137375 69.709137",
+                            "PortraitAngles": "352.270355 125.399078 0.000000",
+                            "PortraitFOV": "22.538000",
+                            "PortraitFar": "1000"
+                        }
+                    },
+                    "PortraitSpecularDirection": "0.000000 0.000000 -1.000000",
+                    "PortraitSpecularPower": "16",
+                    "PortraitAnimationCycle": "0",
+                    "PortraitAnimationRate": "1",
+                    "PortraitPlayIdleExpression": "0",
+                    "PortraitHideHero": "0",
+                    "PortraitHideParticles": "0",
+                    "PortraitHideDropShadow": "0",
+                    "PortraitDesaturateParticles": "0",
+                    "PortraitDesaturateHero": "1",
+                    "PortraitVignetteItem": "0"
+                }
+            }
+        },
+        "rarity_color": "#d32ce6",
+        "item_name_cn": "夜魇天陨旦小兵"
+    },
+    "27124": {
+        "name": "Crownfall - Dire Creeps",
+        "prefab": "direcreeps",
+        "creation_date": "2024-04-18",
+        "event_id": "EVENT_ID_CROWNFALL",
+        "image_inventory": "econ/creeps/lane_creeps/creep_2024_crownfall_dire/dire_2024_crownfall_dire_creeps",
+        "item_description": "#DOTA_Item_Desc_Copy_of_Woodland_Warbands__Dire_Creeps",
+        "item_name": "#DOTA_Item_Crownfall__Dire_Creeps",
+        "item_rarity": "legendary",
+        "item_type_name": "#DOTA_WearableType_Misc",
+        "static_attributes": {
+            "tradable after date": "1745002800",
+            "giftable": "0"
+        },
+        "visuals": {
+            "asset_modifier": {
+                "type": "portrait_game",
+                "asset": "npc_dota_creep_badguys_flagbearer_upgraded_mega",
+                "modifier": {
+                    "PortraitLightPosition": "29.379999 12.250000 162.360001",
+                    "PortraitLightAngles": "73.760002 10.190000 0.000000",
+                    "PortraitLightFOV": "75",
+                    "PortraitLightDistance": "115",
+                    "PortraitLightColor": "191 240 254",
+                    "PortraitShadowColor": "90 90 90",
+                    "PortraitShadowScale": "5",
+                    "PortraitAmbientColor": "155 104 104",
+                    "PortraitAmbientScale": "5",
+                    "PortraitSpecularColor": "251 74 84",
+                    "PortraitBackgroundTexture": "materials/vgui/hud/heroportraits/portraitbackground_darkclouds.vmat",
+                    "PortraitBackgroundColor1": "0.700000 0.340000 0.200000",
+                    "PortraitBackgroundColor2": "0.700000 0.340000 0.200000",
+                    "PortraitBackgroundColor3": "0.700000 0.340000 0.200000",
+                    "PortraitBackgroundColor4": "0.700000 0.340000 0.200000",
+                    "PortraitLightScale": "7.759000",
+                    "PortraitGroundShadowScale": "1.500000",
+                    "PortraitAmbientDirection": "-10.070 5.110 -31.920",
+                    "PortraitAnimationActivity": "ACT_DOTA_IDLE",
+                    "cameras": {
+                        "default": {
+                            "PortraitPosition": "322.152832 141.399353 16.114092",
+                            "PortraitAngles": "350.009979 204.790024 0.000000",
+                            "PortraitFOV": "17",
+                            "PortraitFar": "1000"
+                        }
+                    },
+                    "PortraitSpecularDirection": "0.000000 0.000000 -1.000000",
+                    "PortraitSpecularPower": "16",
+                    "PortraitAnimationCycle": "0",
+                    "PortraitAnimationRate": "1",
+                    "PortraitHideHero": "0",
+                    "PortraitHideParticles": "0",
+                    "PortraitHideDropShadow": "0",
+                    "PortraitDesaturateParticles": "0",
+                    "PortraitDesaturateHero": "1"
+                }
+            }
+        },
+        "rarity_color": "#d32ce6",
+        "item_name_cn": "倾天之战 - 夜魇小兵"
+    }
+}

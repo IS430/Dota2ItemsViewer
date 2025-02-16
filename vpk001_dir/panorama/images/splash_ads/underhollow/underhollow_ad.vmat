@@ -1,0 +1,15 @@
+"Layer0"
+{
+	"shader"	"global_lit_simple.vfx"
+	"F_TRANSLUCENT"	"1"
+	"g_flOpacityScale"	"1"
+	"g_vColorTint"	"[1.000000 1.000000 1.000000 0.000000]"
+	"g_vTexCoordOffset"	"[0.000000 0.000000 0.000000 0.000000]"
+	"g_vTexCoordScale"	"[1.000000 1.000000 0.000000 0.000000]"
+	"TextureColor"	"panorama/images/splash_ads/underhollow/underhollow_ad_color.png"
+	"TextureTranslucency"	"panorama/images/splash_ads/underhollow/underhollow_ad_8ebae356_trans.png"
+	"Compiled Textures"
+	{
+		"g_tColor"	"panorama/images/splash_ads/underhollow/underhollow_ad_color_psd_8ebae356.vtex"
+	}
+}

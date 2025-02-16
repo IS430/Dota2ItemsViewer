@@ -1,0 +1,478 @@
+﻿{
+    "10540": {
+        "name": "Unbroken Stallion Cursor Pack",
+        "prefab": "cursor_pack",
+        "creation_date": "2014-11-07",
+        "image_inventory": "econ/cursor_pack/berserker_centaur",
+        "item_name": "#DOTA_Item_Unbroken_Stallion_Cursor_Pack",
+        "item_rarity": "mythical",
+        "price_info": {
+            "category_tags": "Equipment",
+            "date": "11/10/2014",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "cursor_pack",
+                "asset": "resource/cursor/workshop/berserker_centaur",
+                "modifier": "resource/cursor/workshop/berserker_centaur",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "不羁牡马指针"
+    },
+    "10885": {
+        "name": "Steam Chopper Cursor Pack",
+        "prefab": "cursor_pack",
+        "creation_date": "2014-11-07",
+        "image_inventory": "econ/cursor_pack/dctimber_fancy",
+        "item_name": "#DOTA_Item_Steam_Chopper_Cursor_Pack",
+        "item_rarity": "rare",
+        "price_info": {
+            "category_tags": "Equipment",
+            "date": "11/11/2014",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "cursor_pack",
+                "asset": "resource/cursor/workshop/dctimber_fancy",
+                "modifier": "resource/cursor/workshop/dctimber_fancy",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#4b69ff",
+        "item_name_cn": "蒸汽切割机指针"
+    },
+    "10890": {
+        "name": "Acid Hydra Cursor Pack",
+        "prefab": "cursor_pack",
+        "creation_date": "2014-11-07",
+        "image_inventory": "econ/cursor_pack/dcveno_cursor",
+        "item_name": "#DOTA_Item_Acid_Hydra_Cursor_Pack",
+        "item_rarity": "mythical",
+        "price_info": {
+            "category_tags": "Equipment",
+            "date": "11/10/2014",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "cursor_pack",
+                "asset": "resource/cursor/workshop/dcveno_cursor",
+                "modifier": "resource/cursor/workshop/dcveno_cursor",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "酸液怪蛇指针"
+    },
+    "10892": {
+        "name": "Wrath of Ka Cursor Pack",
+        "prefab": "cursor_pack",
+        "creation_date": "2014-11-10",
+        "image_inventory": "econ/cursor_pack/necronub",
+        "item_name": "#DOTA_Item_Wrath_of_Ka_Cursor_Pack",
+        "item_rarity": "mythical",
+        "price_info": {
+            "category_tags": "Equipment",
+            "date": "11/11/2014",
+            "price": "0"
+        },
+        "used_by_heroes": "1",
+        "visuals": {
+            "asset_modifier0": {
+                "type": "cursor_pack",
+                "asset": "resource/cursor/workshop/necronub"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "阴魂之怒鼠标指针"
+    },
+    "10906": {
+        "name": "Warcog Cursor Pack",
+        "prefab": "cursor_pack",
+        "creation_date": "2014-11-07",
+        "image_inventory": "econ/cursor_pack/war_machine_clockwork",
+        "item_name": "#DOTA_Item_Warcog_Cursor_Pack",
+        "item_rarity": "mythical",
+        "price_info": {
+            "category_tags": "Equipment",
+            "date": "11/10/2014",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "cursor_pack",
+                "asset": "resource/cursor/workshop/war_machine_clockwork"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "战争齿轮鼠标指针"
+    },
+    "10968": {
+        "name": "DAC 2015 Chaos Knight Cursor Pack",
+        "prefab": "cursor_pack",
+        "creation_date": "2014-12-10",
+        "image_inventory": "econ/cursor_pack/pw_chaos_cursors",
+        "item_description": "#DOTA_Item_Desc_DAC_2015_Chaos_Knight_Cursor_Pack",
+        "item_name": "#DOTA_Item_DAC_2015_Chaos_Knight_Cursor_Pack",
+        "item_quality": "genuine",
+        "item_rarity": "mythical",
+        "static_attributes": {
+            "tradable after date": {
+                "attribute_class": "tradable_after_date",
+                "value": "1425168000"
+            }
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "cursor_pack",
+                "asset": "resource/cursor/workshop/pw_chaos_cursors",
+                "modifier": "resource/cursor/workshop/pw_chaos_cursors",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "2015年亚洲邀请赛混沌骑士主题鼠标指针"
+    },
+    "10969": {
+        "name": "DAC 2015 Mirana Cursor Pack",
+        "prefab": "cursor_pack",
+        "creation_date": "2014-12-10",
+        "image_inventory": "econ/cursor_pack/pw_mirana_cursors",
+        "item_description": "#DOTA_Item_Desc_DAC_2015_Mirana_Cursor_Pack",
+        "item_name": "#DOTA_Item_DAC_2015_Mirana_Cursor_Pack",
+        "item_quality": "genuine",
+        "item_rarity": "mythical",
+        "static_attributes": {
+            "tradable after date": {
+                "attribute_class": "tradable_after_date",
+                "value": "1425168000"
+            }
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "cursor_pack",
+                "asset": "resource/cursor/workshop/pw_mirana_cursors",
+                "modifier": "resource/cursor/workshop/pw_mirana_cursors",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "2015年亚洲邀请赛米拉娜主题鼠标指针"
+    },
+    "10985": {
+        "name": "DAC 2015 Crystal Maiden Cursor Pack",
+        "prefab": "cursor_pack",
+        "creation_date": "2014-12-12",
+        "image_inventory": "econ/cursor_pack/pw_crystal_maiden_cursors",
+        "item_description": "#DOTA_Item_Desc_DAC_2015_Crystal_Maiden_Cursor_Pack",
+        "item_name": "#DOTA_Item_DAC_2015_Crystal_Maiden_Cursor_Pack",
+        "item_quality": "genuine",
+        "item_rarity": "mythical",
+        "static_attributes": {
+            "tradable after date": {
+                "attribute_class": "tradable_after_date",
+                "value": "1425168000"
+            }
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "cursor_pack",
+                "asset": "resource/cursor/workshop/pw_crystal_maiden_cursors",
+                "modifier": "resource/cursor/workshop/pw_crystal_maiden_cursors",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "2015年亚洲邀请赛水晶室女主题鼠标指针"
+    },
+    "11194": {
+        "name": "The Summit 3 Cursor Pack",
+        "prefab": "cursor_pack",
+        "creation_date": "2015-03-04",
+        "image_inventory": "econ/cursor_pack/bts3_cursor_pack",
+        "item_name": "#DOTA_Item_The_Summit_3_Cursor_Pack",
+        "item_rarity": "rare",
+        "visuals": {
+            "asset_modifier0": {
+                "type": "cursor_pack",
+                "asset": "resource/cursor/workshop/bts3_cursor_pack",
+                "modifier": "resource/cursor/workshop/bts3_cursor_pack",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#4b69ff",
+        "item_name_cn": "巅峰联赛第3赛季鼠标指针"
+    },
+    "11298": {
+        "name": "Tine of the Behemoth Cursor Pack",
+        "prefab": "cursor_pack",
+        "creation_date": "2015-04-01",
+        "image_inventory": "econ/cursor_pack/sltv_shaker_cursor_pack",
+        "item_name": "#DOTA_Item_Tine_of_the_Behemoth_Cursor_Pack",
+        "item_rarity": "rare",
+        "price_info": {
+            "category_tags": "Equipment",
+            "date": "4/1/2015",
+            "price": "0"
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "cursor_pack",
+                "asset": "resource/cursor/workshop/sltv_shaker_cursor_pack",
+                "modifier": "resource/cursor/workshop/sltv_shaker_cursor_pack",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#4b69ff",
+        "item_name_cn": "巨兽之齿鼠标指针"
+    },
+    "11320": {
+        "name": "The International 2015 Cursor Pack",
+        "prefab": "cursor_pack",
+        "creation_date": "2015-04-15",
+        "image_inventory": "econ/cursor_pack/ti5_cursor_pack",
+        "item_name": "#DOTA_Item_The_International_2015_Cursor_Pack",
+        "item_rarity": "mythical",
+        "visuals": {
+            "asset_modifier0": {
+                "type": "cursor_pack",
+                "asset": "resource/cursor/valve/ti5"
+            }
+        },
+        "static_attributes": {
+            "international tag": {
+                "attribute_class": "international_tag",
+                "value": "2015"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "2015年国际邀请赛鼠标指针"
+    },
+    "11378": {
+        "name": "Emerald Sea Cursor Pack",
+        "prefab": "cursor_pack",
+        "creation_date": "2015-05-19",
+        "image_inventory": "econ/cursor_pack/emerald_ocean_cursor_pack",
+        "item_name": "#DOTA_Item_Emerald_Sea_Cursor_Pack",
+        "item_rarity": "rare",
+        "visuals": {
+            "asset_modifier0": {
+                "type": "cursor_pack",
+                "asset": "resource/cursor/workshop/emerald_ocean_cursor_pack",
+                "modifier": "resource/cursor/workshop/emerald_ocean_cursor_pack",
+                "frequency": "1"
+            }
+        },
+        "rarity_color": "#4b69ff",
+        "item_name_cn": "碧海青蟒鼠标指针"
+    },
+    "11543": {
+        "name": "The International 2016 Cursor Pack",
+        "prefab": "cursor_pack",
+        "creation_date": "2016-05-16",
+        "event_id": "EVENT_ID_INTERNATIONAL_2016",
+        "image_inventory": "econ/cursor_pack/ti6_cursor_pack",
+        "item_name": "#DOTA_Item_The_International_2016_Cursor_Pack",
+        "item_rarity": "mythical",
+        "static_attributes": {
+            "international tag": {
+                "attribute_class": "international_tag",
+                "value": "2016"
+            },
+            "tradable after date": {
+                "attribute_class": "tradable_after_date",
+                "value": "1471158000"
+            }
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "cursor_pack",
+                "asset": "resource/cursor/valve/ti6"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "2016年国际邀请赛鼠标指针"
+    },
+    "12000": {
+        "name": "The International 2017 Cursor Pack",
+        "prefab": "cursor_pack",
+        "creation_date": "2017-05-04",
+        "event_id": "EVENT_ID_INTERNATIONAL_2017",
+        "image_inventory": "econ/cursor_pack/ti7_cursor_pack",
+        "item_name": "#DOTA_Item_The_International_2017_Cursor_Pack",
+        "item_rarity": "mythical",
+        "static_attributes": {
+            "tradable after date": {
+                "attribute_class": "tradable_after_date",
+                "value": "1535796000"
+            }
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "cursor_pack",
+                "asset": "resource/cursor/valve/ti7"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "2017年国际邀请赛鼠标指针"
+    },
+    "12198": {
+        "name": "The International 2018 Cursor Pack",
+        "prefab": "cursor_pack",
+        "creation_date": "2018-05-02",
+        "event_id": "EVENT_ID_INTERNATIONAL_2018",
+        "image_inventory": "econ/cursor_pack/ti8_cursor_pack",
+        "item_name": "#DOTA_Item_The_International_2018_Cursor_Pack",
+        "item_rarity": "mythical",
+        "static_attributes": {
+            "cannot trade": {
+                "attribute_class": "cannot_trade",
+                "value": "1"
+            }
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "cursor_pack",
+                "asset": "resource/cursor/valve/ti8"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "2018年国际邀请赛鼠标指针"
+    },
+    "12963": {
+        "name": "The International 2019 Cursor Pack",
+        "prefab": "cursor_pack",
+        "creation_date": "2019-05-07",
+        "event_id": "EVENT_ID_INTERNATIONAL_2019",
+        "image_inventory": "econ/cursor_pack/ti9_cursor_pack",
+        "item_name": "#DOTA_Item_The_International_2019_Cursor_Pack",
+        "item_rarity": "mythical",
+        "static_attributes": {
+            "tradable after date": {
+                "attribute_class": "tradable_after_date",
+                "value": "1598997600"
+            }
+        },
+        "visuals": {
+            "asset_modifier0": {
+                "type": "cursor_pack",
+                "asset": "resource/cursor/valve/ti9"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "2019年国际邀请赛鼠标指针"
+    },
+    "18392": {
+        "name": "Diretide 2020 Cursor Pack",
+        "prefab": "cursor_pack",
+        "creation_date": "2020-10-20",
+        "event_id": "EVENT_ID_DIRETIDE_2020",
+        "image_inventory": "econ/cursor_pack/diretide2020_cursor_pack",
+        "item_name": "#DOTA_Item_Diretide_2020_Cursor_Pack",
+        "item_rarity": "mythical",
+        "visuals": {
+            "asset_modifier0": {
+                "type": "cursor_pack",
+                "asset": "resource/cursor/valve/diretide2020"
+            }
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "2020年夜魇暗潮鼠标指针"
+    },
+    "30358": {
+        "name": "The Resurrection of Shen - Cursor Pack",
+        "prefab": "cursor_pack",
+        "creation_date": "2024-04-18",
+        "event_id": "EVENT_ID_CROWNFALL",
+        "image_inventory": "econ/cursor_pack/vengeful_spirit_arcana_cursor_pack",
+        "item_name": "#DOTA_Item_The_Resurrection_of_Shen__Cursor_Pack",
+        "item_rarity": "legendary",
+        "static_attributes": {
+            "tradable after date": "1745002800",
+            "giftable": "0"
+        },
+        "visuals": {
+            "asset_modifier": {
+                "type": "cursor_pack",
+                "asset": "resource/cursor/valve/imperia_arcana",
+                "style": "2"
+            },
+            "alternate_icons": {
+                "0": {
+                    "icon_path": "econ/cursor_pack/vengeful_spirit_arcana_cursor_pack"
+                },
+                "1": {
+                    "icon_path": "econ/cursor_pack/vengeful_spirit_arcana_cursor_pack_style1"
+                },
+                "2": {
+                    "icon_path": "econ/cursor_pack/vengeful_spirit_arcana_cursor_pack_style2"
+                }
+            },
+            "styles": {
+                "0": {
+                    "name": "#DOTA_Style_Vengeful_Spirit_Arcana_Style0",
+                    "skin": "0",
+                    "alternate_icon": "0"
+                },
+                "1": {
+                    "name": "#DOTA_Style_Vengeful_Spirit_Arcana_Style1",
+                    "skin": "1",
+                    "alternate_icon": "1"
+                },
+                "2": {
+                    "name": "#DOTA_Style_Vengeful_Spirit_Arcana_Style2",
+                    "skin": "2",
+                    "alternate_icon": "2"
+                }
+            }
+        },
+        "rarity_color": "#d32ce6",
+        "item_name_cn": "仙德尔莎的复生 - 鼠标指针"
+    },
+    "30359": {
+        "name": "The Devotions of Dragonus - Cursor Pack",
+        "prefab": "cursor_pack",
+        "creation_date": "2024-04-18",
+        "event_id": "EVENT_ID_CROWNFALL",
+        "image_inventory": "econ/cursor_pack/skywrath_mage_arcana_cursor_pack",
+        "item_name": "#DOTA_Item_The_Devotions_of_Dragonus__Cursor_Pack",
+        "item_rarity": "legendary",
+        "static_attributes": {
+            "tradable after date": "1745002800",
+            "giftable": "0"
+        },
+        "visuals": {
+            "asset_modifier": {
+                "type": "cursor_pack",
+                "asset": "resource/cursor/valve/skywrath_mage_arcana_alt",
+                "style": "1"
+            },
+            "alternate_icons": {
+                "0": {
+                    "icon_path": "econ/cursor_pack/skywrath_mage_arcana_cursor_pack"
+                },
+                "1": {
+                    "icon_path": "econ/cursor_pack/skywrath_mage_arcana_cursor_pack_style1"
+                }
+            },
+            "styles": {
+                "0": {
+                    "name": "#DOTA_Style_Vengeful_Spirit_Arcana_Style0",
+                    "skin": "0",
+                    "alternate_icon": "0"
+                },
+                "1": {
+                    "name": "#DOTA_Style_Vengeful_Spirit_Arcana_Style1",
+                    "skin": "1",
+                    "alternate_icon": "1"
+                }
+            }
+        },
+        "rarity_color": "#d32ce6",
+        "item_name_cn": "扎贡纳斯的献身 - 鼠标指针"
+    }
+}

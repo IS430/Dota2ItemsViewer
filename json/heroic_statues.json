@@ -1,0 +1,652 @@
+﻿{
+    "10965": {
+        "name": "Heroic Effigy of Frost",
+        "prefab": "misc",
+        "capabilities": {
+            "usable_gc": "1",
+            "usable_out_of_game": "1"
+        },
+        "creation_date": "2014-12-08",
+        "image_inventory": "econ/tools/effigystatue_frost",
+        "item_class": "tool",
+        "item_description": "#DOTA_Item_Desc_Copy_of_Heroic_Effigy_of_Triumph",
+        "item_name": "#DOTA_Item_Heroic_Effigy_of_Frost",
+        "item_rarity": "rare",
+        "item_slot": "heroic_statue",
+        "item_type_name": "#DOTA_WearableType_Misc",
+        "player_loadout": "1",
+        "static_attributes": {
+            "cannot trade": {
+                "attribute_class": "cannot_trade",
+                "value": "1"
+            },
+            "not marketable": {
+                "attribute_class": "not marketable",
+                "value": "1"
+            }
+        },
+        "tool": {
+            "type": "hero_statue_reforge"
+        },
+        "rarity_color": "#4b69ff",
+        "item_name_cn": "寒霜英雄雕像"
+    },
+    "11078": {
+        "name": "Heroic Effigy of Jade",
+        "prefab": "misc",
+        "capabilities": {
+            "usable_gc": "1",
+            "usable_out_of_game": "1"
+        },
+        "creation_date": "2015-01-08",
+        "image_inventory": "econ/tools/effigystatue_jade",
+        "item_class": "tool",
+        "item_description": "#DOTA_Item_Desc_Copy_of_Heroic_Effigy_of_Frost",
+        "item_name": "#DOTA_Item_Heroic_Effigy_of_Jade",
+        "item_rarity": "rare",
+        "item_slot": "heroic_statue",
+        "item_type_name": "#DOTA_WearableType_Misc",
+        "player_loadout": "1",
+        "static_attributes": {
+            "cannot trade": {
+                "attribute_class": "cannot_trade",
+                "value": "1"
+            },
+            "not marketable": {
+                "attribute_class": "not marketable",
+                "value": "1"
+            }
+        },
+        "tool": {
+            "type": "hero_statue_reforge"
+        },
+        "rarity_color": "#4b69ff",
+        "item_name_cn": "碧玉雕像石"
+    },
+    "11293": {
+        "name": "Heroic Effigy of The International 2015",
+        "prefab": "misc",
+        "capabilities": {
+            "usable_gc": "1",
+            "usable_out_of_game": "1"
+        },
+        "creation_date": "2015-03-31",
+        "image_inventory": "econ/tools/effigy_ti5",
+        "item_class": "tool",
+        "item_description": "#DOTA_Item_Desc_Gilded_Valor",
+        "item_name": "#DOTA_Item_Heroic_Effigy_of_The_International_2015",
+        "item_rarity": "rare",
+        "item_slot": "heroic_statue",
+        "item_type_name": "#DOTA_WearableType_Misc",
+        "player_loadout": "1",
+        "static_attributes": {
+            "cannot trade": {
+                "attribute_class": "cannot_trade",
+                "value": "1"
+            },
+            "not marketable": {
+                "attribute_class": "not marketable",
+                "value": "1"
+            },
+            "international tag": {
+                "attribute_class": "international_tag",
+                "value": "2015"
+            }
+        },
+        "tool": {
+            "type": "hero_statue_reforge"
+        },
+        "rarity_color": "#4b69ff",
+        "item_name_cn": "2015年国际邀请赛英雄雕像"
+    },
+    "11317": {
+        "name": "Golden Heroic Effigy of The International 2015",
+        "prefab": "misc",
+        "capabilities": {
+            "usable_gc": "1",
+            "usable_out_of_game": "1"
+        },
+        "creation_date": "2015-04-15",
+        "image_inventory": "econ/tools/effigy_ti5_lvl2",
+        "item_class": "tool",
+        "item_description": "#DOTA_Item_Desc_Heroic_Effigy_of_Solid_Gold",
+        "item_name": "#DOTA_Item_Golden_Heroic_Effigy_of_The_International_2015",
+        "item_rarity": "legendary",
+        "item_slot": "heroic_statue",
+        "item_type_name": "#DOTA_WearableType_Misc",
+        "player_loadout": "1",
+        "static_attributes": {
+            "cannot trade": {
+                "attribute_class": "cannot_trade",
+                "value": "1"
+            },
+            "not marketable": {
+                "attribute_class": "not marketable",
+                "value": "1"
+            },
+            "international tag": {
+                "attribute_class": "international_tag",
+                "value": "2015"
+            }
+        },
+        "tool": {
+            "type": "hero_statue_reforge"
+        },
+        "rarity_color": "#d32ce6",
+        "item_name_cn": "2015年国际邀请赛纯金英雄雕像"
+    },
+    "11322": {
+        "name": "Effigy of Fame",
+        "prefab": "misc",
+        "capabilities": {
+            "usable_gc": "1",
+            "usable_out_of_game": "1"
+        },
+        "creation_date": "2015-04-16",
+        "image_inventory": "econ/default_item",
+        "item_class": "tool",
+        "item_description": "#DOTA_Item_Desc_Heroic_Effigy_of_Fame",
+        "item_name": "#DOTA_Item_Effigy_of_Fame",
+        "item_rarity": "rare",
+        "item_slot": "heroic_statue",
+        "item_type_name": "#DOTA_WearableType_Misc",
+        "player_loadout": "1",
+        "tool": {
+            "type": "hero_statue_reforge"
+        },
+        "visuals": {
+            "alternate_icons": {
+                "0": {
+                    "icon_path": "econ/default_item"
+                },
+                "1": {
+                    "icon_path": "econ/tools/effigystatue_ti4"
+                },
+                "2": {
+                    "icon_path": "econ/tools/effigystatue_frost"
+                },
+                "3": {
+                    "icon_path": "econ/default_item"
+                },
+                "4": {
+                    "icon_path": "econ/tools/effigystatue_jade"
+                },
+                "5": {
+                    "icon_path": "econ/tools/effigy_ti5"
+                },
+                "6": {
+                    "icon_path": "econ/tools/effigy_ti5_lvl2"
+                }
+            }
+        },
+        "rarity_color": "#4b69ff",
+        "item_name_cn": "扬名雕像"
+    },
+    "11431": {
+        "name": "Heroic Effigy of Winter 2016",
+        "prefab": "misc",
+        "capabilities": {
+            "usable_gc": "1",
+            "usable_out_of_game": "1"
+        },
+        "creation_date": "2016-01-04",
+        "event_id": "EVENT_ID_WINTER_MAJOR_2016",
+        "image_inventory": "econ/tools/effigystatue_winter_major_2016",
+        "item_class": "tool",
+        "item_description": "#DOTA_Item_Desc_Heroic_Effigy_of_Winter_2016",
+        "item_name": "#DOTA_Item_Heroic_Effigy_of_Winter_2016",
+        "item_rarity": "rare",
+        "item_slot": "heroic_statue",
+        "player_loadout": "1",
+        "static_attributes": {
+            "is commodity": {
+                "attribute_class": "is commodity",
+                "value": "1"
+            }
+        },
+        "tool": {
+            "type": "hero_statue_reforge"
+        },
+        "rarity_color": "#4b69ff",
+        "item_name_cn": "2016年冬季英雄雕像石"
+    },
+    "11540": {
+        "name": "Heroic Effigy of The International 2016",
+        "prefab": "misc",
+        "capabilities": {
+            "usable_gc": "1",
+            "usable_out_of_game": "1"
+        },
+        "creation_date": "2016-05-03",
+        "event_id": "EVENT_ID_INTERNATIONAL_2016",
+        "image_inventory": "econ/tools/effigy_lvl1_ti6",
+        "item_class": "tool",
+        "item_description": "#DOTA_Item_Desc_Heroic_Effigy_of_The_International_2016",
+        "item_name": "#DOTA_Item_Heroic_Effigy_of_The_International_2016",
+        "item_rarity": "legendary",
+        "item_slot": "heroic_statue",
+        "player_loadout": "1",
+        "static_attributes": {
+            "cannot trade": {
+                "attribute_class": "cannot_trade",
+                "value": "1"
+            },
+            "not marketable": {
+                "attribute_class": "not marketable",
+                "value": "1"
+            },
+            "international tag": {
+                "attribute_class": "international_tag",
+                "value": "2016"
+            }
+        },
+        "tool": {
+            "type": "hero_statue_reforge"
+        },
+        "rarity_color": "#d32ce6",
+        "item_name_cn": "2016年国际邀请赛英雄雕像石"
+    },
+    "11545": {
+        "name": "Heroic Effigy of The International 2016 III",
+        "prefab": "misc",
+        "capabilities": {
+            "usable_gc": "1",
+            "usable_out_of_game": "1"
+        },
+        "creation_date": "2016-05-10",
+        "event_id": "EVENT_ID_INTERNATIONAL_2016",
+        "image_inventory": "econ/tools/effigy_ti6_lvl3",
+        "item_class": "tool",
+        "item_description": "#DOTA_Item_Desc_Heroic_Effigy_of_The_International_2016_III",
+        "item_name": "#DOTA_Item_Heroic_Effigy_of_The_International_2016_III",
+        "item_rarity": "legendary",
+        "item_slot": "heroic_statue",
+        "player_loadout": "1",
+        "static_attributes": {
+            "cannot trade": {
+                "attribute_class": "cannot_trade",
+                "value": "1"
+            },
+            "not marketable": {
+                "attribute_class": "not marketable",
+                "value": "1"
+            },
+            "international tag": {
+                "attribute_class": "international_tag",
+                "value": "2016"
+            }
+        },
+        "tool": {
+            "type": "hero_statue_reforge"
+        },
+        "rarity_color": "#d32ce6",
+        "item_name_cn": "2016年国际邀请赛英雄雕像石 III"
+    },
+    "11546": {
+        "name": "Heroic Effigy of The International 2016 II",
+        "prefab": "misc",
+        "capabilities": {
+            "usable_gc": "1",
+            "usable_out_of_game": "1"
+        },
+        "creation_date": "2016-05-10",
+        "event_id": "EVENT_ID_INTERNATIONAL_2016",
+        "image_inventory": "econ/tools/effigy_lvl2_ti6",
+        "item_class": "tool",
+        "item_description": "#DOTA_Item_Desc_Heroic_Effigy_of_The_International_2016_II",
+        "item_name": "#DOTA_Item_Heroic_Effigy_of_The_International_2016_II",
+        "item_rarity": "legendary",
+        "item_slot": "heroic_statue",
+        "player_loadout": "1",
+        "static_attributes": {
+            "cannot trade": {
+                "attribute_class": "cannot_trade",
+                "value": "1"
+            },
+            "not marketable": {
+                "attribute_class": "not marketable",
+                "value": "1"
+            },
+            "international tag": {
+                "attribute_class": "international_tag",
+                "value": "2016"
+            }
+        },
+        "tool": {
+            "type": "hero_statue_reforge"
+        },
+        "rarity_color": "#d32ce6",
+        "item_name_cn": "2016年国际邀请赛英雄雕像石 II"
+    },
+    "11769": {
+        "name": "Heroic Effigy of Winter 2016 Level II",
+        "prefab": "misc",
+        "capabilities": {
+            "usable_gc": "1",
+            "usable_out_of_game": "1"
+        },
+        "creation_date": "2016-01-12",
+        "event_id": "EVENT_ID_WINTER_MAJOR_2016",
+        "image_inventory": "econ/tools/effigystatue_winter_major_2016_lvl2",
+        "item_class": "tool",
+        "item_description": "#DOTA_Item_Desc_Heroic_Effigy_of_Winter_2016_Level_II",
+        "item_name": "#DOTA_Item_Heroic_Effigy_of_Winter_2016_Level_II",
+        "item_rarity": "rare",
+        "item_slot": "heroic_statue",
+        "item_type_name": "#DOTA_WearableType_Misc",
+        "player_loadout": "1",
+        "static_attributes": {
+            "is commodity": {
+                "attribute_class": "is commodity",
+                "value": "1"
+            }
+        },
+        "tool": {
+            "type": "hero_statue_reforge"
+        },
+        "rarity_color": "#4b69ff",
+        "item_name_cn": "2016年冬季英雄雕像石（2级）"
+    },
+    "11770": {
+        "name": "Heroic Effigy of Winter 2016 Level 3",
+        "prefab": "misc",
+        "capabilities": {
+            "usable_gc": "1",
+            "usable_out_of_game": "1"
+        },
+        "creation_date": "2016-01-12",
+        "event_id": "EVENT_ID_WINTER_MAJOR_2016",
+        "image_inventory": "econ/tools/effigystatue_winter_major_2016_lvl3",
+        "item_class": "tool",
+        "item_description": "#DOTA_Item_Desc_Heroic_Effigy_of_Winter_2016_Level_3",
+        "item_name": "#DOTA_Item_Heroic_Effigy_of_Winter_2016_Level_3",
+        "item_rarity": "rare",
+        "item_slot": "heroic_statue",
+        "item_type_name": "#DOTA_WearableType_Misc",
+        "player_loadout": "1",
+        "static_attributes": {
+            "is commodity": {
+                "attribute_class": "is commodity",
+                "value": "1"
+            }
+        },
+        "tool": {
+            "type": "hero_statue_reforge"
+        },
+        "rarity_color": "#4b69ff",
+        "item_name_cn": "2016年冬季英雄雕像石（3级）"
+    },
+    "11947": {
+        "name": "Heroic Effigy of The Fall 2016 Battle Pass Level I",
+        "prefab": "misc",
+        "capabilities": {
+            "usable_gc": "1",
+            "usable_out_of_game": "1"
+        },
+        "creation_date": "2016-09-28",
+        "event_id": "EVENT_ID_FALL_MAJOR_2016",
+        "image_inventory": "econ/tools/effigy_fall_major_2016_lvl1",
+        "item_class": "tool",
+        "item_description": "#DOTA_Item_Desc_Heroic_Effigy_of_The_Fall_2016_Battle_Pass",
+        "item_name": "#DOTA_Item_Heroic_Effigy_of_The_Fall_2016_Battle_Pass_Level_I",
+        "item_rarity": "mythical",
+        "item_slot": "heroic_statue",
+        "item_type_name": "#DOTA_WearableType_Misc",
+        "player_loadout": "1",
+        "tool": {
+            "type": "hero_statue_reforge"
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "2016年秋季勇士令状英雄雕像 I"
+    },
+    "11949": {
+        "name": "Heroic Effigy of The Fall 2016 Battle Pass Level II",
+        "prefab": "misc",
+        "capabilities": {
+            "usable_gc": "1",
+            "usable_out_of_game": "1"
+        },
+        "creation_date": "2016-09-28",
+        "event_id": "EVENT_ID_FALL_MAJOR_2016",
+        "image_inventory": "econ/tools/effigy_fall_major_2016_lvl2",
+        "item_class": "tool",
+        "item_description": "#DOTA_Item_Desc_Copy_of_Heroic_Effigy_of_The_Fall_2016_Battle_Pass_Level_I",
+        "item_name": "#DOTA_Item_Heroic_Effigy_of_The_Fall_2016_Battle_Pass_Level_II",
+        "item_rarity": "mythical",
+        "item_slot": "heroic_statue",
+        "item_type_name": "#DOTA_WearableType_Misc",
+        "player_loadout": "1",
+        "tool": {
+            "type": "hero_statue_reforge"
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "2016年秋季勇士令状英雄雕像 II"
+    },
+    "11950": {
+        "name": "Heroic Effigy of The Fall 2016 Battle Pass Level III",
+        "prefab": "misc",
+        "capabilities": {
+            "usable_gc": "1",
+            "usable_out_of_game": "1"
+        },
+        "creation_date": "2016-09-28",
+        "event_id": "EVENT_ID_FALL_MAJOR_2016",
+        "image_inventory": "econ/tools/effigy_fall_major_2016_lvl3",
+        "item_class": "tool",
+        "item_description": "#DOTA_Item_Desc_Heroic_Effigy_of_The_Fall_2016_Battle_Pass_Level_III",
+        "item_name": "#DOTA_Item_Heroic_Effigy_of_The_Fall_2016_Battle_Pass_Level_III",
+        "item_rarity": "mythical",
+        "item_slot": "heroic_statue",
+        "item_type_name": "#DOTA_WearableType_Misc",
+        "player_loadout": "1",
+        "portraits": {
+            "icon": {
+                "cameras": {
+                    "Default": {
+                        "PortraitPosition": "480.132111 302.748627 403.187500",
+                        "PortraitAngles": "28.490007 212.830048 0.000000",
+                        "PortraitFOV": "16",
+                        "PortraitFar": "1000"
+                    }
+                },
+                "PortraitLightPosition": "202.699997 -23.150000 308.170013",
+                "PortraitLightAngles": "54.790001 171.699997 0.000000",
+                "PortraitLightFOV": "120",
+                "PortraitLightDistance": "336",
+                "PortraitLightColor": "254 248 242",
+                "PortraitLightScale": "2",
+                "PortraitShadowColor": "74 74 74",
+                "PortraitShadowScale": "1",
+                "PortraitGroundShadowScale": "1.500000",
+                "PortraitAmbientDirection": "-79.070 -84.150 -25.320",
+                "PortraitAmbientColor": "79 108 108",
+                "PortraitAmbientScale": "1",
+                "PortraitSpecularColor": "251 74 84",
+                "PortraitSpecularDirection": "0.000000 0.000000 -1.000000",
+                "PortraitSpecularPower": "16",
+                "PortraitBackgroundColor1": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundColor2": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundColor3": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundColor4": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundTexture": "materials/vgui/econ/item_icon_bg.vmat",
+                "PortraitAnimationActivity": "ACT_DOTA_IDLE",
+                "PortraitAnimationCycle": "0",
+                "PortraitAnimationRate": "1",
+                "PortraitHideHero": "0",
+                "PortraitHideParticles": "0",
+                "PortraitHideDropShadow": "0",
+                "PortraitDesaturateParticles": "0",
+                "PortraitDesaturateHero": "1"
+            }
+        },
+        "tool": {
+            "type": "hero_statue_reforge"
+        },
+        "rarity_color": "#8847ff",
+        "item_name_cn": "2016年秋季勇士令状英雄雕像 III"
+    },
+    "16034": {
+        "name": "Heroic Effigy of Triumph",
+        "prefab": "misc",
+        "capabilities": {
+            "usable_gc": "1",
+            "usable_out_of_game": "1"
+        },
+        "creation_date": "2014-10-06",
+        "image_inventory": "econ/tools/effigystatue_ti4",
+        "item_class": "tool",
+        "item_description": "#DOTA_Item_Desc_Heroic_Effigy",
+        "item_name": "#DOTA_Item_Heroic_Effigy_of_Triumph",
+        "item_rarity": "rare",
+        "item_slot": "heroic_statue",
+        "item_type_name": "#DOTA_WearableType_Misc",
+        "player_loadout": "1",
+        "static_attributes": {
+            "cannot trade": {
+                "attribute_class": "cannot_trade",
+                "value": "1"
+            },
+            "not marketable": {
+                "attribute_class": "not marketable",
+                "value": "1"
+            }
+        },
+        "tool": {
+            "type": "hero_statue_reforge"
+        },
+        "rarity_color": "#4b69ff",
+        "item_name_cn": "凯旋英雄雕像"
+    },
+    "29670": {
+        "name": "Heroic Effigy of Omexe",
+        "prefab": "misc",
+        "capabilities": {
+            "usable_gc": "1",
+            "usable_out_of_game": "1"
+        },
+        "creation_date": "2024-05-22",
+        "event_id": "EVENT_ID_CROWNFALL",
+        "image_inventory": "econ/tools/effigy_statue_crownfall",
+        "item_class": "tool",
+        "item_description": "#DOTA_Item_Desc_Copy_of_Heroic_Effigy_of_Triumph",
+        "item_name": "#DOTA_Item_Heroic_Effigy_of_Omexe",
+        "item_rarity": "rare",
+        "item_slot": "heroic_statue",
+        "player_loadout": "1",
+        "portraits": {
+            "icon": {
+                "cameras": {
+                    "Default": {
+                        "PortraitPosition": "480.132111 302.748627 403.187500",
+                        "PortraitAngles": "28.490007 212.830048 0.000000",
+                        "PortraitFOV": "16",
+                        "PortraitFar": "1000"
+                    }
+                },
+                "PortraitLightPosition": "202.699997 -23.150000 308.170013",
+                "PortraitLightAngles": "54.790001 171.699997 0.000000",
+                "PortraitLightFOV": "120",
+                "PortraitLightDistance": "336",
+                "PortraitLightColor": "254 248 242",
+                "PortraitLightScale": "2",
+                "PortraitShadowColor": "74 74 74",
+                "PortraitShadowScale": "1",
+                "PortraitGroundShadowScale": "1.500000",
+                "PortraitAmbientDirection": "-79.070 -84.150 -25.320",
+                "PortraitAmbientColor": "79 108 108",
+                "PortraitAmbientScale": "1",
+                "PortraitSpecularColor": "251 74 84",
+                "PortraitSpecularDirection": "0.000000 0.000000 -1.000000",
+                "PortraitSpecularPower": "16",
+                "PortraitBackgroundColor1": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundColor2": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundColor3": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundColor4": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundTexture": "materials/vgui/econ/item_icon_bg.vmat",
+                "PortraitAnimationActivity": "ACT_DOTA_IDLE",
+                "PortraitAnimationCycle": "0",
+                "PortraitAnimationRate": "1",
+                "PortraitHideHero": "0",
+                "PortraitHideParticles": "0",
+                "PortraitHideDropShadow": "0",
+                "PortraitDesaturateParticles": "0",
+                "PortraitDesaturateHero": "1"
+            }
+        },
+        "static_attributes": {
+            "cannot trade": "1",
+            "not marketable": "1"
+        },
+        "tool": {
+            "type": "hero_statue_reforge"
+        },
+        "rarity_color": "#4b69ff",
+        "item_name_cn": "欧梅克斯英雄雕像"
+    },
+    "32115": {
+        "name": "Heroic Effigy of The International 2024",
+        "prefab": "misc",
+        "capabilities": {
+            "usable_gc": "1",
+            "usable_out_of_game": "1"
+        },
+        "creation_date": "2024-08-22",
+        "event_id": "EVENT_ID_INTERNATIONAL_2024",
+        "image_inventory": "econ/tools/effigy_statue_ti13",
+        "item_class": "tool",
+        "item_description": "#DOTA_Item_Desc_Heroic_Effigy_of_The_International_2024",
+        "item_name": "#DOTA_Item_Heroic_Effigy_of_The_International_2024",
+        "item_rarity": "rare",
+        "item_slot": "heroic_statue",
+        "player_loadout": "1",
+        "portraits": {
+            "icon": {
+                "cameras": {
+                    "Default": {
+                        "PortraitPosition": "480.132111 302.748627 403.187500",
+                        "PortraitAngles": "28.490007 212.830048 0.000000",
+                        "PortraitFOV": "16",
+                        "PortraitFar": "1000"
+                    }
+                },
+                "PortraitLightPosition": "202.699997 -23.150000 308.170013",
+                "PortraitLightAngles": "54.790001 171.699997 0.000000",
+                "PortraitLightFOV": "120",
+                "PortraitLightDistance": "336",
+                "PortraitLightColor": "254 248 242",
+                "PortraitLightScale": "2",
+                "PortraitShadowColor": "74 74 74",
+                "PortraitShadowScale": "1",
+                "PortraitGroundShadowScale": "1.500000",
+                "PortraitAmbientDirection": "-79.070 -84.150 -25.320",
+                "PortraitAmbientColor": "79 108 108",
+                "PortraitAmbientScale": "1",
+                "PortraitSpecularColor": "251 74 84",
+                "PortraitSpecularDirection": "0.000000 0.000000 -1.000000",
+                "PortraitSpecularPower": "16",
+                "PortraitBackgroundColor1": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundColor2": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundColor3": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundColor4": "1.000000 1.000000 1.000000",
+                "PortraitBackgroundTexture": "materials/vgui/econ/item_icon_bg.vmat",
+                "PortraitAnimationActivity": "ACT_DOTA_IDLE",
+                "PortraitAnimationCycle": "0",
+                "PortraitAnimationRate": "1",
+                "PortraitHideHero": "0",
+                "PortraitHideParticles": "0",
+                "PortraitHideDropShadow": "0",
+                "PortraitDesaturateParticles": "0",
+                "PortraitDesaturateHero": "1"
+            }
+        },
+        "static_attributes": {
+            "cannot trade": "1",
+            "not marketable": "1"
+        },
+        "tool": {
+            "type": "hero_statue_reforge"
+        },
+        "rarity_color": "#4b69ff",
+        "item_name_cn": "2024年国际邀请赛英雄雕像"
+    }
+}
